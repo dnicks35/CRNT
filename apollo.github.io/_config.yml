@@ -101,8 +101,8 @@ sidebars:
 
 
 # needed for sitemap.xml file only
-url: apollo.github.io
-baseurl: /apollo.github.io
+url: https://github.gatech.edu/pages/ehariharan3/apollo.github.io/
+baseurl: /
 
 
 github: [metadata]
