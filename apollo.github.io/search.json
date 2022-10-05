@@ -1,0 +1,225 @@
+---
+title: search
+layout: none
+search: exclude
+---
+
+{% assign pages = site.html_pages | where_exp: "page", "page.search != 'exclude'"  %}
+[
+    {
+        "title": "Intimidating Students",
+        "tags": "",
+        "keywords": "intimidating, intimidation, ultimatum, insulting",
+        "url": "my_advisors_actions_layout.html#intimidating-students",
+        "summary": ""
+    },
+
+    {
+        "title": "Threatening Funding",
+        "tags": "",
+        "keywords": "funding, money, GRA, GTA, pay, threaten, threat",
+        "url": "my_advisors_actions_layout.html#threatening-funding",
+        "summary": ""
+    },
+
+    {
+        "title": "Unreasonable Requests",
+        "tags": "",
+        "keywords": "requests, unreasonable, unsafe, impossible, expectation, hard",
+        "url": "my_advisors_actions_layout.html#unreasonable-requests",
+        "summary": ""
+    },
+
+    {
+        "title": "Retaliation for making complaint against advisor",
+        "tags": "",
+        "keywords": "retaliate, retaliation, complaint, complain, backlash, blowback",
+        "url": "my_advisors_actions_layout.html#retaliation-for-complaining-against-advisor",
+        "summary": ""
+    },
+
+    {
+        "title": "\"Blind siding\" students with a poor review",
+        "tags": "",
+        "keywords": "review, blind side, poor, feedback, unfair",
+        "url": "my_advisors_actions_layout.html#blind-siding-students-with-a-poor-review",
+        "summary": ""
+    },
+
+    {
+        "title": "Negative consequences of a poor review from an advisor",
+        "tags": "",
+        "keywords": "review, poor, negative, consequences, backlash, slander",
+        "url": "my_advisors_actions_layout.html#negative-consequences-of-a-poor-review-from-an-advisor",
+        "summary": ""
+    },
+
+    {
+        "title": "Disagreements about authorship inclusion or order",
+        "tags": "",
+        "keywords": "author, authorship, order, inclusion, paper, conference",
+        "url": "my_advisors_actions_layout.html#disagreements-about-authorship-inclusion-or-order",
+        "summary": ""
+    },
+
+    {
+        "title": "Misappropriating credit for work to another student or post-doc",
+        "tags": "",
+        "keywords": "author, authorship, order, inclusion, paper, conference, misappropriate",
+        "url": "my_advisors_actions_layout.html#misappropriating-credit-for-work-to-another-student-or-post-doc",
+        "summary": ""
+    },
+
+    {
+        "title": "Yelling",
+        "tags": "",
+        "keywords": "yelling, loud, scream, voice, shout",
+        "url": "my_advisors_comments_layout.html#yelling",
+        "summary": ""
+    },
+
+    {
+        "title": "Humiliating/Insulting comments",
+        "tags": "",
+        "keywords": "humiliating, humiliation, degrading, insulting, insult, mean, hurtful",
+        "url": "my_advisors_comments_layout.html#humiliating-comments",
+        "summary": ""
+    },
+
+    {
+        "title": "Racist Comments",
+        "tags": "",
+        "keywords": "Racist, race",
+        "url": "my_advisors_comments_layout.html#racist-comments",
+        "summary": ""
+    },
+
+    {
+        "title": "Misogynistic Comments",
+        "tags": "",
+        "keywords": "Misogynistic, sexist, woman, gender",
+        "url": "my_advisors_comments_layout.html#misogynistic-comments",
+        "summary": ""
+    },
+
+    {
+        "title": "Homophobic, Transphobic, Biphobic, Acephobic, etc.",
+        "tags": "",
+        "keywords": "Homophobic, gay, sexual orientation, trans, lgbtq, bisexual, asexual",
+        "url": "my_advisors_comments_layout.html#homophobic-comments",
+        "summary": ""
+    },
+
+    {
+        "title": "Concern that advisor would say negative things about you to other faculty/staff",
+        "tags": "",
+        "keywords": "Slander, talk, behind back, negative",
+        "url": "my_advisors_comments_layout.html#concern-that-advisor-will-say-negative-things",
+        "summary": ""
+    },
+
+    {
+        "title": "Does not provide disability accomodations",
+        "tags": "",
+        "keywords": "Disability, accomodations, disabled",
+        "url": "workplace_issues_layout.html#does-not-provide-disability-accomodations",
+        "summary": ""
+    },
+
+    {
+        "title": "Excessive expected work hours",
+        "tags": "",
+        "keywords": "Hours, long, late, excessive, exhausted, time off",
+        "url": "workplace_issues_layout.html#excessive-expected-work-hours",
+        "summary": ""
+    },
+
+    {
+        "title": "Unsafe work conditions",
+        "tags": "",
+        "keywords": "Unsafe, conditions, dangerous, harm, harmful, injure, injury",
+        "url": "workplace_issues_layout.html#excessive-expected-work-hours",
+        "summary": ""
+    },
+
+    {
+        "title": "Disagreements about proposal (timeline, content, etc)",
+        "tags": "",
+        "keywords": "Graduation, time, timeline, proposal, propose",
+        "url": "graduation_progress_layout.html#disagreements-about-proposal",
+        "summary": ""
+    },
+
+    {
+        "title": "Disagreements about what is required for dissertation",
+        "tags": "",
+        "keywords": "Dissertation, thesis, requirements, require",
+        "url": "graduation_progress_layout.html#dissertation",
+        "summary": ""
+    },
+
+    {
+        "title": "Disagreements about graduation date",
+        "tags": "",
+        "keywords": "Graduation, time, timeline, date",
+        "url": "graduation_progress_layout.html#disagreements-about-graduation-date",
+        "summary": ""
+    },
+
+    {
+        "title": "Disagreements about classes to take and course performance",
+        "tags": "",
+        "keywords": "Classes, class, course, courses, coursework, grade, performance",
+        "url": "graduation_progress_layout.html#disagreements-about-classes-and-performance",
+        "summary": ""
+    },
+
+    {
+        "title": "Not respecting religious holiday observance",
+        "tags": "",
+        "keywords": "Religion, holiday, observance, vacation",
+        "url": "personal_issues_layout.html#not-respecting-religious-holidays",
+        "summary": ""
+    },
+
+    {
+        "title": "Not respecting personal life choices",
+        "tags": "",
+        "keywords": "Personal, life, choices, marriage, children, child, wife, husband",
+        "url": "personal_issues_layout.html#not-respecting-life-choices",
+        "summary": ""
+    },
+
+    {
+        "title": "Not respecting career choices",
+        "tags": "",
+        "keywords": "Career, future, job, apply, applications",
+        "url": "personal_issues_layout.html#not-respecting-career-choices",
+        "summary": ""
+    },
+
+    {
+        "title": "Disagreements about vacation time",
+        "tags": "",
+        "keywords": "Vacation, off, time off, away, travel",
+        "url": "personal_issues_layout.html#disagreements-about-vacation-time",
+        "summary": ""
+    },
+
+    {
+        "title": "Disagreements about thesis committee members",
+        "tags": "",
+        "keywords": "Thesis, committee, members",
+        "url": "my_advisor_other_layout.html#disagreements-about-thesis-committee-members",
+        "summary": ""
+    },
+
+    {
+        "title": "Disagreements on taking an internship",
+        "tags": "",
+        "keywords": "Intern, internship, experience",
+        "url": "my_advisor_other_layout.html#disagreements-about-thesis-committee-members",
+        "summary": ""
+    }
+
+]
