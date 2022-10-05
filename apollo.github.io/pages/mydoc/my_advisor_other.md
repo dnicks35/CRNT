@@ -62,6 +62,3 @@ folder: mydoc
         </div>
     </div>
 </div>
-<!-- /.panel-group -->
-
-<!-- {% include links.html %} -->

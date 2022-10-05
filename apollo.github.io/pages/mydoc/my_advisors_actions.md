@@ -219,5 +219,3 @@ folder: mydoc
     </div>
 </div>
 <!-- /.panel-group -->
-
-<!-- {% include links.html %} -->
