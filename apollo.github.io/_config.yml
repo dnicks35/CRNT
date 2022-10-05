@@ -101,8 +101,8 @@ sidebars:
 
 
 # needed for sitemap.xml file only
-# url: http://idratherbewriting.com
-# baseurl: /documentation-theme-jekyll
+url: apollo.github.io
+baseurl: /apollo.github.io
 
 
 github: [metadata]
