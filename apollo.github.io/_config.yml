@@ -1,4 +1,4 @@
-repository: tomjoht/documentation-theme-jekyll
+repository: ehariharan3/apollo.github.io
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -102,7 +102,7 @@ sidebars:
 
 # needed for sitemap.xml file only
 url: https://github.gatech.edu/pages/ehariharan3/apollo.github.io/
-baseurl: /
+baseurl: /apollo.github.io/
 
 
 github: [metadata]
