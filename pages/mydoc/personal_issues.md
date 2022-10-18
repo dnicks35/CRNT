@@ -114,3 +114,11 @@ folder: mydoc
         </div>
     </div>
 </div>
+
+<script>
+    if(location.hash !== null && location.hash !== "")
+    {
+        var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
+        $(url + ".collapse").collapse("show");
+    }
+</script>
