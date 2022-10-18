@@ -200,11 +200,12 @@ p.post-meta {font-size: 80%; color: #777;}
     list-style: none;
     font-size: 12px;
     background-color: white;
-    position: fixed;
-    /*top: 40px; /*if you change anything about the nav, you'll prob. need to reset the top and left values here. */
+    position: absolute !important;
+    overflow: hidden !important;
+    margin-top: 0px; /*if you change anything about the nav, you'll prob. need to reset the top and left values here. */
     margin-left:20px;
     z-index: -1;
-    width:230px;
+    width: 230px;
     border-left: 1px solid #dedede;
 }
 
@@ -714,6 +715,7 @@ ol.series li {
 /* not sure if using this ...*/
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
     border-color: #248ec2 !important;
+    overflow: auto;
 }
 
 #mysidebar .nav ul {
@@ -1182,9 +1184,10 @@ h4.panel-title {
     .navbar-fixed-top {
         top: 0;
         border-width: 0 0 1px;
+        /* position: absolute; */
     }
     .navbar-collapse.collapse {
-        display: none!important;
+        display: none !important;
     }
     .navbar-nav {
         float: none!important;
