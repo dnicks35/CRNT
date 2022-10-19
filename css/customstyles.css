@@ -200,12 +200,12 @@ p.post-meta {font-size: 80%; color: #777;}
     list-style: none;
     font-size: 12px;
     background-color: white;
-    position: absolute !important;
+    position: relative !important;
     margin-top: 0px; /*if you change anything about the nav, you'll prob. need to reset the top and left values here. */
     margin-left: 20px;
     z-index: -1;
     
-    width: 230px;
+    width: 235px;
     border-left: 1px solid #dedede;
 }
 
@@ -1183,7 +1183,6 @@ h4.panel-title {
     .navbar-fixed-top {
         top: 0;
         border-width: 0 0 1px;
-        /* position: absolute; */
     }
     .navbar-collapse.collapse {
         display: none !important;
@@ -1201,6 +1200,5 @@ h4.panel-title {
     }
     .collapse.in{
         display:block !important;
-        overflow: hidden;
     }
 }
