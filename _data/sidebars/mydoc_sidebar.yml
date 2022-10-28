@@ -51,6 +51,7 @@ entries:
   - title: Labmate
     url: /labmate_layout.html
     output: web
+    type: homepage
     #   folderitems:
 
     # - title: 6.0 Release notes
