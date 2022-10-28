@@ -37,9 +37,9 @@ folder: mydoc
                     </ol>
                 <p><b>Relevant Policies</b></p>
                     <ul>
-                             <li>5.2 Workplace Violence Policy</li>
-                             <li>USG 8.2.18Code of Conduct</li>
-                             <li>Faculty Handbook</li>
+                             <li><a href="https://policylibrary.gatech.edu/employment/workplace-violence">GT 5.2 Workplace Violence Policy</a></li>
+                             <li><a href="https://www.usg.edu/policymanual/section8/C224/#p8.2.18_personnel_conduct">USG 8.2.18 Code of Conduct</a></li>
+                             <li><a href="https://policylibrary.gatech.edu/faculty_handbook">Faculty Handbook</a></li>
                     </ul>
                 <p><b>Alternative Solutions</b></p>
                         <ul>
