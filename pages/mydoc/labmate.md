@@ -16,7 +16,7 @@ folder: mydoc
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#misappropriation-of-credit">Misappropriation of credit for work to another student or post-doc</a>
             </h4>
         </div>
-        <div id="dmisappropriation-of-credit" class="panel-collapse collapse noCrossRef">
+        <div id="misappropriation-of-credit" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <p><b>Is there a policy against this?</b></p>
                     <p class="answer">YES - Policy XYZ</p>
@@ -224,7 +224,7 @@ folder: mydoc
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#insulting-comments-labmate">Insulting/humiliating comments</a>
             </h4>
         </div>
-        <div id="insulting-comments" class="panel-collapse collapse">
+        <div id="insulting-comments-labmate" class="panel-collapse collapse">
             <div class="panel-body">
                 <p><b>Is there a policy against this?</b></p>
                     <p class="answer">YES - Policy XYZ</p>
