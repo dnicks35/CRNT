@@ -1,6 +1,6 @@
 ---
 title: Departmental Associate Chair for Graduate Studies
-permalink: ResearchAdvisor.html
+permalink: AssociateChair.html
 sidebar: mydoc_sidebar
 # tags: [special_layouts]
 # summary: "You can use an accordion-layout that takes advantage of Bootstrap styling. This is useful for an FAQ page."
