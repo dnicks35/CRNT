@@ -21,7 +21,7 @@ folder: mydoc
 	<li>Prior to reporting/discussing complaint, in writing state a concern of potential retaliation (provide examples of real possible negative outcomes you could face) and request written confirmation that any and all future communication regarding this concern be considered "protected activity" under the university anti-retalliation policy. You may request that a member of ER (HR) is present for the initial discussion of your complaint such that there is a formal confidential and protected record of your conversation.</li>
 	<li>Prior to facilitated conversation with "offending party", request that the proposed possible solutions be run by you in advance. Request understanding of any and all limitations to solution.</li>
     </ul></p>
-<p>&nbsp;</p>
+<p class="answer">&nbsp;</p>
 
 <script>
     if(location.hash !== null && location.hash !== "")
