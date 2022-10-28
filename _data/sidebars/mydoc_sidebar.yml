@@ -19,7 +19,7 @@ entries:
   #     output: pdf
   #     type: frontmatter
 
-  - title: Advisor
+  - title: My Advisor
     output: web
     folderitems:
 
@@ -48,7 +48,7 @@ entries:
       url: /my_advisors_other_layout.html
       output: web
 
-  - title: Labmate
+  - title: A Labmate
     output: web
     folderitems:
 
@@ -60,7 +60,7 @@ entries:
     #   url: /mydoc_release_notes_50.html
     #   output: web, pdf
 
-  - title: Committee
+  - title: My Committee
     output: web
     folderitems:
 
@@ -76,7 +76,7 @@ entries:
     #   url: /mydoc_install_jekyll_on_windows.html
     #   output: web
 
-  - title: Finances
+  - title: My Finances
     output: web
 
     folderitems:
@@ -192,7 +192,7 @@ entries:
 #      url: /mydoc_git_collaboration
 #      output: web, pdf
 
-  - title: Instructor
+  - title: An Instructor
     output: web, pdf
 
     folderitems:
