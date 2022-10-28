@@ -12,16 +12,16 @@ folder: mydoc
 <p><b>Is speaking with them confidential?</b></p>
    <p class="answer">While it may be promised, there is no guarantee that a conversation with this person is confidential. There is no official protection or promise of confidentiality from the university at this level. Promises of confidentiality are worth as much as the word of the faculty serving in this role.</p>
 <p><b>Is speaking with them considered "Protected Activity"?</b></p>
-   <p class="answer">Your communication with administration at this level, whether it be verbal or in writing is not legally considered ‚Äúprotected activity‚Äù by the university. Ie. If you endure negative outcomes from reporting at this level, the university anti-retalliation policy will not protect you.</p>
+   <p class="answer">Your communication with administration at this level, whether it be verbal or in writing is not legally considered ìprotected activityî by the university. Ie. If you endure negative outcomes from reporting at this level, the university anti-retalliation policy will not protect you.</p>
 <p><b>Likely solution?</b></p>
    <p><ul>
-	<li>This solution will be informal. Most likely the process will include a facilitated discussion with you and the ‚Äúoffending‚Äù party. The success of this resolution will hinge upon the administrator‚Äôs conflict-resolution skills, the administrator‚Äôs ability to be fair and unbiased, and both parties' willingness to participate in the suggested resolution. Resolutions at this level are not binding so ‚Äúoffender‚Äù ‚Äúbuy-in‚Äù is critical.</li>
+	<li>This solution will be informal. Most likely the process will include a facilitated discussion with you and the ìoffendingî party. The success of this resolution will hinge upon the administratorís conflict-resolution skills, the administratorís ability to be fair and unbiased, and both parties' willingness to participate in the suggested resolution. Resolutions at this level are not binding so ìoffenderî ìbuy-inî is critical.</li>
 	<li>If departmental resources (co-advisor, TA-funding, facilities, etc.) can be leveraged to generate a potential solution, then this is a good path to pursue.</li>
     </ul></p>
 <p><b>What can I do?</b></p>
    <p><ul>
-	<li>Prior to reporting/discussing complaint, in writing state a concern of potential retaliation (provide examples of real possible negative outcomes you could face) and request written confirmation that any and all future communication regarding this concern be considered ‚Äúprotected activity‚Äù under the university anti-retalliation policy. You may request that a member of ER (HR) is present for the initial discussion of your complaint such that there is a formal confidential and protected record of your conversation.</li>
-	<li>Prior to facilitated conversation with ‚Äúoffending party‚Äù, request that the proposed possible solutions be run by you in advance. Request understanding of any and all limitations to solution.</li>
+	<li>Prior to reporting/discussing complaint, in writing state a concern of potential retaliation (provide examples of real possible negative outcomes you could face) and request written confirmation that any and all future communication regarding this concern be considered ìprotected activityî under the university anti-retalliation policy. You may request that a member of ER (HR) is present for the initial discussion of your complaint such that there is a formal confidential and protected record of your conversation.</li>
+	<li>Prior to facilitated conversation with ìoffending partyî, request that the proposed possible solutions be run by you in advance. Request understanding of any and all limitations to solution.</li>
     </ul></p>
 
 <script>
