@@ -22,7 +22,7 @@ folder: mydoc
    <p>While the Vice Provost is well-informed and has authority, this is not necessarily the same thing as being a student advocate. Some policies may be friendlier to the university than the graduate student, and the Vice Provost will inform you of them plainly and is not likely to provide workarounds. However, the policies that do exist, the Vice Provost for Conflict Resolution will hold to. The Vice Provost will encourage informal, mediation-type approaches rather than formal options; if you have already engaged in such approaches or if you want more formal and/or legal procedures to be enacted, you may want to come prepared to steer the conversation in that direction. A formal claim is likely to help future students more than it helps you; it initiates a slow but more thorough process than the informal route, and prevents your issue from getting lost due to lack of documentation.</p>
 
 <p><b>What can I do?</b></p>
-   <p>The best use of the Vice Provost's office may be to inform the Department Chair about what options they have for addressing a conflict that has already been brought up. Decide in advance if you want to initiate formal conflict resolution processes, or if you’d like to hear about all your options first.</p>
+   <p>The best use of the Vice Provost's office may be to inform the Department Chair about what options they have for addressing a conflict that has already been brought up. Decide in advance if you want to initiate formal conflict resolution processes, or if you'd like to hear about all your options first.</p>
 
 <script>
     if(location.hash !== null && location.hash !== "")
