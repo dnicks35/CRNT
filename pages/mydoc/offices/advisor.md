@@ -1,6 +1,6 @@
 ---
 title: Research Advisor
-permalink: ResearchAdvisor.html
+permalink: research_advisor.html
 sidebar: mydoc_sidebar
 # tags: [special_layouts]
 # summary: "You can use an accordion-layout that takes advantage of Bootstrap styling. This is useful for an FAQ page."

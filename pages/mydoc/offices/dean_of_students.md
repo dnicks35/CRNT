@@ -1,6 +1,6 @@
 ---
 title: Dean of Students Office
-permalink: DeanStudents.html
+permalink: dean_students.html
 sidebar: mydoc_sidebar
 # tags: [special_layouts]
 # summary: "You can use an accordion-layout that takes advantage of Bootstrap styling. This is useful for an FAQ page."

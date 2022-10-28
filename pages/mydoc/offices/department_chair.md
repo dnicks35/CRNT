@@ -1,6 +1,6 @@
 ---
 title: Departmental Chair
-permalink: DepartmentChair.html
+permalink: department_chair.html
 sidebar: mydoc_sidebar
 # tags: [special_layouts]
 # summary: "You can use an accordion-layout that takes advantage of Bootstrap styling. This is useful for an FAQ page."
