@@ -18,20 +18,38 @@ folder: mydoc
         </div>
         <div id="intimidating-students" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                <p><b>Is there a policy against this?</b></p>
-                    <p class="answer">YES - Policy XYZ</p>
-                <p><b>Who should I contact about this issue?</b></p>
-                    <p class="answer">Contact person</p>
+                <p><b>Chain of Command for Conflict Resolution</b></p>
+                    <ul>
+                             <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
+                             <li><a href="department_chair.html">Chair</a></li>
+                             <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
+                             <li><a href="dean_students.html">Dean of Students</a></li>
+                             <li>Ethics Point</li>
+                             <li>College Dean</li>
+                             <li>Vice Provost for Graduate and Postdoctoral Education</li>
+                    </ul>
+                <p><b>Alternate Chain of Command</b></p>
+                    <ul>
+                             <li>Ombudsmen</li>
+                             <li>ER (HR)</li>
+                             <li>GT Police</li>
+                             <li>Title 9</li>
+                    </ul>
+                <p><b>Relevant Policies</b></p>
+                    <ul>
+                             <li>5.2 Workplace Violence Policy</li>
+                             <li>USG 8.2.18Code of Conduct</li>
+                             <li>Faculty Handbook</li>
+                    </ul>
                 <p><b>What is the typical pathway towards conflict resolution?</b></p>
                         <ul>
-                            <li>Step 1</li>
-                            <li>Step 2</li>
+                            <li>Change advisors</li>
+                            <li>Seek therapy/CARE</li>
+                            <li>Leave of absense</li>
+                            <li>Master out</li>
                         </ul>
-                <p><b>What is the typical outcome?</b></p>
+                <p><b>Alternative Solutions</b></p>
                     <p class="answer">Outcome will go here</p>
-                <p><b>How long will this take to get resolved?</b></p>
-                    <p class="answer">1-2 months</p>
-                <p><b>Was this accurate to your experience? </b></p>
             </div>
         </div>
     </div>
