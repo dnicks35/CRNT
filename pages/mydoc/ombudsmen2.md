@@ -1,6 +1,6 @@
 ---
 title: Ombudsmen
-permalink: ombudsmen.html
+permalink: ombudsmen2.html
 sidebar: mydoc_sidebar
 # tags: [special_layouts]
 # summary: "You can use an accordion-layout that takes advantage of Bootstrap styling. This is useful for an FAQ page."
