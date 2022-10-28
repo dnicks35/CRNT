@@ -49,8 +49,9 @@ entries:
       output: web
 
   - title: Labmate
+    url: /labmate_layout.html
     output: web
-    folderitems:
+    #   folderitems:
 
     # - title: 6.0 Release notes
     #   url: /mydoc_release_notes_60.html
