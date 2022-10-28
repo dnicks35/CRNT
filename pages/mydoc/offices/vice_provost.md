@@ -1,5 +1,5 @@
 ---
-title: Vice Provost's Office: Assistant Vice Provost for Advocacy and Conflict-Resolution
+title: "Vice Provost's Office: Assistant Vice Provost for Advocacy and Conflict-Resolution"
 permalink: ViceProvost.html
 sidebar: mydoc_sidebar
 # tags: [special_layouts]
