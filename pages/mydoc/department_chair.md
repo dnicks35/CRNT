@@ -9,7 +9,7 @@ folder: mydoc
 ---
 
 <p>&nbsp;</p>
-<p>This is the head of your department. It should be easy enough to find who this is for your department. If you happen to have an interim chair while a chair search is being conducted this might be a good person to skip over as they will not wield the same power (or won’t be willing to for political reasons) as the actual chair.</p>
+<p>This is the head of your department. It should be easy enough to find who this is for your department. If you happen to have an interim chair while a chair search is being conducted this might be a good person to skip over as they will not wield the same power (or won't be willing to for political reasons) as the actual chair.</p>
 <p><b>Is speaking with them confidential?</b></p>
    <p class="answer">While it may be promised, there is no guarantee that a conversation with this person is confidential. There is no official protection or promise of confidentiality from the university at this level. Promises of confidentiality are worth as much as the word of the faculty serving in this role.</p>
 <p><b>Is speaking with them considered "Protected Activity"?</b></p>
