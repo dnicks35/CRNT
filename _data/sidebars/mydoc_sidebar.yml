@@ -49,14 +49,12 @@ entries:
       output: web
 
   - title: Labmate
-    url: /labmate_layout.html
     output: web
-    type: homepage
-    #   folderitems:
+    folderitems:
 
-    # - title: 6.0 Release notes
-    #   url: /mydoc_release_notes_60.html
-    #   output: web
+    - title: 6.0 Release notes
+      url: /labmate_layout.html
+      output: web
 
     # - title: 5.0 Release notes
     #   url: /mydoc_release_notes_50.html
