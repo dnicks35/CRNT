@@ -19,7 +19,7 @@ folder: mydoc
         <div id="intimidating-students" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <p><b>Chain of Command for Conflict Resolution</b></p>
-                    <ul>
+                    <ol type="1">
                              <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
                              <li><a href="department_chair.html">Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
@@ -27,29 +27,27 @@ folder: mydoc
                              <li>Ethics Point</li>
                              <li>College Dean</li>
                              <li>Vice Provost for Graduate and Postdoctoral Education</li>
-                    </ul>
+                    </ol>
                 <p><b>Alternate Chain of Command</b></p>
-                    <ul>
+                    <ol type="1">
                              <li>Ombudsmen</li>
                              <li>ER (HR)</li>
                              <li>GT Police</li>
                              <li>Title 9</li>
-                    </ul>
+                    </ol>
                 <p><b>Relevant Policies</b></p>
                     <ul>
                              <li>5.2 Workplace Violence Policy</li>
                              <li>USG 8.2.18Code of Conduct</li>
                              <li>Faculty Handbook</li>
                     </ul>
-                <p><b>What is the typical pathway towards conflict resolution?</b></p>
+                <p><b>Alternative Solutions</b></p>
                         <ul>
                             <li>Change advisors</li>
                             <li>Seek therapy/CARE</li>
                             <li>Leave of absense</li>
                             <li>Master out</li>
                         </ul>
-                <p><b>Alternative Solutions</b></p>
-                    <p class="answer">Outcome will go here</p>
             </div>
         </div>
     </div>
