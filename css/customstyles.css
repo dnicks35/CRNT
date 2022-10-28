@@ -402,7 +402,7 @@ ul#mysidebar {
 
 
 .nav ul li a {
-    background-color: #DEEBF7;
+    background-color: #FAFAFA;
 }
 
 .nav li a {
@@ -724,7 +724,7 @@ ol.series li {
 }
 
 #mysidebar .nav ul {
-    background-color: #FAFAFA;
+    background-color: #DEEBF7;
 }
 .nav ul.series li {
     list-style: decimal;
@@ -739,7 +739,7 @@ ol.series li {
 }
 
 .nav ul.series {
-    background-color: #FAFAFA;
+    background-color: #DEEBF7;
 }
 
 /*
