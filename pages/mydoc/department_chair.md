@@ -26,6 +26,7 @@ folder: mydoc
 	<li>Prior to facilitated conversation with "offending party", request that the proposed possible solutions be run by you in advance. Request understanding of any and all limitations to solution.</li>
 	<li>E-mails are public record and therefore inherently non-confidential, but you can use them to your advantage. It is a good idea to write a follow-up e-mail to the chair outlining what was discussed, the plan moving forward, what the chair said they would do to help you, and any next steps you might need to take as well. Ask them to confirm your email or make corrections as needed. This can work to somewhat enforce people to keep their word and also serve as a record of the communication and arrangement should you need to cite it in the future.</li>
     </ul></p>
+<p>&nbsp;</p>
 
 <script>
     if(location.hash !== null && location.hash !== "")
