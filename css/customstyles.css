@@ -413,12 +413,12 @@ ul#mysidebar {
     color: #248EC2;
     font-weight:bold;
     padding-left:20px;
-    background-color: var(--lightblue) /*whitesmoke !important;*/
+    background-color: whitesmoke !important;
 }
 
 
 .nav ul li a {
-    background-color: #FAFAFA;
+    background-color: var(--lightblue) /*#FAFAFA;*/
 }
 
 .nav li a {
