@@ -1,6 +1,6 @@
 ---
 title: Other
-permalink: my_advisors_other_layout.html
+permalink: my_advisor_other_layout.html
 sidebar: mydoc_sidebar
 # tags: [special_layouts]
 keywords: intimidating, threatening, unreasonable, retaliation, review
