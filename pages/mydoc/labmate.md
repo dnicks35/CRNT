@@ -13,10 +13,10 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#misappropriation-of-credit">Misappropriation of credit for work to another student or post-doc</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#misappropriation-of-credit-labmate">Misappropriation of credit for work to another student or post-doc</a>
             </h4>
         </div>
-        <div id="misappropriation-of-credit" class="panel-collapse collapse noCrossRef">
+        <div id="misappropriation-of-credit-labmate" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <p><b>Is there a policy against this?</b></p>
                     <p class="answer">YES - Policy XYZ</p>
