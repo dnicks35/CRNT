@@ -63,13 +63,11 @@ folder: mydoc
             <div class="panel-body">
 		<p>Advisor threatens to fire you, cut your funding, drop your GTA/GRA, etc.</p>
                 <p><b>Relevant Policies</b></p>
-                    <p><a href="https://policylibrary.gatech.edu/employment/termination-procedures" target="_blank">GT 12.9 Termination Procedures</a>
-                    <p><a href="https://policylibrary.gatech.edu/employment/progressive-discipline" target="_blank">GT 5.13 Progressive Discipline</a>
-                    <p><a href="https://policylibrary.gatech.edu/employment/provisional-employment-probationary-period" target="_blank">GT 8.51 Provisional Employment (Probationary Period)</a>
-                    <p><a href="https://policylibrary.gatech.edu/employment/workplace-violence" target="_blank">GT 5.2 Workplace Violence Policy</a>
-                        <ul>
-                             <li>The Workplace Violence Policy prohibits a broad array of actions including bullying, intimidation, physical violence, property damage, and stalking. A committee will be formed to assess the threat once it has been reported to a facilitator (Chief of Police, Assoc. VP of HR, or Gen. Counsel and VP for Ethics and Compliance). They will investigate and develop a response plan.</li>
-                        </ul>
+                    <p><a href="https://policylibrary.gatech.edu/employment/termination-procedures" target="_blank">GT 12.9 Termination Procedures</a></p>
+                    <p><a href="https://policylibrary.gatech.edu/employment/progressive-discipline" target="_blank">GT 5.13 Progressive Discipline</a></p>
+                    <p><a href="https://policylibrary.gatech.edu/employment/provisional-employment-probationary-period" target="_blank">GT 8.51 Provisional Employment (Probationary Period)</a></p>
+                    <p><a href="https://policylibrary.gatech.edu/employment/workplace-violence" target="_blank">GT 5.2 Workplace Violence Policy</a></p>
+                        <p>The Workplace Violence Policy prohibits a broad array of actions including bullying, intimidation, physical violence, property damage, and stalking. A committee will be formed to assess the threat once it has been reported to a facilitator (Chief of Police, Assoc. VP of HR, or Gen. Counsel and VP for Ethics and Compliance). They will investigate and develop a response plan.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                     <ol type="1">
                              <li><a href="associate_chair.html" target="_blank">Associate Chair for Graduate Studies</a></li>
