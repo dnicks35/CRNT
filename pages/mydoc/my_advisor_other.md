@@ -61,7 +61,6 @@ folder: mydoc
             </div>
         </div>
     </div>
-</div>
     <!-- /.panel -->
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -88,7 +87,6 @@ folder: mydoc
             </div>
         </div>
     </div>
-</div>
     <!-- /.panel -->
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -115,7 +113,6 @@ folder: mydoc
             </div>
         </div>
     </div>
-</div>
     <!-- /.panel -->
     <div class="panel panel-default">
         <div class="panel-heading">
