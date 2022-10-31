@@ -18,6 +18,13 @@ folder: mydoc
         </div>
         <div id="intimidating-students" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
+		<p>Advisor intimidates, harasses, and manipulates you to to achieve some desired result.</p>
+                <p><b>Relevant Policies</b></p>
+                    <ul>
+                             <li><a href="https://policylibrary.gatech.edu/employment/workplace-violence">GT 5.2 Workplace Violence Policy</a></li>
+                             <li><a href="https://www.usg.edu/policymanual/section8/C224/#p8.2.18_personnel_conduct">USG 8.2.18 Code of Conduct</a></li>
+                             <li><a href="https://policylibrary.gatech.edu/faculty_handbook">Faculty Handbook</a></li>
+                    </ul>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                     <ol type="1">
                              <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
@@ -35,12 +42,6 @@ folder: mydoc
                              <li>GT Police</li>
                              <li>Title 9</li>
                     </ol>
-                <p><b>Relevant Policies</b></p>
-                    <ul>
-                             <li><a href="https://policylibrary.gatech.edu/employment/workplace-violence">GT 5.2 Workplace Violence Policy</a></li>
-                             <li><a href="https://www.usg.edu/policymanual/section8/C224/#p8.2.18_personnel_conduct">USG 8.2.18 Code of Conduct</a></li>
-                             <li><a href="https://policylibrary.gatech.edu/faculty_handbook">Faculty Handbook</a></li>
-                    </ul>
                 <p><b>Alternative Solutions</b></p>
                         <ul>
                             <li>Change advisors</li>
@@ -60,20 +61,32 @@ folder: mydoc
         </div>
         <div id="threatening-funding" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                <p><b>Is there a policy against this?</b></p>
-                    <p class="answer">YES - Policy XYZ</p>
-                <p><b>Who should I contact about this issue?</b></p>
-                    <p class="answer">Contact person</p>
-                <p><b>What is the typical pathway towards conflict resolution?</b></p>
-                        <ul>
-                            <li>Step 1</li>
-                            <li>Step 2</li>
-                        </ul>
-                <p><b>What is the typical outcome?</b></p>
-                    <p class="answer">Outcome will go here</p>
-                <p><b>How long will this take to get resolved?</b></p>
-                    <p class="answer">1-2 months</p>
-                <p><b>Was this accurate to your experience? </b></p>
+		<p>Advisor threatens to fire you, cut your funding, drop your GTA/GRA, etc.</p>
+                <p><b>Relevant Policies</b></p>
+                    <ul>
+                             <li><a href="https://policylibrary.gatech.edu/employment/termination-procedures" target="_blank">GT 12.9 Termination Procedures</a></li>
+                             <li><a href="https://policylibrary.gatech.edu/employment/progressive-discipline" target="_blank">GT 5.13 Progressive Discipline</a></li>
+                             <li><a href="https://policylibrary.gatech.edu/employment/provisional-employment-probationary-period" target="_blank">GT 8.51 Provisional Employment (Probationary Period)</a></li>
+                             <li><a href="https://policylibrary.gatech.edu/employment/workplace-violence" target="_blank">GT 5.2 Workplace Violence Policy</a></li>
+                             <ul>
+                                      <li>The Workplace Violence Policy prohibits a broad array of actions including bullying, intimidation, physical violence, property damage, and stalking. A committee will be formed to assess the threat once it has been reported to a facilitator (Chief of Police, Assoc. VP of HR, or Gen. Counsel and VP for Ethics and Compliance). They will investigate and develop a response plan.</li>
+                             </ul>
+                    </ul>
+                <p><b>Chain of Command for Conflict Resolution</b></p>
+                    <ol type="1">
+                             <li><a href="associate_chair.html" target="_blank">Associate Chair for Graduate Studies</a></li>
+                             <li><a href="department_chair.html" target="_blank">Chair</a></li>
+                             <li><a href="vice_provost_conflict_resolution.html" target="_blank">Assistant VP for Conflict Resolution</a></li>
+                             <li><a href="dean_students.html" target="_blank">Dean of Students</a></li>
+                             <li>Ethics Point</li>
+                             <li>College Dean</li>
+                             <li>Vice Provost for Graduate and Postdoctoral Education</li>
+                    </ol>
+                <p><b>Alternate Chain of Command</b></p>
+                    <ol type="1">
+                             <li>Ombudsmen</li>
+                             <li>ER (HR)</li>
+                    </ol>
             </div>
         </div>
     </div>
