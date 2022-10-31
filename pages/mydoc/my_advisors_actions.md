@@ -18,7 +18,7 @@ folder: mydoc
         </div>
         <div id="intimidating-students" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p>Advisor intimidates, harasses, and manipulates you to to achieve some desired result.</p>
+		<!-- <p>Advisor intimidates, harasses, and manipulates you to to achieve some desired result.</p> -->
                 <p><b>Relevant Policies</b></p>
                     <ul>
                              <li><a href="https://policylibrary.gatech.edu/employment/workplace-violence">GT 5.2 Workplace Violence Policy</a></li>
