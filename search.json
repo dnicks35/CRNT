@@ -262,5 +262,81 @@ search: exclude
         "url": "my_advisor_other_layout.html#disagreements-about-thesis-committee-members",
         "summary": ""
     }
+    
+    
+    
+    
+    
+    {
+        "title": "Misappropriation of credit for work to another student or post-doc",
+        "tags": "",
+        "keywords": "Author, authorship, order, inclusion, paper, conference, misappropriate",
+        "url": "labmate_layout.html#misappropriation-of-credit",
+        "summary": ""
+    }
+
+    {
+        "title": "Racist comments from labmate",
+        "tags": "",
+        "keywords": "Racist, race, black, hispanic, native, african, mexican, asian",
+        "url": "labmate_layout.html#racist-comments-labmate",
+        "summary": ""
+    }
+
+    {
+        "title": "Misogynistic comments from labmate",
+        "tags": "",
+        "keywords": "Misogynistic, sexist, woman, women, gender, female",
+        "url": "labmate_layout.html#misogynistic-comments-labmate",
+        "summary": ""
+    }
+
+    {
+        "title": "Homophobic, transphobic, biphobic, acephobic, etc. comments from labmate",
+        "tags": "",
+        "keywords": "Homophobic, gay, sexual orientation, trans, lgbtq, bisexual, asexual, homosexual",
+        "url": "labmate_layout.html#homophobic-comments-labmate",
+        "summary": ""
+    }
+
+    {
+        "title": "Intimidation from labmate",
+        "tags": "",
+        "keywords": "Intimidating, intimidation, intimidate, ultimatum, insulting, manipulate, manipulation, bullying, bully, invasive",
+        "url": "labmate_layout.html#intimidation-labmate",
+        "summary": ""
+    }
+
+    {
+        "title": "Harassment/Hostility from labmate",
+        "tags": "",
+        "keywords": "Harassment, unsafe, creepy, creep, uncomfortable, weird, invasive",
+        "url": "labmate_layout.html#harassment-labmate",
+        "summary": ""
+    }
+
+    {
+        "title": "Exclusion from labmate",
+        "tags": "",
+        "keywords": "Exclude, hide, not share, ignore",
+        "url": "labmate_layout.html#exclusion-labmate",
+        "summary": ""
+    }
+
+    {
+        "title": "Stalking, inappropriate or sexual contact from labmate",
+        "tags": "",
+        "keywords": "stalk, sexual, gender, assault, harrassment, touching, touch, grope, massage",
+        "url": "labmate_layout.html#stalking-labmate",
+        "summary": ""
+    }
+
+    {
+        "title": "Insulting/humiliating comments from labmate",
+        "tags": "",
+        "keywords": "Intimidating, intimidation, ultimatum, insulting",
+        "url": "labmate_layout.html#insulting-comments-labmate",
+        "summary": ""
+    }
 
 ]
