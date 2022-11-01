@@ -26,7 +26,7 @@ folder: mydoc
                              <li><a href="department_chair.html">Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
                              <li><a href="dean_students.html">Dean of Students</a></li>
-                             <li><a href="ethicspoint.html">Ethics Point</a></li>
+                             <li><a href="ethicspoint.html">EthicsPoint</a></li>
                              <li><a href="dean_of_college.html">College Dean</a></li>
                              <li><a href="vice_provost_graduate_education.html">Vice Provost for Graduate and Postdoctoral Education</a></li>
                     </ol>
@@ -71,7 +71,7 @@ folder: mydoc
                              <li><a href="department_chair.html">Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
                              <li><a href="dean_students.html">Dean of Students</a></li>
-                             <li><a href="ethicspoint.html">Ethics Point</a></li>
+                             <li><a href="ethicspoint.html">EthicsPoint</a></li>
                              <li><a href="dean_of_college.html">College Dean</a></li>
                              <li><a href="vice_provost_graduate_education.html">Vice Provost for Graduate and Postdoctoral Education</a></li>
                     </ol>
@@ -108,7 +108,7 @@ folder: mydoc
                              <li><a href="department_chair.html">Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
                              <li><a href="dean_students.html">Dean of Students</a></li>
-                             <li><a href="ethicspoint.html">Ethics Point</a></li>
+                             <li><a href="ethicspoint.html">EthicsPoint</a></li>
                              <li><a href="dean_of_college.html">College Dean</a></li>
                              <li><a href="vice_provost_graduate_education.html">Vice Provost for Graduate and Postdoctoral Education</a></li>
                     </ol>
@@ -144,7 +144,7 @@ folder: mydoc
                              <li><a href="department_chair.html">Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
                              <li><a href="dean_students.html">Dean of Students</a></li>
-                             <li><a href="ethicspoint.html">Ethics Point</a></li>
+                             <li><a href="ethicspoint.html">EthicsPoint</a></li>
                              <li><a href="dean_of_college.html">College Dean</a></li>
                              <li><a href="vice_provost_graduate_education.html">Vice Provost for Graduate and Postdoctoral Education</a></li>
                     </ol>
@@ -207,7 +207,7 @@ folder: mydoc
                              <li><a href="department_chair.html">Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
                              <li><a href="dean_students.html">Dean of Students</a></li>
-                             <li><a href="ethicspoint.html">Ethics Point</a></li>
+                             <li><a href="ethicspoint.html">EthicsPoint</a></li>
                              <li><a href="dean_of_college.html">College Dean</a></li>
                              <li><a href="vice_provost_graduate_education.html">Vice Provost for Graduate and Postdoctoral Education</a></li>
                     </ol>
@@ -243,7 +243,7 @@ folder: mydoc
                              <li><a href="department_chair.html">Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
                              <li><a href="dean_students.html">Dean of Students</a></li>
-                             <li><a href="ethicspoint.html">Ethics Point</a></li>
+                             <li><a href="ethicspoint.html">EthicsPoint</a></li>
                              <li><a href="dean_of_college.html">College Dean</a></li>
                              <li><a href="vice_provost_graduate_education.html">Vice Provost for Graduate and Postdoctoral Education</a></li>
                     </ol>
@@ -274,7 +274,7 @@ folder: mydoc
                              <li><a href="department_chair.html">Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
                              <li><a href="dean_students.html">Dean of Students</a></li>
-                             <li><a href="ethicspoint.html">Ethics Point</a></li>
+                             <li><a href="ethicspoint.html">EthicsPoint</a></li>
                              <li><a href="dean_of_college.html">College Dean</a></li>
                              <li><a href="vice_provost_graduate_education.html">Vice Provost for Graduate and Postdoctoral Education</a></li>
                     </ol>
