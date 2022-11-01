@@ -140,7 +140,7 @@ folder: mydoc
         </div>
     </div>
     
-    
+    <!-- This shows how you can make the entire heading clickable, but it then means you can't share the link
     <!-- /.panel -->
     <div class="panel panel-default">
         <div class="panel-heading"><a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-classes-and-performance2">
@@ -167,7 +167,7 @@ folder: mydoc
             </div>
         </div>
     </div>
-    
+    -->
     
 </div>
 
