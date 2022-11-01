@@ -45,7 +45,7 @@ entries:
       output: web
 
     - title: Other
-      url: /my_advisors_other_layout.html
+      url: /my_advisor_other_layout.html
       output: web
 
   - title: Labmate
