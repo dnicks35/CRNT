@@ -139,6 +139,36 @@ folder: mydoc
             </div>
         </div>
     </div>
+    
+    
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-classes-and-performance"><div class="panel-heading">
+            <h4 class="panel-title">
+                Disagreements about classes to take and course performance
+            </h4>
+        </div></a>
+        <div id="disagreements-about-classes-and-performance" class="panel-collapse collapse">
+            <div class="panel-body">
+                <p><b>Is there a policy against this?</b></p>
+                    <p class="answer">YES - Policy XYZ</p>
+                <p><b>Who should I contact about this issue?</b></p>
+                    <p class="answer">Contact person</p>
+                <p><b>What is the typical pathway towards conflict resolution?</b></p>
+                        <ul>
+                            <li>Step 1</li>
+                            <li>Step 2</li>
+                        </ul>
+                <p><b>What is the typical outcome?</b></p>
+                    <p class="answer">Outcome will go here</p>
+                <p><b>How long will this take to get resolved?</b></p>
+                    <p class="answer">1-2 months</p>
+                <p><b>Was this accurate to your experience? </b></p>
+            </div>
+        </div>
+    </div>
+    
+    
 </div>
 
 <script>
