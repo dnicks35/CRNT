@@ -144,9 +144,9 @@ folder: mydoc
     <!-- /.panel -->
     <div class="panel panel-default">
         <div class="panel-heading"><a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-classes-and-performance2">
-
+            <h4 class="panel-title">
                 Disagreements about classes to take and course performance
-
+            </h4>
         </a></div>
         <div id="disagreements-about-classes-and-performance2" class="panel-collapse collapse">
             <div class="panel-body">
