@@ -40,7 +40,7 @@ folder: mydoc
                 <p><b>Relevant Policies</b></p>
                     <p class="answer">There are many different sources of laws, policies, and codes of conduct that might apply to you as a graduate student (half employee/half student). Unfortunately GT does not have a centralized location for all their policies making them particularly hard to find. Furthermore, the university administration in place to help you resolve your conflict are not necessarily aware of relevant university or USG policies that might apply to your conflict and are almost certainly not trained in policy interpretation. Therefore, it can be important for you to know your rights and the policies in place to protect you prior to seeking administrative support resolving a conflict. The following policies have been identified as relevant to your case:</p>
                     <ul>
-                             <li><a href="https://www.usg.edu/policymanual/section8/C224/#p8.2.18_personnel_conduct">USG 8.2.18 Code of Conduct</a></li>
+                             <li><a href="https://www.usg.edu/policymanual/section8/C224/#p8.2.18_personnel_conduct">USG 8.2.18 Personal Conduct</a></li>
                              <li><a href="https://policylibrary.gatech.edu/faculty_handbook">Faculty Handbook</a></li>
                     </ul>
             </div>
@@ -77,7 +77,7 @@ folder: mydoc
                 <p><b>Relevant Policies</b></p>
                     <p class="answer">There are many different sources of laws, policies, and codes of conduct that might apply to you as a graduate student (half employee/half student). Unfortunately GT does not have a centralized location for all their policies making them particularly hard to find. Furthermore, the university administration in place to help you resolve your conflict are not necessarily aware of relevant university or USG policies that might apply to your conflict and are almost certainly not trained in policy interpretation. Therefore, it can be important for you to know your rights and the policies in place to protect you prior to seeking administrative support resolving a conflict. The following policies have been identified as relevant to your case:</p>
                     <ul>
-                             <li><a href="https://www.usg.edu/policymanual/section8/C224/#p8.2.18_personnel_conduct">USG 8.2.18 Code of Conduct</a></li>
+                             <li><a href="https://www.usg.edu/policymanual/section8/C224/#p8.2.18_personnel_conduct">USG 8.2.18 Personal Conduct</a></li>
                              <li><a href="https://policylibrary.gatech.edu/faculty_handbook">Faculty Handbook</a></li>
                     </ul>
             </div>
