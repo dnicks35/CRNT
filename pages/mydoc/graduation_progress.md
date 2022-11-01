@@ -143,12 +143,12 @@ folder: mydoc
     
     <!-- /.panel -->
     <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-classes-and-performance"><div class="panel-heading">
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-classes-and-performance2"><div class="panel-heading">
             <h4 class="panel-title">
                 Disagreements about classes to take and course performance
             </h4>
         </div></a>
-        <div id="disagreements-about-classes-and-performance" class="panel-collapse collapse">
+        <div id="disagreements-about-classes-and-performance2" class="panel-collapse collapse">
             <div class="panel-body">
                 <p><b>Is there a policy against this?</b></p>
                     <p class="answer">YES - Policy XYZ</p>
