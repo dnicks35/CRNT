@@ -12,11 +12,11 @@ folder: mydoc
 
 <p>Your thesis committee is formed before your PhD/MS Proposal. These members agree to what remaining work is sufficient to earn your degree and should be used as a resource when issues arise related to the completion of proposed thesis work.</p>
 
-<p><b>Likely solution?</b></p>
-   <p>Your thesis committee will contact your advisor to discuss your academic progress and progress towards completing the items in your PhD/MS proposal.</p>
-
 <p><b>What can I do?</b></p>
    <p>Contact your thesis committee members if you believe that your academic progress has been hindered in some way. This could be in regards to unsafe working conditions, unreasonable expectations, delayed graduation, etc.</p>
+
+<p><b>Likely solution?</b></p>
+   <p>Your thesis committee will contact your advisor to discuss your academic progress and progress towards completing the items in your PhD/MS proposal.</p>
 
 <p><b>Is speaking with them confidential?</b></p>
    <p class="answer">While it may be promised, there is no guarantee that a conversation with this person is confidential. There is no official protection or promise of confidentiality from the university at this level. Promises of confidentiality are worth as much as the word of the faculty serving in this role. They will likely tell you that for them to assist you with this issue they cannot maintain confidentiality as they will need to have conversations with lower levels of administration as well as possibly the advisor.</p>
