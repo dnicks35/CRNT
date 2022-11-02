@@ -24,28 +24,28 @@ entries:
     folderitems:
 
     - title: My Advisor's Actions
-      url: /my_advisors_actions_layout.html
+      url: /advisor_actions_layout.html
       output: web
       type: homepage
 
     - title: My Advisor's Comments
-      url: /my_advisors_comments_layout.html
+      url: /advisor_comments_layout.html
       output: web
 
     - title: Workplace Issues
-      url: /workplace_issues_layout.html
+      url: /advisor_workplace_issues_layout.html
       output: web
 
     - title: Graduation Progress
-      url: /graduation_progress_layout.html
+      url: /advisor_graduation_progress_layout.html
       output: web
 
     - title: Personal Issues
-      url: /personal_issues_layout.html
+      url: /advisor_personal_issues_layout.html
       output: web
 
     - title: Other
-      url: /my_advisor_other_layout.html
+      url: /advisor_other_layout.html
       output: web
 
   - title: Labmate
