@@ -22,7 +22,7 @@ folder: mydoc
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
-                             <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
+                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
                              <li><a href="thesis_committee.html">Thesis Committee</a></li>
                     </ol>
                 <p><b>Relevant Policies</b></p>
@@ -46,7 +46,7 @@ folder: mydoc
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
-                             <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
+                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
                              <li><a href="thesis_committee.html">Thesis Committee</a></li>
                              <li><a href="department_chair.html">Department Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
@@ -72,7 +72,7 @@ folder: mydoc
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
-                             <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
+                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
                              <li><a href="thesis_committee.html">Thesis Committee</a></li>
                              <li><a href="department_chair.html">Department Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
@@ -98,7 +98,7 @@ folder: mydoc
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
-                             <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
+                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
                              <li><a href="thesis_committee.html">Thesis Committee</a></li>
                              <li><a href="department_chair.html">Department Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
@@ -124,7 +124,7 @@ folder: mydoc
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
-                             <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
+                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
                              <li><a href="thesis_committee.html">Thesis Committee</a></li>
                              <li><a href="department_chair.html">Department Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
