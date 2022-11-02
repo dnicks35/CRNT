@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Conflict Resolution Tool Home"
 sidebar: mydoc_sidebar
 permalink: index.html
 # summary: The landing page
