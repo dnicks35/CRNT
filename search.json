@@ -7,7 +7,7 @@ search: exclude
 {% assign pages = site.html_pages | where_exp: "page", "page.search != 'exclude'"  %}
 [
     {
-        "title": "Intimidating Students",
+        "title": "Intimidating students from advisor",
         "tags": "",
         "keywords": "Intimidating, intimidation, intimidate, ultimatum, insulting, manipulate, manipulation, bullying, bully, harass, harssment",
         "url": "my_advisors_actions_layout.html#intimidating-students",
@@ -15,7 +15,7 @@ search: exclude
     },
 
     {
-        "title": "Threatening Funding",
+        "title": "Threatening funding from advisor",
         "tags": "",
         "keywords": "Funding, money, GRA, GTA, pay, threaten, threat, manipulate",
         "url": "my_advisors_actions_layout.html#threatening-funding",
@@ -23,7 +23,7 @@ search: exclude
     },
 
     {
-        "title": "Unreasonable Requests",
+        "title": "Unreasonable requests from advisor",
         "tags": "",
         "keywords": "Requests, unreasonable, unsafe, impossible, expectation, hard, unrealistic",
         "url": "my_advisors_actions_layout.html#unreasonable-requests",
@@ -39,7 +39,7 @@ search: exclude
     },
 
     {
-        "title": "\"Blind siding\" students with a poor review",
+        "title": "Advisor \"blind siding\" students with a poor review",
         "tags": "",
         "keywords": "Review, blind side, poor, feedback, unfair, unjustified",
         "url": "my_advisors_actions_layout.html#blind-siding-students-with-a-poor-review",
@@ -55,7 +55,7 @@ search: exclude
     },
 
     {
-        "title": "Disagreements about authorship inclusion or order",
+        "title": "Disagreements about authorship inclusion or order from advisor",
         "tags": "",
         "keywords": "Author, authorship, order, inclusion, paper, conference, journal, aknowledgement",
         "url": "my_advisors_actions_layout.html#disagreements-about-authorship-inclusion-or-order",
@@ -63,7 +63,7 @@ search: exclude
     },
 
     {
-        "title": "Misappropriating credit for work to another student or post-doc",
+        "title": "Advisor misappropriating credit for work to another student or post-doc",
         "tags": "",
         "keywords": "Author, authorship, order, inclusion, paper, conference, misappropriate, journal, aknowledgement",
         "url": "my_advisors_actions_layout.html#misappropriating-credit-for-work-to-another-student-or-post-doc",
@@ -71,7 +71,7 @@ search: exclude
     },
 
     {
-        "title": "Yelling",
+        "title": "Yelling from advisor",
         "tags": "",
         "keywords": "Yell, yelling, loud, scream, screaming, voice, shout, harass",
         "url": "my_advisors_comments_layout.html#yelling",
@@ -79,7 +79,7 @@ search: exclude
     },
 
     {
-        "title": "Humiliating/Insulting comments",
+        "title": "Humiliating/Insulting comments from advisor",
         "tags": "",
         "keywords": "Humiliating, humiliation, degrading, insulting, insult, mean, hurtful, harass",
         "url": "my_advisors_comments_layout.html#humiliating-comments",
@@ -87,7 +87,7 @@ search: exclude
     },
 
     {
-        "title": "Racist Comments",
+        "title": "Racist comments from advisor",
         "tags": "",
         "keywords": "Racist, race, black, hispanic, native, african, mexican, asian",
         "url": "my_advisors_comments_layout.html#racist-comments",
@@ -95,7 +95,7 @@ search: exclude
     },
 
     {
-        "title": "Misogynistic Comments",
+        "title": "Misogynistic comments from advisor",
         "tags": "",
         "keywords": "Misogynistic, sexist, woman, women, gender, female",
         "url": "my_advisors_comments_layout.html#misogynistic-comments",
@@ -103,7 +103,7 @@ search: exclude
     },
 
     {
-        "title": "Homophobic, Transphobic, Biphobic, Acephobic, etc.",
+        "title": "Homophobic, transphobic, biphobic, acephobic, etc. comments  from advisor",
         "tags": "",
         "keywords": "Homophobic, gay, sexual orientation, trans, lgbtq, bisexual, asexual, homosexual",
         "url": "my_advisors_comments_layout.html#homophobic-comments",
@@ -119,7 +119,7 @@ search: exclude
     },
 
     {
-        "title": "Does not provide disability accomodations",
+        "title": "Advisor does not provide disability accomodations",
         "tags": "",
         "keywords": "Disability, accomodations, disabled, injury, ability",
         "url": "workplace_issues_layout.html#does-not-provide-disability-accomodations",
@@ -127,7 +127,7 @@ search: exclude
     },
     
     {
-        "title": "Does not acknowledge parental/familial constraints",
+        "title": "Advisor does not acknowledge parental/familial constraints",
         "tags": "",
         "keywords": "Parenting, family, restrictions, reasonable, time, accommodations, leave, sick, school, children, kids, dependents",
         "url": "workplace_issues_layout.html#familial-constraints",
@@ -135,7 +135,7 @@ search: exclude
     },
 
     {
-        "title": "Excessive expected work hours",
+        "title": "Excessive expected work hours from advisor",
         "tags": "",
         "keywords": "Hours, long, late, excessive, exhausted, time off, weekend, night",
         "url": "workplace_issues_layout.html#excessive-expected-work-hours",
@@ -151,7 +151,7 @@ search: exclude
     },
 
     {
-        "title": "Disagreements about proposal (timeline, content, etc)",
+        "title": "Advisor disagreements about proposal (timeline, content, etc)",
         "tags": "",
         "keywords": "Graduation, time, timeline, proposal, propose",
         "url": "graduation_progress_layout.html#disagreements-about-proposal",
@@ -159,7 +159,7 @@ search: exclude
     },
 
     {
-        "title": "Disagreements about what is required for dissertation",
+        "title": "Advisor disagreements about what is required for dissertation",
         "tags": "",
         "keywords": "Dissertation, thesis, requirements, require",
         "url": "graduation_progress_layout.html#disagreements-about-dissertation",
@@ -167,7 +167,7 @@ search: exclude
     },
 
     {
-        "title": "Disagreements about graduation date",
+        "title": "Advisor disagreements about graduation date",
         "tags": "",
         "keywords": "Graduation, time, timeline, date",
         "url": "graduation_progress_layout.html#disagreements-about-graduation-date",
@@ -175,7 +175,7 @@ search: exclude
     },
     
     {
-        "title": "Disagreements about thesis committee members",
+        "title": "Advisor disagreements about thesis committee members",
         "tags": "",
         "keywords": "Thesis, committee, members, dissertation",
         "url": "graduation_progress_layout.html#disagreements-about-thesis-committee-members",
@@ -183,7 +183,7 @@ search: exclude
     },
 
     {
-        "title": "Disagreements about classes to take and course performance",
+        "title": "Advisor disagreements about classes to take and course performance",
         "tags": "",
         "keywords": "Classes, class, course, courses, coursework, grade, performance, schedule",
         "url": "graduation_progress_layout.html#disagreements-about-classes-and-performance",
@@ -191,7 +191,7 @@ search: exclude
     },
 
     {
-        "title": "Not respecting religious holiday observance",
+        "title": "Advisor not respecting religious holiday observance",
         "tags": "",
         "keywords": "Religion, holiday, observance, vacation",
         "url": "personal_issues_layout.html#not-respecting-religious-holidays",
@@ -199,7 +199,7 @@ search: exclude
     },
 
     {
-        "title": "Not respecting personal life choices",
+        "title": "Advisor not respecting personal life choices",
         "tags": "",
         "keywords": "Personal, life, choices, marriage, children, child, wife, husband, partner",
         "url": "personal_issues_layout.html#not-respecting-life-choices",
@@ -207,7 +207,7 @@ search: exclude
     },
 
     {
-        "title": "Not respecting career choices",
+        "title": "Advisor not respecting career choices",
         "tags": "",
         "keywords": "Career, future, job, apply, applications, academia, industry, post-doc",
         "url": "personal_issues_layout.html#not-respecting-career-choices",
@@ -215,7 +215,7 @@ search: exclude
     },
 
     {
-        "title": "Disagreements about vacation time",
+        "title": "Advisor disagreements about vacation time",
         "tags": "",
         "keywords": "Vacation, off, time off, away, travel",
         "url": "personal_issues_layout.html#disagreements-about-vacation-time",
@@ -223,7 +223,7 @@ search: exclude
     },
 
     {
-        "title": "Physical violence",
+        "title": "Physical violence from advisor",
         "tags": "",
         "keywords": "Violence, harm, assault, hit, throw, swing, slap, threaten, fear, afraid, hurt",
         "url": "my_advisor_other_layout.html#physical-violence",
@@ -231,7 +231,7 @@ search: exclude
     },
 
     {
-        "title": "Stalking, inappropriate or sexual contact",
+        "title": "Stalking, inappropriate or sexual contact from advisor",
         "tags": "",
         "keywords": "stalk, sexual, gender, assault, harrassment, touching, touch, grope, massage",
         "url": "my_advisor_other_layout.html#inappropriate-contact",
@@ -240,7 +240,7 @@ search: exclude
 
 
     {
-        "title": "Academically unethical practices",
+        "title": "Academically unethical practices from advisor",
         "tags": "",
         "keywords": "IRB, authorship, falsifying, data",
         "url": "my_advisor_other_layout.html#academically-unethical-practices",
@@ -248,7 +248,7 @@ search: exclude
     },
 
     {
-        "title": "General financial activities that are illegal or unethical",
+        "title": "General financial activities that are illegal or unethical from advisor",
         "tags": "",
         "keywords": "bribe, laundering, money, finance, finances, firing",
         "url": "my_advisor_other_layout.html#unethical-financial-activities",
@@ -256,7 +256,7 @@ search: exclude
     },
 
     {
-        "title": "Disagreements on taking an internship",
+        "title": "Advisor disagreements on taking an internship",
         "tags": "",
         "keywords": "Intern, internship, experience",
         "url": "my_advisor_other_layout.html#disagreements-about-thesis-committee-members",
