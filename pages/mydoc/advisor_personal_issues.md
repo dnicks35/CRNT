@@ -18,13 +18,13 @@ folder: mydoc
         </div>
         <div id="not-respecting-religious-holidays" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p></p>
+		<p>Advisor does not enable you to observe a religious holiday or denigrates it.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
                              <li><a href="dean_students.html">Dean of Students</a></li>
                              <li><a href="ethicspoint.html">EthicsPoint</a></li>
-                             <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
+                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
                              <li><a href="department_chair.html">Department Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
                     </ol>
@@ -45,7 +45,7 @@ folder: mydoc
         </div>
         <div id="not-respecting-life-choices" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p></p>
+		<p>Advisor berates or degrades you concerning your private, personal matters.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
@@ -69,11 +69,11 @@ folder: mydoc
         </div>
         <div id="not-respecting-career-choices" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p></p>
+		<p>Advisor berates or degrades you concerning your personal career choices or does not enable you to take steps to secure the career you want.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
-                             <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
+                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
                              <li><a href="thesis_committee.html">Thesis Committee</a></li>
                              <li><a href="department_chair.html">Department Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
@@ -90,13 +90,13 @@ folder: mydoc
         </div>
         <div id="disagreements-about-vacation-time" class="panel-collapse collapse">
             <div class="panel-body">
-		<p></p>
+		<p>You and your advisor disagree on when to take vacation and for how long or advisor does not allow you to take any meaningful amount of time off from work.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
                              <li><a href="ehs.html">Environmental Health and Safety Department</a></li>
                              <li><a href="ombudsmen.html">Ombudsmen</a></li>
-                             <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
+                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
                              <li><a href="department_chair.html">Department Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
                              <li><a href="dean_students.html">Dean of Students</a></li>
