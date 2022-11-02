@@ -10,7 +10,7 @@ search: exclude
         "title": "Intimidating students from advisor",
         "tags": "",
         "keywords": "Intimidating, intimidation, intimidate, ultimatum, insulting, manipulate, manipulation, bullying, bully, harass, harssment",
-        "url": "my_advisors_actions_layout.html#intimidating-students",
+        "url": "advisor_actions_layout.html#intimidating-students",
         "summary": ""
     },
 
@@ -18,7 +18,7 @@ search: exclude
         "title": "Threatening funding from advisor",
         "tags": "",
         "keywords": "Funding, money, GRA, GTA, pay, threaten, threat, manipulate",
-        "url": "my_advisors_actions_layout.html#threatening-funding",
+        "url": "advisor_actions_layout.html#threatening-funding",
         "summary": ""
     },
 
@@ -26,7 +26,7 @@ search: exclude
         "title": "Unreasonable requests from advisor",
         "tags": "",
         "keywords": "Requests, unreasonable, unsafe, impossible, expectation, hard, unrealistic",
-        "url": "my_advisors_actions_layout.html#unreasonable-requests",
+        "url": "advisor_actions_layout.html#unreasonable-requests",
         "summary": ""
     },
 
@@ -34,7 +34,7 @@ search: exclude
         "title": "Retaliation for making complaint against advisor",
         "tags": "",
         "keywords": "Retaliate, retaliation, complaint, complain, backlash, blowback, consequences, harass",
-        "url": "my_advisors_actions_layout.html#retaliation-for-complaining-against-advisor",
+        "url": "advisor_actions_layout.html#retaliation-for-complaining-against-advisor",
         "summary": ""
     },
 
@@ -42,7 +42,7 @@ search: exclude
         "title": "Advisor \"blind siding\" students with a poor review",
         "tags": "",
         "keywords": "Review, blind side, poor, feedback, unfair, unjustified",
-        "url": "my_advisors_actions_layout.html#blind-siding-students-with-a-poor-review",
+        "url": "advisor_actions_layout.html#blind-siding-students-with-a-poor-review",
         "summary": ""
     },
 
@@ -50,7 +50,7 @@ search: exclude
         "title": "Negative consequences of a poor review from advisor",
         "tags": "",
         "keywords": "Review, poor, negative, consequences, backlash, slander",
-        "url": "my_advisors_actions_layout.html#negative-consequences-of-a-poor-review-from-an-advisor",
+        "url": "advisor_actions_layout.html#negative-consequences-of-a-poor-review-from-an-advisor",
         "summary": ""
     },
 
@@ -58,7 +58,7 @@ search: exclude
         "title": "Disagreements about authorship inclusion or order from advisor",
         "tags": "",
         "keywords": "Author, authorship, order, inclusion, paper, conference, journal, aknowledgement",
-        "url": "my_advisors_actions_layout.html#disagreements-about-authorship-inclusion-or-order",
+        "url": "advisor_actions_layout.html#disagreements-about-authorship-inclusion-or-order",
         "summary": ""
     },
 
@@ -66,7 +66,7 @@ search: exclude
         "title": "Advisor misappropriating credit for work to another student or post-doc",
         "tags": "",
         "keywords": "Author, authorship, order, inclusion, paper, conference, misappropriate, journal, aknowledgement",
-        "url": "my_advisors_actions_layout.html#misappropriating-credit-for-work-to-another-student-or-post-doc",
+        "url": "advisor_actions_layout.html#misappropriating-credit-for-work-to-another-student-or-post-doc",
         "summary": ""
     },
 
@@ -74,7 +74,7 @@ search: exclude
         "title": "Yelling from advisor",
         "tags": "",
         "keywords": "Yell, yelling, loud, scream, screaming, voice, shout, harass",
-        "url": "my_advisors_comments_layout.html#yelling",
+        "url": "advisor_comments_layout.html#yelling",
         "summary": ""
     },
 
@@ -82,7 +82,7 @@ search: exclude
         "title": "Humiliating/Insulting comments from advisor",
         "tags": "",
         "keywords": "Humiliating, humiliation, degrading, insulting, insult, mean, hurtful, harass",
-        "url": "my_advisors_comments_layout.html#humiliating-comments",
+        "url": "advisor_comments_layout.html#humiliating-comments",
         "summary": ""
     },
 
@@ -90,7 +90,7 @@ search: exclude
         "title": "Racist comments from advisor",
         "tags": "",
         "keywords": "Racist, race, black, hispanic, native, african, mexican, asian",
-        "url": "my_advisors_comments_layout.html#racist-comments",
+        "url": "advisor_comments_layout.html#racist-comments",
         "summary": ""
     },
 
@@ -98,7 +98,7 @@ search: exclude
         "title": "Misogynistic comments from advisor",
         "tags": "",
         "keywords": "Misogynistic, sexist, woman, women, gender, female",
-        "url": "my_advisors_comments_layout.html#misogynistic-comments",
+        "url": "advisor_comments_layout.html#misogynistic-comments",
         "summary": ""
     },
 
@@ -106,7 +106,7 @@ search: exclude
         "title": "Homophobic, transphobic, biphobic, acephobic, etc. comments  from advisor",
         "tags": "",
         "keywords": "Homophobic, gay, sexual orientation, trans, lgbtq, bisexual, asexual, homosexual",
-        "url": "my_advisors_comments_layout.html#homophobic-comments",
+        "url": "advisor_comments_layout.html#homophobic-comments",
         "summary": ""
     },
 
@@ -114,7 +114,7 @@ search: exclude
         "title": "Concern that advisor would say negative things about you to other faculty/staff",
         "tags": "",
         "keywords": "Slander, talk, behind back, negative, smear, retalliate, prevent",
-        "url": "my_advisors_comments_layout.html#concern-that-advisor-will-say-negative-things",
+        "url": "advisor_comments_layout.html#concern-that-advisor-will-say-negative-things",
         "summary": ""
     },
 
@@ -122,7 +122,7 @@ search: exclude
         "title": "Advisor does not provide disability accomodations",
         "tags": "",
         "keywords": "Disability, accomodations, disabled, injury, ability",
-        "url": "workplace_issues_layout.html#does-not-provide-disability-accomodations",
+        "url": "advisor_workplace_issues_layout.html#does-not-provide-disability-accomodations",
         "summary": ""
     },
     
@@ -130,7 +130,7 @@ search: exclude
         "title": "Advisor does not acknowledge parental/familial constraints",
         "tags": "",
         "keywords": "Parenting, family, restrictions, reasonable, time, accommodations, leave, sick, school, children, kids, dependents",
-        "url": "workplace_issues_layout.html#familial-constraints",
+        "url": "advisor_workplace_issues_layout.html#familial-constraints",
         "summary": ""
     },
 
@@ -138,7 +138,7 @@ search: exclude
         "title": "Excessive expected work hours from advisor",
         "tags": "",
         "keywords": "Hours, long, late, excessive, exhausted, time off, weekend, night",
-        "url": "workplace_issues_layout.html#excessive-expected-work-hours",
+        "url": "advisor_workplace_issues_layout.html#excessive-expected-work-hours",
         "summary": ""
     },
 
@@ -146,7 +146,7 @@ search: exclude
         "title": "Unsafe work conditions",
         "tags": "",
         "keywords": "Unsafe, conditions, dangerous, harm, harmful, injure, injury",
-        "url": "workplace_issues_layout.html#excessive-expected-work-hours",
+        "url": "advisor_workplace_issues_layout.html#excessive-expected-work-hours",
         "summary": ""
     },
 
@@ -154,7 +154,7 @@ search: exclude
         "title": "Advisor disagreements about proposal (timeline, content, etc)",
         "tags": "",
         "keywords": "Graduation, time, timeline, proposal, propose",
-        "url": "graduation_progress_layout.html#disagreements-about-proposal",
+        "url": "advisor_graduation_progress_layout.html#disagreements-about-proposal",
         "summary": ""
     },
 
@@ -162,7 +162,7 @@ search: exclude
         "title": "Advisor disagreements about what is required for dissertation",
         "tags": "",
         "keywords": "Dissertation, thesis, requirements, require",
-        "url": "graduation_progress_layout.html#disagreements-about-dissertation",
+        "url": "advisor_graduation_progress_layout.html#disagreements-about-dissertation",
         "summary": ""
     },
 
@@ -170,7 +170,7 @@ search: exclude
         "title": "Advisor disagreements about graduation date",
         "tags": "",
         "keywords": "Graduation, time, timeline, date",
-        "url": "graduation_progress_layout.html#disagreements-about-graduation-date",
+        "url": "advisor_graduation_progress_layout.html#disagreements-about-graduation-date",
         "summary": ""
     },
     
@@ -178,7 +178,7 @@ search: exclude
         "title": "Advisor disagreements about thesis committee members",
         "tags": "",
         "keywords": "Thesis, committee, members, dissertation",
-        "url": "graduation_progress_layout.html#disagreements-about-thesis-committee-members",
+        "url": "advisor_graduation_progress_layout.html#disagreements-about-thesis-committee-members",
         "summary": ""
     },
 
@@ -186,7 +186,7 @@ search: exclude
         "title": "Advisor disagreements about classes to take and course performance",
         "tags": "",
         "keywords": "Classes, class, course, courses, coursework, grade, performance, schedule",
-        "url": "graduation_progress_layout.html#disagreements-about-classes-and-performance",
+        "url": "advisor_graduation_progress_layout.html#disagreements-about-classes-and-performance",
         "summary": ""
     },
 
@@ -194,7 +194,7 @@ search: exclude
         "title": "Advisor not respecting religious holiday observance",
         "tags": "",
         "keywords": "Religion, holiday, observance, vacation",
-        "url": "personal_issues_layout.html#not-respecting-religious-holidays",
+        "url": "advisor_personal_issues_layout.html#not-respecting-religious-holidays",
         "summary": ""
     },
 
@@ -202,7 +202,7 @@ search: exclude
         "title": "Advisor not respecting personal life choices",
         "tags": "",
         "keywords": "Personal, life, choices, marriage, children, child, wife, husband, partner",
-        "url": "personal_issues_layout.html#not-respecting-life-choices",
+        "url": "advisor_personal_issues_layout.html#not-respecting-life-choices",
         "summary": ""
     },
 
@@ -210,7 +210,7 @@ search: exclude
         "title": "Advisor not respecting career choices",
         "tags": "",
         "keywords": "Career, future, job, apply, applications, academia, industry, post-doc",
-        "url": "personal_issues_layout.html#not-respecting-career-choices",
+        "url": "advisor_personal_issues_layout.html#not-respecting-career-choices",
         "summary": ""
     },
 
@@ -218,7 +218,7 @@ search: exclude
         "title": "Advisor disagreements about vacation time",
         "tags": "",
         "keywords": "Vacation, off, time off, away, travel",
-        "url": "personal_issues_layout.html#disagreements-about-vacation-time",
+        "url": "advisor_personal_issues_layout.html#disagreements-about-vacation-time",
         "summary": ""
     },
 
@@ -226,7 +226,7 @@ search: exclude
         "title": "Physical violence from advisor",
         "tags": "",
         "keywords": "Violence, harm, assault, hit, throw, swing, slap, threaten, fear, afraid, hurt",
-        "url": "my_advisor_other_layout.html#physical-violence",
+        "url": "advisor_other_layout.html#physical-violence",
         "summary": ""
     },
 
@@ -234,7 +234,7 @@ search: exclude
         "title": "Stalking, inappropriate or sexual contact from advisor",
         "tags": "",
         "keywords": "stalk, sexual, gender, assault, harrassment, touching, touch, grope, massage",
-        "url": "my_advisor_other_layout.html#inappropriate-contact",
+        "url": "advisor_other_layout.html#inappropriate-contact",
         "summary": ""
     },
 
@@ -243,7 +243,7 @@ search: exclude
         "title": "Academically unethical practices from advisor",
         "tags": "",
         "keywords": "IRB, authorship, falsifying, data",
-        "url": "my_advisor_other_layout.html#academically-unethical-practices",
+        "url": "advisor_other_layout.html#academically-unethical-practices",
         "summary": ""
     },
 
@@ -251,7 +251,7 @@ search: exclude
         "title": "General financial activities that are illegal or unethical from advisor",
         "tags": "",
         "keywords": "bribe, laundering, money, finance, finances, firing",
-        "url": "my_advisor_other_layout.html#unethical-financial-activities",
+        "url": "advisor_other_layout.html#unethical-financial-activities",
         "summary": ""
     },
 
@@ -259,7 +259,7 @@ search: exclude
         "title": "Advisor disagreements on taking an internship",
         "tags": "",
         "keywords": "Intern, internship, experience",
-        "url": "my_advisor_other_layout.html#disagreements-about-thesis-committee-members",
+        "url": "advisor_other_layout.html#disagreements-about-thesis-committee-members",
         "summary": ""
     },
     
