@@ -11,9 +11,9 @@ folder: mydoc
 <p>&nbsp;</p>
 
 <p><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></p>
-<p><a href="associate_chair.html">Associate Chair for Graduate Studies</a></p>
 <p><a href="dean_of_college.html">College Dean</a></p>
 <p><a href="dean_students.html">Dean of Students</a></p>
+<p><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></p>
 <p><a href="department_chair.html">Department Chair</a></p>
 <p><a href="ehs.html">Environmental Health and Safety Department</a></p>
 <p><a href="ethicspoint.html">EthicsPoint</a></p>
