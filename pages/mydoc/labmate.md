@@ -18,14 +18,14 @@ folder: mydoc
         </div>
         <div id="misappropriation-of-credit" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p></p>
+		<p>You, a peer, colleague, and/or collaborator are not recieveing the proper credit for your work, not properly  or efforts or are being unduly blamed for issues.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
                              <li><a href="research_advisor.html">Research Advisor</a></li>
                              <li><a href="rcr.html">Responsible Conduct of Research</a></li>
-                             <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
-                             <li><a href="department_chair.html">Chair</a></li>
+                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
+                             <li><a href="department_chair.html">Department Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
                     </ol>
                 <p><b>Relevant Policies</b></p>
@@ -45,15 +45,15 @@ folder: mydoc
         </div>
         <div id="racist-comments-labmate" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p></p>
+		<p>Peer makes demeaning comments regarding your race, identity, or ethnicity to you or others.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
                              <li><a href="research_advisor.html">Research Advisor</a></li>
                              <li><a href="student_integrity.html">Office of Student Integrity</a></li>
                              <li><a href="dean_students.html">Dean of Students</a></li>
-                             <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
-                             <li><a href="department_chair.html">Chair</a></li>
+                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
+                             <li><a href="department_chair.html">Department Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
                     </ol>
                 <p><b>Relevant Policies</b></p>
@@ -73,7 +73,7 @@ folder: mydoc
         </div>
         <div id="misogynistic-comments-labmate" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p></p>
+		<p>Peer makes demeaning comments and/or shows predujice against women.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
@@ -82,8 +82,8 @@ folder: mydoc
                              <li><a href="student_integrity.html">Office of Student Integrity</a></li>
                              <li><a href="title_ix.html">Title 9</a></li>
                              <li><a href="dean_students.html">Dean of Students</a></li>
-                             <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
-                             <li><a href="department_chair.html">Chair</a></li>
+                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
+                             <li><a href="department_chair.html">Department Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
                     </ol>
                 <p><b>Alternate Chain of Command</b></p>
@@ -107,7 +107,7 @@ folder: mydoc
         </div>
         <div id="homophobic-comments-labmate" class="panel-collapse collapse">
             <div class="panel-body">
-		<p></p>
+		<p>Peer makes degrading and/or predujiced comments about your sexual orientation or identity.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
@@ -116,8 +116,8 @@ folder: mydoc
                              <li><a href="student_integrity.html">Office of Student Integrity</a></li>
                              <li><a href="title_ix.html">Title 9</a></li>
                              <li><a href="dean_students.html">Dean of Students</a></li>
-                             <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
-                             <li><a href="department_chair.html">Chair</a></li>
+                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
+                             <li><a href="department_chair.html">Department Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
                     </ol>
                 <p><b>Alternate Chain of Command</b></p>
@@ -141,15 +141,15 @@ folder: mydoc
         </div>
         <div id="intimidation-labmate" class="panel-collapse collapse">
             <div class="panel-body">
-		<p></p>
+		<p>Peer uses rank, threats, and/or physical, verbal, or emotional intimidation to sway your actions.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
                              <li><a href="research_advisor.html">Research Advisor</a></li>
                              <li><a href="student_integrity.html">Office of Student Integrity</a></li>
                              <li><a href="dean_students.html">Dean of Students</a></li>
-                             <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
-                             <li><a href="department_chair.html">Chair</a></li>
+                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
+                             <li><a href="department_chair.html">Department Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
                     </ol>
                 <p><b>Relevant Policies</b></p>
@@ -169,7 +169,7 @@ folder: mydoc
         </div>
         <div id="harassment-labmate" class="panel-collapse collapse">
             <div class="panel-body">
-		<p></p>
+		<p>Peer harasses you, treats you inappropriately, and/or makes you feel unsafe or uncomfortable.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
@@ -178,8 +178,8 @@ folder: mydoc
                              <li><a href="student_integrity.html">Office of Student Integrity</a></li>
                              <li><a href="title_ix.html">Title 9</a></li>
                              <li><a href="dean_students.html">Dean of Students</a></li>
-                             <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
-                             <li><a href="department_chair.html">Chair</a></li>
+                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
+                             <li><a href="department_chair.html">Department Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
                     </ol>
                 <p><b>Relevant Policies</b></p>
@@ -199,15 +199,15 @@ folder: mydoc
         </div>
         <div id="exclusion-labmate" class="panel-collapse collapse">
             <div class="panel-body">
-		<p></p>
+		<p>Peer excludes you from lab/work activities, socials, discussion, etc.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
                              <li><a href="research_advisor.html">Research Advisor</a></li>
                              <li><a href="student_integrity.html">Office of Student Integrity</a></li>
                              <li><a href="dean_students.html">Dean of Students</a></li>
-                             <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
-                             <li><a href="department_chair.html">Chair</a></li>
+                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
+                             <li><a href="department_chair.html">Department Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
                     </ol>
                 <p><b>Relevant Policies</b></p>
@@ -228,7 +228,7 @@ folder: mydoc
         </div>
         <div id="stalking-labmate" class="panel-collapse collapse">
             <div class="panel-body">
-		<p></p>
+		<p>Peer engages in inappropriate physical or virtual conduct, particularly of a sexual nature, towards you and/or others.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
@@ -237,8 +237,8 @@ folder: mydoc
                              <li><a href="student_integrity.html">Office of Student Integrity</a></li>
                              <li><a href="title_ix.html">Title 9</a></li>
                              <li><a href="dean_students.html">Dean of Students</a></li>
-                             <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
-                             <li><a href="department_chair.html">Chair</a></li>
+                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
+                             <li><a href="department_chair.html">Department Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
                     </ol>
                 <p><b>Relevant Policies</b></p>
@@ -259,15 +259,15 @@ folder: mydoc
         </div>
         <div id="insulting-comments-labmate" class="panel-collapse collapse">
             <div class="panel-body">
-		<p></p>
+		<p>Peer publically or privately insults or humiliates you. Peer says rude, mean, and/or degrading things to and about you.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
                              <li><a href="research_advisor.html">Research Advisor</a></li>
                              <li><a href="student_integrity.html">Office of Student Integrity</a></li>
                              <li><a href="dean_students.html">Dean of Students</a></li>
-                             <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
-                             <li><a href="department_chair.html">Chair</a></li>
+                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
+                             <li><a href="department_chair.html">Department Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
                     </ol>
                 <p><b>Relevant Policies</b></p>

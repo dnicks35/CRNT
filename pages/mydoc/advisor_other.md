@@ -18,7 +18,7 @@ folder: mydoc
         </div>
         <div id="physical-violence" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p></p>
+		<p>Advisor threatens you with physical violence, encourages others to act violently to you, or is physical violent towards themselves.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
@@ -42,7 +42,7 @@ folder: mydoc
         </div>
         <div id="inappropriate-contact" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p></p>
+		<p>Advisor engages in inappropriate physical or virtual conduct, particularly of a sexual nature, towards you and/or your peers.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
@@ -68,12 +68,12 @@ folder: mydoc
         </div>
         <div id="academically-unethical-practices" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p></p>
+		<p>Advisor is partaking in unethical academic or research activities or is encouraging you to do so. Activities may include falsifying data, cherry-picking results, skipping IRB requirements, etc.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
                              <li><a href="rcr.html">Responsible Conduct of Research</a></li>
-                             <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
+                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
                     </ol>
                 <p><b>Relevant Policies</b></p>
@@ -93,7 +93,7 @@ folder: mydoc
         </div>
         <div id="unethical-financial-activities" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p></p>
+		<p>Advisor is participating in or attempting to make you participate in illegal or unethical financial activities such as withholding pay, taking or giving bribes, money laundering, etc.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
@@ -120,11 +120,11 @@ folder: mydoc
         </div>
         <div id="disagreements-on-internship" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p></p>
+		<p>Advisor actions hinder you from pursuing an internship or work arrangements. You and your advisor disagree on when and/or what type of internship you can pursue.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
-                             <li><a href="associate_chair.html">Associate Chair for Graduate Studies</a></li>
+                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
                              <li><a href="thesis_committee.html">Thesis Committee</a></li>
                              <li><a href="department_chair.html">Department Chair</a></li>
                              <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
