@@ -7,6 +7,14 @@ search: exclude
 {% assign pages = site.html_pages | where_exp: "page", "page.search != 'exclude'"  %}
 [
     {
+        "title": "Policy Library",
+        "tags": "",
+        "keywords": "policy, policies",
+        "url": "policies.html",
+        "summary": ""
+    },
+
+    {
         "title": "Intimidating students from advisor",
         "tags": "",
         "keywords": "Intimidating, intimidation, intimidate, ultimatum, insulting, manipulate, manipulation, bullying, bully, harass, harssment",
