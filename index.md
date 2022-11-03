@@ -21,6 +21,6 @@ search: exclude
 <p class="answer">
     <ul>
         <li><a href="office_directory.html">Office Directory</a></li>
-        <!-- <li><a href="policy_directory.html">Policy Directory</a></li> -->
+        <li><a href="policies.html">Relevant Policies</a></li>
     </ul>
 </p>
