@@ -1,5 +1,5 @@
 ---
-title: Policies
+title: Relevant Policies
 permalink: policies.html
 sidebar: mydoc_sidebar
 # tags: [special_layouts]
