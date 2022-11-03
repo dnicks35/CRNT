@@ -218,20 +218,6 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#title_ix">Title IX</a>
-            </h4>
-        </div>
-        <div id="title_ix" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-                <p><b>Policy Description</b></p>
-                    <p class="answer">Title IX is a federal law, not a GT policy. Title IX prohibits institutions that receive federal funding from practicing gender discrimination in educational programs or activities. There are no specific Title IX policies at GT, but several policies cover Title IX issues, such as Sexual Misconduct Policy, USG Policy to Prohibit Discrimination and Harassment, Equal Opportunity, Nondiscrimination, and Anti-Harassment Policy, Retaliation Policy, Student Code of Conduct, and Employee Code of Conduct. The Title IX Office is trained to handle the special cases of these policies when they specifically relate to gender-based discrimination.</p>
-            </div>
-        </div>
-    </div>
-    <!-- /.panel -->
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#non-discrimination">Non-Discrimination and Anti-Harassment Policy</a>
             </h4>
         </div>
@@ -254,42 +240,65 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#workplace_violence">Workplace Violence Policy</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#scientific_misconduct">Policy for Responding to Allegations of Scientific or Other Scholarly Misconduct</a>
             </h4>
         </div>
-        <div id="workplace_violence" class="panel-collapse collapse noCrossRef">
+        <div id="scientific_misconduct" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <p><b>Summary</b></p>
-                    <p class="answer">The Workplace Violence Policy prohibits a broad array of actions including bullying, intimidation, physical violence, property damage, and stalking. A committee will be formed to assess the threat once it has been reported to a facilitator (Chief of Police, Assoc. VP of HR, or Gen. Counsel and VP for Ethics and Compliance). They will investigate and develop a response plan.</p>
+                    <p class="answer">This policy details the entire process regarding scholarly conduct accusations. Report observed, suspected, or apparent misconduct in science to the Provost or Executive Vice-President for Research. If you are unsure whether a suspected incident constitutes scholarly misconduct, you may call the VP-LA&RM to discuss the suspected misconduct informally.</p>
                 <p><b>Policy Description</b></p>
-                    <p class="answer">"Threatening behavior or violence on the campus of Georgia Tech, satellite locations, and sanctioned functions off campus are prohibited and will not be tolerated. Violence, for the purpose of this policy includes, but is not limited to: intimidation, bullying, stalking, threatening behavior, physical attack, property damage, or domestic and family violence."
-                        <ul> 
-                            <li><b>Bullying</b>
-                                <p>Offensive and malicious behavior that undermines an individual or group through persistently negative attacks. The behavior may include an element of vindictiveness, and is intended to undermine, patronize, humiliate, intimidate or demean the recipient.</p>
-                            </li>
-                            <li><b>Domestic, Relationship, and/or Family Violence</b>
-                                <p>Abusive or violent behavior, including threats and intimidation, between people who have an ongoing or a prior intimate relationship (including people who are married, live together or date, or who have been married, lived together or dated) or between family members.</p>
-                            </li>
-                            <li><b>Intimidation</b>
-                                <p>Behavior intended to frighten, coerce, or induce duress.</p>
-                            </li>
-                            <li><b>Physical Attack</b>
-                                <p>Unwanted or hostile physical contact including, but not limited to, hitting, fighting with, shoving, restraining, or throwing objects at a person.</p>
-                            </li>
-                            <li><b>Property Damage</b>
-                                <p>Intentional damage to property, including property owned by Georgia Tech or by employees, students, clients, visitors, or vendors.</p>
-                            </li>
-                            <li><b>Stalking</b>
-                                <p>Following a person, placing a person under surveillance, or contacting a person for the purpose of harassment or intimidation.</p>
-                            </li>
-                            <li><b>Threatening Behavior</b>
-                                <p>The expression of intent to cause physical or mental harm. An expression constitutes a threat without regard to whether the party communicating the threat has the present ability to carry out the threat and without regard to whether the expression is contingent, conditional, or future.</p>
-                            </li>
-                            <li><b>Workplace Violence</b>
-                                <p>Acts of violence committed by or against any individual on the campus of Georgia Tech, at satellite locations, or at sanctioned functions off campus that involve students, faculty, staff, vendors, clients, and/or visitors.</p>
-                            </li>
-                        </ul>
-                    </p>
+                    <p class="answer">This policy and the associated procedures apply to all individuals at Georgia Tech engaged in research or other scholarly activity regardless of the source of funding for the activity including but not limited to funding or proposed funding from federal sources (see References 1 and 2). This policy applies to any person paid by, under the control of, or affiliated with the institution, such as scientists, trainees, technicians and other staff members, students, fellows, guest researchers, or collaborators with or at Georgia Tech. The policy and associated procedures will normally be followed when an allegation of possible misconduct in science is received by an institutional official. Particular circumstances in an individual case may dictate variation from the normal procedure deemed in the best interests of Georgia Tech and the U.S. Public Health Service (PHS). Any change from normal procedures also must ensure fair treatment to the subject of the inquiry or investigation. Any significant variation should be approved in advance by the Provost of Georgia Tech.</p>
+                    <p class="answer">This policy and the procedural requirements involved in handling allegations of scientific or other scholarly misconduct are intended to be sensitive to the varied demands made on those who conduct research and other scholarly activities, those who are accused of misconduct, and those who report apparent misconduct in good faith.</p>
+                    <p class="answer">This policy does not replace or supersede the Academic Honor Code and Student Code of Conduct found in the Georgia Institute of Technology General Catalog (see Reference 3) for students subject to that policy, except when the alleged scientific or other scholarly misconduct occurs in sponsor supported activities.</p>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#rcr_policy">Responsible Conduct of Research Compliance Policy</a>
+            </h4>
+        </div>
+        <div id="rcr_policy" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <p><b>Summary</b></p>
+                    <p class="answer">All grad students involved in research activities must receive formal education in research ethics. Refer to GT 5.7 Policy for Responding to Allegations of Scientific or Other Scholarly Misconduct for details regarding ethics inquiries.</p>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#satisfactory_academic_progress">Satisfactory Academic Progress</a>
+            </h4>
+        </div>
+        <div id="satisfactory_academic_progress" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <p><b>Summary</b></p>
+                    <p class="answer">Grad students must complete their degree in 12 semesters. Any longer than that they must apply for any extension from their department.</p>
+                <p><b>Policy Description</b></p>
+                    <p class="answer">Maximum time frames for graduate studies are: master's - 6 semesters; doctoral - 12 semesters. Graduate students whose programs of study cannot be accomplished within these maximums must furnish documentation from their department to support any extension. OSFA knows and understands that several factors contribute to a graduate student's academic progress. The standard we utilize looks at hours attempted and terms enrolled, but we recognize that your graduate/thesis advisor is the authority that we need to depend upon to help us properly document our files and assess your situation appropriately.</p>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#sexual_misconduct">Sexual Misconduct Policy</a>
+            </h4>
+        </div>
+        <div id="sexual_misconduct" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <p><b>Summary</b></p>
+                    <p class="answer">This policy specifically covers sexual misconduct <b>by students</b>. This policy prohibits actions such as sexual harassment, sexual assault, domestic violence, stalking, dating violence, intimate partner violence, sexual exploitation, and retaliation. This policy is enforced by the Title IX office. Report to any Title IX Coordinator for a formal investigation or any other Responsible Employee of GT. Report to GTPD to open a criminal investigation. This can also be reported to Confidential Employees, but they are required by law to report the incident and the date/time at which it occurred. In some cases, they must fully report the details in order to maintain campus safety. Confidential Employees will not start an investigation.</p>
+                <p><b>Policy Description</b></p>
+                    <p class="answer">"This policy addresses the process and procedures for addressing complaints of sexual misconduct committed by students.  The process and procedures for claims of sexual misconduct committed by employees are addressed in the Equal Opportunity, Nondiscrimination, and Anti-Harassment Policy issued by Human Resources and in the USG's Human Resources Administrative Practice (HRAP) Manual (Prohibit Discrimination and Harassment).</p>
+                    <p class="answer">Policy Statement: Discrimination on the basis of sex is prohibited by the Georgia Institute of Technology. This prohibition applies to students, faculty, staff, and all other members of the Institute community.</p>
+                    <p class="answer">Complaints of sexual misconduct, including but not limited to nonconsensual sexual contact, sexual harassment, stalking, intimate partner violence, dating violence, and retaliation, shall be addressed as provided in Board of Regents Policy 6.7 (Sexual Misconduct Policy) and Policy 4.6.5 (Standards for Institutional Student Conduct Investigation and Disciplinary Proceedings) of the Policy Manual of the Board of Regents of the University System of Georgia.  The Student Code of Conduct (Non-Academic Misconduct) may also apply where the Board of Regents policies are silent."</p>
             </div>
         </div>
     </div>
@@ -307,6 +316,20 @@ folder: mydoc
                 <p><b>Policy Description</b></p>
                     <p class="answer">The Code educates all members of the Georgia Tech Community about the Institute's expectations and Students' rights and creates a standard by which Students are expected to conduct themselves for the purpose of establishing an environment conducive to academic excellence. Georgia Tech Students, Registered Student Organizations, and Groups are responsible for their own behavior, and the Institute has the authority to establish an internal structure for the enforcement of its policies and procedures, the terms of which students have agreed to accept by their enrollment.</p>
                     <p class="answer">The Code is not written with the specificity of a criminal statute and should not be confused with criminal law. Institute conduct proceedings are not restricted by the rules of evidence governing criminal and civil proceedings. Students may be charged under multiple sections of the Student Code of Conduct (Non-Academic Misconduct, the Academic Misconduct) based upon the same conduct. Students may be held accountable both to civil or criminal authorities and the Institute for acts that constitute violations of law and the Policy. Proceedings under this Policy may be carried out prior to, simultaneously with, or following civil or criminal proceedings. Students who reside in Institute housing are subject to Housing policies and procedures in addition to this Code.</p>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#title_ix">Title IX</a>
+            </h4>
+        </div>
+        <div id="title_ix" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <p><b>Policy Description</b></p>
+                    <p class="answer">Title IX is a federal law, not a GT policy. Title IX prohibits institutions that receive federal funding from practicing gender discrimination in educational programs or activities. There are no specific Title IX policies at GT, but several policies cover Title IX issues, such as Sexual Misconduct Policy, USG Policy to Prohibit Discrimination and Harassment, Equal Opportunity, Nondiscrimination, and Anti-Harassment Policy, Retaliation Policy, Student Code of Conduct, and Employee Code of Conduct. The Title IX Office is trained to handle the special cases of these policies when they specifically relate to gender-based discrimination.</p>
             </div>
         </div>
     </div>
@@ -354,68 +377,47 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#sexual_misconduct">Sexual Misconduct Policy</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#workplace_violence">Workplace Violence Policy</a>
             </h4>
         </div>
-        <div id="sexual_misconduct" class="panel-collapse collapse noCrossRef">
+        <div id="workplace_violence" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <p><b>Summary</b></p>
-                    <p class="answer">This policy specifically covers sexual misconduct <b>by students</b>. This policy prohibits actions such as sexual harassment, sexual assault, domestic violence, stalking, dating violence, intimate partner violence, sexual exploitation, and retaliation. This policy is enforced by the Title IX office. Report to any Title IX Coordinator for a formal investigation or any other Responsible Employee of GT. Report to GTPD to open a criminal investigation. This can also be reported to Confidential Employees, but they are required by law to report the incident and the date/time at which it occurred. In some cases, they must fully report the details in order to maintain campus safety. Confidential Employees will not start an investigation.</p>
+                    <p class="answer">The Workplace Violence Policy prohibits a broad array of actions including bullying, intimidation, physical violence, property damage, and stalking. A committee will be formed to assess the threat once it has been reported to a facilitator (Chief of Police, Assoc. VP of HR, or Gen. Counsel and VP for Ethics and Compliance). They will investigate and develop a response plan.</p>
                 <p><b>Policy Description</b></p>
-                    <p class="answer">"This policy addresses the process and procedures for addressing complaints of sexual misconduct committed by students.  The process and procedures for claims of sexual misconduct committed by employees are addressed in the Equal Opportunity, Nondiscrimination, and Anti-Harassment Policy issued by Human Resources and in the USG's Human Resources Administrative Practice (HRAP) Manual (Prohibit Discrimination and Harassment).</p>
-                    <p class="answer">Policy Statement: Discrimination on the basis of sex is prohibited by the Georgia Institute of Technology. This prohibition applies to students, faculty, staff, and all other members of the Institute community.</p>
-                    <p class="answer">Complaints of sexual misconduct, including but not limited to nonconsensual sexual contact, sexual harassment, stalking, intimate partner violence, dating violence, and retaliation, shall be addressed as provided in Board of Regents Policy 6.7 (Sexual Misconduct Policy) and Policy 4.6.5 (Standards for Institutional Student Conduct Investigation and Disciplinary Proceedings) of the Policy Manual of the Board of Regents of the University System of Georgia.  The Student Code of Conduct (Non-Academic Misconduct) may also apply where the Board of Regents policies are silent."</p>
+                    <p class="answer">"Threatening behavior or violence on the campus of Georgia Tech, satellite locations, and sanctioned functions off campus are prohibited and will not be tolerated. Violence, for the purpose of this policy includes, but is not limited to: intimidation, bullying, stalking, threatening behavior, physical attack, property damage, or domestic and family violence."
+                        <ul> 
+                            <li><b>Bullying</b>
+                                <p>Offensive and malicious behavior that undermines an individual or group through persistently negative attacks. The behavior may include an element of vindictiveness, and is intended to undermine, patronize, humiliate, intimidate or demean the recipient.</p>
+                            </li>
+                            <li><b>Domestic, Relationship, and/or Family Violence</b>
+                                <p>Abusive or violent behavior, including threats and intimidation, between people who have an ongoing or a prior intimate relationship (including people who are married, live together or date, or who have been married, lived together or dated) or between family members.</p>
+                            </li>
+                            <li><b>Intimidation</b>
+                                <p>Behavior intended to frighten, coerce, or induce duress.</p>
+                            </li>
+                            <li><b>Physical Attack</b>
+                                <p>Unwanted or hostile physical contact including, but not limited to, hitting, fighting with, shoving, restraining, or throwing objects at a person.</p>
+                            </li>
+                            <li><b>Property Damage</b>
+                                <p>Intentional damage to property, including property owned by Georgia Tech or by employees, students, clients, visitors, or vendors.</p>
+                            </li>
+                            <li><b>Stalking</b>
+                                <p>Following a person, placing a person under surveillance, or contacting a person for the purpose of harassment or intimidation.</p>
+                            </li>
+                            <li><b>Threatening Behavior</b>
+                                <p>The expression of intent to cause physical or mental harm. An expression constitutes a threat without regard to whether the party communicating the threat has the present ability to carry out the threat and without regard to whether the expression is contingent, conditional, or future.</p>
+                            </li>
+                            <li><b>Workplace Violence</b>
+                                <p>Acts of violence committed by or against any individual on the campus of Georgia Tech, at satellite locations, or at sanctioned functions off campus that involve students, faculty, staff, vendors, clients, and/or visitors.</p>
+                            </li>
+                        </ul>
+                    </p>
             </div>
         </div>
     </div>
-    <!-- /.panel -->
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#rcr_policy">Responsible Conduct of Research Compliance Policy</a>
-            </h4>
-        </div>
-        <div id="rcr_policy" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-                <p><b>Summary</b></p>
-                    <p class="answer">All grad students involved in research activities must receive formal education in research ethics. Refer to GT 5.7 Policy for Responding to Allegations of Scientific or Other Scholarly Misconduct for details regarding ethics inquiries.</p>
-            </div>
-        </div>
-    </div>
-    <!-- /.panel -->
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#scientific_misconduct">Policy for Responding to Allegations of Scientific or Other Scholarly Misconduct</a>
-            </h4>
-        </div>
-        <div id="scientific_misconduct" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-                <p><b>Summary</b></p>
-                    <p class="answer">This policy details the entire process regarding scholarly conduct accusations. Report observed, suspected, or apparent misconduct in science to the Provost or Executive Vice-President for Research. If you are unsure whether a suspected incident constitutes scholarly misconduct, you may call the VP-LA&RM to discuss the suspected misconduct informally.</p>
-                <p><b>Policy Description</b></p>
-                    <p class="answer">This policy and the associated procedures apply to all individuals at Georgia Tech engaged in research or other scholarly activity regardless of the source of funding for the activity including but not limited to funding or proposed funding from federal sources (see References 1 and 2). This policy applies to any person paid by, under the control of, or affiliated with the institution, such as scientists, trainees, technicians and other staff members, students, fellows, guest researchers, or collaborators with or at Georgia Tech. The policy and associated procedures will normally be followed when an allegation of possible misconduct in science is received by an institutional official. Particular circumstances in an individual case may dictate variation from the normal procedure deemed in the best interests of Georgia Tech and the U.S. Public Health Service (PHS). Any change from normal procedures also must ensure fair treatment to the subject of the inquiry or investigation. Any significant variation should be approved in advance by the Provost of Georgia Tech.</p>
-                    <p class="answer">This policy and the procedural requirements involved in handling allegations of scientific or other scholarly misconduct are intended to be sensitive to the varied demands made on those who conduct research and other scholarly activities, those who are accused of misconduct, and those who report apparent misconduct in good faith.</p>
-                    <p class="answer">This policy does not replace or supersede the Academic Honor Code and Student Code of Conduct found in the Georgia Institute of Technology General Catalog (see Reference 3) for students subject to that policy, except when the alleged scientific or other scholarly misconduct occurs in sponsor supported activities.</p>
-            </div>
-        </div>
-    </div>
-    <!-- /.panel -->
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#satisfactory_academic_progress">Satisfactory Academic Progress</a>
-            </h4>
-        </div>
-        <div id="satisfactory_academic_progress" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-                <p><b>Summary</b></p>
-                    <p class="answer">Grad students must complete their degree in 12 semesters. Any longer than that they must apply for any extension from their department.</p>
-                <p><b>Policy Description</b></p>
-                    <p class="answer">Maximum time frames for graduate studies are: master's - 6 semesters; doctoral - 12 semesters. Graduate students whose programs of study cannot be accomplished within these maximums must furnish documentation from their department to support any extension. OSFA knows and understands that several factors contribute to a graduate student's academic progress. The standard we utilize looks at hours attempted and terms enrolled, but we recognize that your graduate/thesis advisor is the authority that we need to depend upon to help us properly document our files and assess your situation appropriately.</p>
-            </div>
-        </div>
-    </div>
+
+
 
 
 
