@@ -1,6 +1,6 @@
 ---
-title: Thesis Committee
-permalink: thesis_committee.html
+title: Dean of Your College
+permalink: dean_of_college.html
 sidebar: mydoc_sidebar
 # tags: [special_layouts]
 # summary: "You can use an accordion-layout that takes advantage of Bootstrap styling. This is useful for an FAQ page."
@@ -10,13 +10,13 @@ folder: mydoc
 
 <p>&nbsp;</p>
 
-<p>Your thesis committee is formed before your PhD/MS Proposal. These members agree to what remaining work is sufficient to earn your degree and should be used as a resource when issues arise related to the completion of proposed thesis work.</p>
+<p>College Deans do not handle conflicts at any level. Therefore, the only reason to bring an issue to the Dean of your college is to put pressure on lower-level administrators and faculty to seek a solution. They will likely direct you back down the chain of command, but hopefully their involvement will lead to a more rapid and effective resolution. In addition, involving the Dean may prevent future negative behavior if the offender knows that you will report their behavior so widely.</p>
 
 <p><b>What can I do?</b></p>
-   <p>Contact your thesis committee members if you believe that your academic progress has been hindered in some way. This could be in regards to unsafe working conditions, unreasonable expectations, delayed graduation, etc.</p>
+   <p>When you take your conflict to the Dean, know that they will not open any additional resolution pathways. They may suggest you file a report with the relevant office if you are currently pursuing an unofficial resolution. However, they will not initiate this process for you. Therefore, only go to the Dean if you plan to continue with your current resolution pathway and you are dissatisfied with the current results. Keep notes of your discussion and follow up in the future if you think it is necessary.</p>
 
 <p><b>Likely solution?</b></p>
-   <p>Your thesis committee will contact your advisor to discuss your academic progress and progress towards completing the items in your PhD/MS proposal.</p>
+   <p>The solution will likely be the solution you expected before the Dean's involvement. Their only input will be to spur further action in those handling your conflict.</p>
 
 <p><b>Is speaking with them confidential?</b></p>
    <p class="answer">While it may be promised, there is no guarantee that a conversation with this person is confidential. There is no official protection or promise of confidentiality from the university at this level. Promises of confidentiality are worth as much as the word of the faculty serving in this role. They will likely tell you that for them to assist you with this issue they cannot maintain confidentiality as they will need to have conversations with lower levels of administration as well as possibly the advisor.</p>
