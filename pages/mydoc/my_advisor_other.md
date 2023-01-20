@@ -13,7 +13,7 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#physical-violence">Physical violence</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#physical-violence" aria-expanded="false">Physical violence</a>
             </h4>
         </div>
         <div id="physical-violence" class="panel-collapse collapse noCrossRef">
@@ -39,7 +39,7 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#inappropriate-contact">Stalking, inappropriate or sexual contact</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#inappropriate-contact" aria-expanded="false">Stalking, inappropriate or sexual contact</a>
             </h4>
         </div>
         <div id="inappropriate-contact" class="panel-collapse collapse noCrossRef">
@@ -65,7 +65,7 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#academically-unethical-practices">Academically unethical practices</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#academically-unethical-practices" aria-expanded="false">Academically unethical practices</a>
             </h4>
         </div>
         <div id="academically-unethical-practices" class="panel-collapse collapse noCrossRef">
@@ -91,7 +91,7 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#unethical-financial-activities">General financial activities that are illegal or unethical</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#unethical-financial-activities" aria-expanded="false">General financial activities that are illegal or unethical</a>
             </h4>
         </div>
         <div id="unethical-financial-activities" class="panel-collapse collapse noCrossRef">
@@ -117,7 +117,7 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-on-internship">Disagreements on taking an internship</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-on-internship" aria-expanded="false">Disagreements on taking an internship</a>
             </h4>
         </div>
         <div id="disagreements-on-internship" class="panel-collapse collapse noCrossRef">
@@ -143,8 +143,5 @@ folder: mydoc
 
 <script>
     if(location.hash !== null && location.hash !== "")
-    {
-        var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
-        $(url + ".collapse").collapse("show");
-    }
+        $(location.hash + ".collapse").collapse("show");
 </script>

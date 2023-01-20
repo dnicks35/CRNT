@@ -13,7 +13,7 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#not-respecting-religious-holidays">Not respecting religious holiday observance</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#not-respecting-religious-holidays" aria-expanded="false">Not respecting religious holiday observance</a>
             </h4>
         </div>
         <div id="not-respecting-religious-holidays" class="panel-collapse collapse noCrossRef">
@@ -39,7 +39,7 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#not-respecting-life-choices">Not respecting personal life choices</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#not-respecting-life-choices" aria-expanded="false">Not respecting personal life choices</a>
             </h4>
         </div>
         <div id="not-respecting-life-choices" class="panel-collapse collapse noCrossRef">
@@ -65,7 +65,7 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#not-respecting-career-choices">Not respecting career choices</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#not-respecting-career-choices" aria-expanded="false">Not respecting career choices</a>
             </h4>
         </div>
         <div id="not-respecting-career-choices" class="panel-collapse collapse noCrossRef">
@@ -91,7 +91,7 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-vacation-time">Disagreements about vacation time</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-vacation-time" aria-expanded="false">Disagreements about vacation time</a>
             </h4>
         </div>
         <div id="disagreements-about-vacation-time" class="panel-collapse collapse">
@@ -117,8 +117,5 @@ folder: mydoc
 
 <script>
     if(location.hash !== null && location.hash !== "")
-    {
-        var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
-        $(url + ".collapse").collapse("show");
-    }
+        $(location.hash + ".collapse").collapse("show");
 </script>

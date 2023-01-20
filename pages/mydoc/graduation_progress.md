@@ -13,7 +13,7 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-proposal">Disagreements about proposal (timeline, content, etc)</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-proposal" aria-expanded="false">Disagreements about proposal (timeline, content, etc)</a>
             </h4>
         </div>
         <div id="disagreements-about-proposal" class="panel-collapse collapse noCrossRef">
@@ -39,10 +39,10 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-dissertation">Disagreements about what is required for dissertation</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-what-is-required-for-dissertation" aria-expanded="false">Disagreements about what is required for dissertation</a>
             </h4>
         </div>
-        <div id="disagreements-about-dissertation" class="panel-collapse collapse noCrossRef">
+        <div id="disagreements-about-what-is-required-for-dissertation" class="panel-collapse collapse">
             <div class="panel-body">
                 <p><b>Is there a policy against this?</b></p>
                     <p class="answer">YES - Policy XYZ</p>
@@ -65,7 +65,7 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-graduation-date">Disagreements about graduation date</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-graduation-date" aria-expanded="false">Disagreements about graduation date</a>
             </h4>
         </div>
         <div id="disagreements-about-graduation-date" class="panel-collapse collapse noCrossRef">
@@ -91,7 +91,7 @@ folder: mydoc
         <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-thesis-committee-members">Disagreements about thesis committee members</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-thesis-committee-members" aria-expanded="false">Disagreements about thesis committee members</a>
             </h4>
         </div>
         <div id="disagreements-about-thesis-committee-members" class="panel-collapse collapse noCrossRef">
@@ -117,7 +117,7 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-classes-and-performance">Disagreements about classes to take and course performance</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-classes-and-performance" aria-expanded="false">Disagreements about classes to take and course performance</a>
             </h4>
         </div>
         <div id="disagreements-about-classes-and-performance" class="panel-collapse collapse">
@@ -143,8 +143,5 @@ folder: mydoc
 
 <script>
     if(location.hash !== null && location.hash !== "")
-    {
-        var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
-        $(url + ".collapse").collapse("show");
-    }
+        $(location.hash + ".collapse").collapse("show");
 </script>

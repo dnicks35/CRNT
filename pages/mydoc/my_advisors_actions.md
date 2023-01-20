@@ -13,7 +13,7 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#intimidating-students">Intimidating Students</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#intimidating-students" aria-expanded="false">Intimidating Students</a>
             </h4>
         </div>
         <div id="intimidating-students" class="panel-collapse collapse noCrossRef">
@@ -56,7 +56,7 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#threatening-funding">Threatening Funding</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#threatening-funding" aria-expanded="false">Threatening Funding</a>
             </h4>
         </div>
         <div id="threatening-funding" class="panel-collapse collapse noCrossRef">
@@ -90,7 +90,7 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#unreasonable-requests">Unreasonable Requests</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#unreasonable-requests" aria-expanded="false">Unreasonable Requests</a>
             </h4>
         </div>
         <div id="unreasonable-requests" class="panel-collapse collapse noCrossRef">
@@ -116,7 +116,7 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#retaliation-for-complaining-against-advisor">Retaliation for complaining against advisor</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#retaliation-for-complaining-against-advisor" aria-expanded="false">Retaliation for complaining against advisor</a>
             </h4>
         </div>
         <div id="retaliation-for-complaining-against-advisor" class="panel-collapse collapse">
@@ -142,7 +142,7 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#blind-siding-students-with-a-poor-review">"Blind siding" students with a poor review</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#blind-siding-students-with-a-poor-review" aria-expanded="false">"Blind siding" students with a poor review</a>
             </h4>
         </div>
         <div id="blind-siding-students-with-a-poor-review" class="panel-collapse collapse">
@@ -168,7 +168,7 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#negative-consequences-of-a-poor-review-from-an-advisor">Negative consequences of a poor review from an advisor</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#negative-consequences-of-a-poor-review-from-an-advisor" aria-expanded="false">Negative consequences of a poor review from an advisor</a>
             </h4>
         </div>
         <div id="negative-consequences-of-a-poor-review-from-an-advisor" class="panel-collapse collapse">
@@ -194,7 +194,7 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#disagreements-about-authorship-inclusion-or-order">Disagreements about authorship inclusion or order</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#disagreements-about-authorship-inclusion-or-order" aria-expanded="false">Disagreements about authorship inclusion or order</a>
             </h4>
         </div>
         <div id="disagreements-about-authorship-inclusion-or-order" class="panel-collapse collapse">
@@ -220,7 +220,7 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#misappropriating-credit-for-work-to-another-student-or-post-doc">Misappropriating credit for work to another student or post-doc</a>
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#misappropriating-credit-for-work-to-another-student-or-post-doc" aria-expanded="false">Misappropriating credit for work to another student or post-doc</a>
             </h4>
         </div>
         <div id="misappropriating-credit-for-work-to-another-student-or-post-doc" class="panel-collapse collapse">
@@ -247,8 +247,5 @@ folder: mydoc
 
 <script>
     if(location.hash !== null && location.hash !== "")
-    {
-        var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
-        $(url + ".collapse").collapse("show");
-    }
+        $(location.hash + ".collapse").collapse("show");
 </script>

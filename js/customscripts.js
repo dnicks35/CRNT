@@ -45,10 +45,15 @@ $(function() {
         return $("#" + containerId + " a[href=" + href + "]").tab('show');
     });
 
+
     $("ul.nav.nav-pills, ul.nav.nav-tabs").each(function() {
         var $this = $(this);
         if (!json[$this.attr("id")]) {
             return $this.find("a[data-toggle=tab]:first, a[data-toggle=pill]:first").tab("show");
         }
+    });
+
+    $("a.anchorjs-link").each(function() {
+        $(this)[0].href = $(this)[0].previousElementSibling.hash;
     });
 });
