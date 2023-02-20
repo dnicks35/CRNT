@@ -259,7 +259,7 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#misappropriating-credit-for-work-to-another-student-or-post-doc" aria-expanded="false">Misappropriating credit for work to another student or post-doc</a>
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#misappropriating-credit-for-work-to-another-student-or-post-doc" aria-expanded="false">Misappropriating credit for work to another student or post-doc</a>
             </h4>
         </div>
         <div id="misappropriating-credit-for-work-to-another-student-or-post-doc" class="panel-collapse collapse">
@@ -291,5 +291,8 @@ folder: mydoc
 
 <script>
     if(location.hash !== null && location.hash !== "")
-        $(location.hash + ".collapse").collapse("show");
+    {
+        var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
+        $(url + ".collapse").collapse("show");
+    }
 </script>
