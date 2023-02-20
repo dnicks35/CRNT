@@ -136,5 +136,8 @@ folder: mydoc
 
 <script>
     if(location.hash !== null && location.hash !== "")
-        $(location.hash + ".collapse").collapse("show");
+    {
+        var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
+        $(url + ".collapse").collapse("show");
+    }
 </script>
