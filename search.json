@@ -397,8 +397,71 @@ search: exclude
         "keywords": "Tax, taxes, government, international, money, pay, paycheck",
         "url": "finances_layout.html#taxes",
         "summary": ""
-    }
+    },
 
+    {
+        "title": "Disagreements about what is required for dissertation",
+        "tags": "",
+        "keywords": "Dissertation, thesis, requirements, require",
+        "url": "graduation_layout.html#disagreements-about-dissertation",
+        "summary": ""
+    },
+
+    {
+        "title": "Disagreements about graduation progress",
+        "tags": "",
+        "keywords": "Graduation, time, timeline, date, progress",
+        "url": "graduation_layout.html#disagreements-about-progress",
+        "summary": ""
+    },
+
+    {
+        "title": "Advisor not respecting career choices",
+        "tags": "",
+        "keywords": "Career, future, job, apply, applications",
+        "url": "graduation_layout.html#disagreements-about-career",
+        "summary": ""
+    },
+
+    {
+        "title": "Disagreements about graduation date",
+        "tags": "",
+        "keywords": "Graduation, time, timeline, date",
+        "url": "graduation_layout.html#disagreements-about-graduation-date",
+        "summary": ""
+    },
+
+    {
+        "title": "Concern that complaints made to faculty/staff are not confidential",
+        "tags": "",
+        "keywords": "Confidential, complaints, retalliation, retaliate, fired, fear",
+        "url": "interpersonal_layout.html#confidentiality-of-complaints",
+        "summary": ""
+    },
+
+    {
+        "title": "Harassment from other students",
+        "tags": "",
+        "keywords": "Harassment, unsafe, creepy, creep, uncomfortable, weird",
+        "url": "interpersonal_layout.html#harassment-from-students",
+        "summary": ""
+    },
+
+    {
+        "title": "Dealing with anxiety/depression",
+        "tags": "",
+        "keywords": "Anxiety, anxious, depression, depressed, sad, unhappy, suicide, suicidal",
+        "url": "interpersonal_layout.html#anxiety-and-depression",
+        "summary": ""
+    },
+
+    {
+        "title": "Suicidal thoughts and ideation",
+        "tags": "",
+        "keywords": "Suicide, suicial, death, die, depressed, depression",
+        "url": "interpersonal_layout.html#suicidal-thoughts",
+        "summary": ""
+    },
 
 
 
