@@ -90,7 +90,7 @@ search: exclude
         "title": "Humiliating/Insulting comments from advisor",
         "tags": "",
         "keywords": "Humiliating, humiliation, degrading, insulting, insult, mean, hurtful, harass",
-        "url": "my_advisors_comments_layout.html#humiliating-comments",
+        "url": "advisor_comments_layout.html#humiliating-comments",
         "summary": ""
     },
 
@@ -122,7 +122,7 @@ search: exclude
         "title": "Concern that advisor would say negative things about you to other faculty/staff",
         "tags": "",
         "keywords": "Slander, talk, behind back, negative, smear, retalliate, prevent",
-        "url": "my_advisors_comments_layout.html#concern-that-advisor-will-say-negative-things",
+        "url": "advisor_comments_layout.html#concern-that-advisor-will-say-negative-things",
         "summary": ""
     },
 
@@ -133,7 +133,7 @@ search: exclude
         "url": "advisor_workplace_issues_layout.html#does-not-provide-disability-accomodations",
         "summary": ""
     },
-    
+
     {
         "title": "Advisor does not acknowledge parental/familial constraints",
         "tags": "",
@@ -181,7 +181,7 @@ search: exclude
         "url": "advisor_graduation_progress_layout.html#disagreements-about-graduation-date",
         "summary": ""
     },
-    
+
     {
         "title": "Advisor disagreements about thesis committee members",
         "tags": "",
@@ -270,7 +270,7 @@ search: exclude
         "url": "advisor_other_layout.html#disagreements-about-thesis-committee-members",
         "summary": ""
     },
-    
+
     {
         "title": "Misappropriation of credit for work to another student or post-doc from labmate",
         "tags": "",
@@ -340,6 +340,30 @@ search: exclude
         "tags": "",
         "keywords": "Intimidating, intimidation, ultimatum, insulting",
         "url": "labmate_layout.html#insulting-comments-labmate",
+        "summary": ""
+    },
+
+    {
+        "title": "Disagreements about thesis committee members",
+        "tags": "",
+        "keywords": "Thesis, committee, members",
+        "url": "committee_layout.html#disagreements-about-committee",
+        "summary": ""
+    },
+
+    {
+        "title": "Disagreements about proposal (timeline, content, etc.)",
+        "tags": "",
+        "keywords": "Graduation, time, timeline, proposal",
+        "url": "committee_layout.html#disagreements-about-proposal",
+        "summary": ""
+    },
+
+    {
+        "title": "Disagreements about what is required for dissertation",
+        "tags": "",
+        "keywords": "Dissertation, thesis, requirements, require",
+        "url": "committee_layout.html#disagreements-about-dissertation",
         "summary": ""
     }
 
