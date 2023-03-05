@@ -13,6 +13,15 @@ search: exclude
         "url": "policies.html",
         "summary": ""
     },
+    {
+        "title": "Office Directory",
+        "tags": "",
+        "keywords": "office, offices, directory, dean, chair, resource, resources",
+        "url": "office_directory.html",
+        "summary": ""
+    },
+
+
 
     {
         "title": "Intimidating students from advisor",
@@ -21,7 +30,6 @@ search: exclude
         "url": "advisor_actions_layout.html#intimidating-students",
         "summary": ""
     },
-
     {
         "title": "Threatening funding from advisor",
         "tags": "",
@@ -29,7 +37,6 @@ search: exclude
         "url": "advisor_actions_layout.html#threatening-funding",
         "summary": ""
     },
-
     {
         "title": "Unreasonable requests from advisor",
         "tags": "",
@@ -37,7 +44,6 @@ search: exclude
         "url": "advisor_actions_layout.html#unreasonable-requests",
         "summary": ""
     },
-
     {
         "title": "Retaliation for making complaint against advisor",
         "tags": "",
@@ -45,7 +51,6 @@ search: exclude
         "url": "advisor_actions_layout.html#retaliation-for-complaining-against-advisor",
         "summary": ""
     },
-
     {
         "title": "Advisor \"blind siding\" students with a poor review",
         "tags": "",
@@ -53,7 +58,6 @@ search: exclude
         "url": "advisor_actions_layout.html#blind-siding-students-with-a-poor-review",
         "summary": ""
     },
-
     {
         "title": "Negative consequences of a poor review from advisor",
         "tags": "",
@@ -61,7 +65,6 @@ search: exclude
         "url": "advisor_actions_layout.html#negative-consequences-of-a-poor-review-from-an-advisor",
         "summary": ""
     },
-
     {
         "title": "Disagreements about authorship inclusion or order from advisor",
         "tags": "",
@@ -69,7 +72,6 @@ search: exclude
         "url": "advisor_actions_layout.html#disagreements-about-authorship-inclusion-or-order",
         "summary": ""
     },
-
     {
         "title": "Advisor misappropriating credit for work to another student or post-doc",
         "tags": "",
@@ -78,6 +80,8 @@ search: exclude
         "summary": ""
     },
 
+
+
     {
         "title": "Yelling from advisor",
         "tags": "",
@@ -85,7 +89,6 @@ search: exclude
         "url": "advisor_comments_layout.html#yelling",
         "summary": ""
     },
-
     {
         "title": "Humiliating/Insulting comments from advisor",
         "tags": "",
@@ -93,7 +96,6 @@ search: exclude
         "url": "advisor_comments_layout.html#humiliating-comments",
         "summary": ""
     },
-
     {
         "title": "Racist comments from advisor",
         "tags": "",
@@ -101,7 +103,6 @@ search: exclude
         "url": "advisor_comments_layout.html#racist-comments",
         "summary": ""
     },
-
     {
         "title": "Misogynistic comments from advisor",
         "tags": "",
@@ -109,7 +110,6 @@ search: exclude
         "url": "advisor_comments_layout.html#misogynistic-comments",
         "summary": ""
     },
-
     {
         "title": "Homophobic, transphobic, biphobic, acephobic, etc. comments  from advisor",
         "tags": "",
@@ -117,7 +117,6 @@ search: exclude
         "url": "advisor_comments_layout.html#homophobic-comments",
         "summary": ""
     },
-
     {
         "title": "Concern that advisor would say negative things about you to other faculty/staff",
         "tags": "",
@@ -126,6 +125,8 @@ search: exclude
         "summary": ""
     },
 
+
+
     {
         "title": "Advisor does not provide disability accomodations",
         "tags": "",
@@ -133,7 +134,6 @@ search: exclude
         "url": "advisor_workplace_issues_layout.html#does-not-provide-disability-accomodations",
         "summary": ""
     },
-
     {
         "title": "Advisor does not acknowledge parental/familial constraints",
         "tags": "",
@@ -141,7 +141,6 @@ search: exclude
         "url": "advisor_workplace_issues_layout.html#familial-constraints",
         "summary": ""
     },
-
     {
         "title": "Excessive expected work hours from advisor",
         "tags": "",
@@ -149,7 +148,6 @@ search: exclude
         "url": "advisor_workplace_issues_layout.html#excessive-expected-work-hours",
         "summary": ""
     },
-
     {
         "title": "Unsafe work conditions",
         "tags": "",
@@ -158,6 +156,8 @@ search: exclude
         "summary": ""
     },
 
+
+
     {
         "title": "Advisor disagreements about proposal (timeline, content, etc)",
         "tags": "",
@@ -165,7 +165,6 @@ search: exclude
         "url": "advisor_graduation_progress_layout.html#disagreements-about-proposal",
         "summary": ""
     },
-
     {
         "title": "Advisor disagreements about what is required for dissertation",
         "tags": "",
@@ -173,7 +172,6 @@ search: exclude
         "url": "advisor_graduation_progress_layout.html#disagreements-about-dissertation",
         "summary": ""
     },
-
     {
         "title": "Advisor disagreements about graduation date",
         "tags": "",
@@ -181,7 +179,6 @@ search: exclude
         "url": "advisor_graduation_progress_layout.html#disagreements-about-graduation-date",
         "summary": ""
     },
-
     {
         "title": "Advisor disagreements about thesis committee members",
         "tags": "",
@@ -189,7 +186,6 @@ search: exclude
         "url": "advisor_graduation_progress_layout.html#disagreements-about-thesis-committee-members",
         "summary": ""
     },
-
     {
         "title": "Advisor disagreements about classes to take and course performance",
         "tags": "",
@@ -198,6 +194,8 @@ search: exclude
         "summary": ""
     },
 
+
+
     {
         "title": "Advisor not respecting religious holiday observance",
         "tags": "",
@@ -205,7 +203,6 @@ search: exclude
         "url": "advisor_personal_issues_layout.html#not-respecting-religious-holidays",
         "summary": ""
     },
-
     {
         "title": "Advisor not respecting personal life choices",
         "tags": "",
@@ -213,7 +210,6 @@ search: exclude
         "url": "advisor_personal_issues_layout.html#not-respecting-life-choices",
         "summary": ""
     },
-
     {
         "title": "Advisor not respecting career choices",
         "tags": "",
@@ -221,7 +217,6 @@ search: exclude
         "url": "advisor_personal_issues_layout.html#not-respecting-career-choices",
         "summary": ""
     },
-
     {
         "title": "Advisor disagreements about vacation time",
         "tags": "",
@@ -230,6 +225,8 @@ search: exclude
         "summary": ""
     },
 
+
+
     {
         "title": "Physical violence from advisor",
         "tags": "",
@@ -237,7 +234,6 @@ search: exclude
         "url": "advisor_other_layout.html#physical-violence",
         "summary": ""
     },
-
     {
         "title": "Stalking, inappropriate or sexual contact from advisor",
         "tags": "",
@@ -245,8 +241,6 @@ search: exclude
         "url": "advisor_other_layout.html#inappropriate-contact",
         "summary": ""
     },
-
-
     {
         "title": "Academically unethical practices from advisor",
         "tags": "",
@@ -254,7 +248,6 @@ search: exclude
         "url": "advisor_other_layout.html#academically-unethical-practices",
         "summary": ""
     },
-
     {
         "title": "General financial activities that are illegal or unethical from advisor",
         "tags": "",
@@ -262,7 +255,6 @@ search: exclude
         "url": "advisor_other_layout.html#unethical-financial-activities",
         "summary": ""
     },
-
     {
         "title": "Advisor disagreements on taking an internship",
         "tags": "",
@@ -271,6 +263,8 @@ search: exclude
         "summary": ""
     },
 
+
+
     {
         "title": "Misappropriation of credit for work to another student or post-doc from labmate",
         "tags": "",
@@ -278,7 +272,6 @@ search: exclude
         "url": "labmate_layout.html#misappropriation-of-credit-labmate",
         "summary": ""
     },
-
     {
         "title": "Racist comments from labmate",
         "tags": "",
@@ -286,7 +279,6 @@ search: exclude
         "url": "labmate_layout.html#racist-comments-labmate",
         "summary": ""
     },
-
     {
         "title": "Misogynistic comments from labmate",
         "tags": "",
@@ -294,7 +286,6 @@ search: exclude
         "url": "labmate_layout.html#misogynistic-comments-labmate",
         "summary": ""
     },
-
     {
         "title": "Homophobic, transphobic, biphobic, acephobic, etc. comments from labmate",
         "tags": "",
@@ -302,7 +293,6 @@ search: exclude
         "url": "labmate_layout.html#homophobic-comments-labmate",
         "summary": ""
     },
-
     {
         "title": "Intimidation from labmate",
         "tags": "",
@@ -310,7 +300,6 @@ search: exclude
         "url": "labmate_layout.html#intimidation-labmate",
         "summary": ""
     },
-
     {
         "title": "Harassment/Hostility from labmate",
         "tags": "",
@@ -318,7 +307,6 @@ search: exclude
         "url": "labmate_layout.html#harassment-labmate",
         "summary": ""
     },
-
     {
         "title": "Exclusion from labmate",
         "tags": "",
@@ -326,7 +314,6 @@ search: exclude
         "url": "labmate_layout.html#exclusion-labmate",
         "summary": ""
     },
-
     {
         "title": "Stalking, inappropriate or sexual contact from labmate",
         "tags": "",
@@ -334,7 +321,6 @@ search: exclude
         "url": "labmate_layout.html#stalking-labmate",
         "summary": ""
     },
-
     {
         "title": "Insulting/humiliating comments from labmate",
         "tags": "",
@@ -343,6 +329,8 @@ search: exclude
         "summary": ""
     },
 
+
+
     {
         "title": "Disagreements about thesis committee members",
         "tags": "",
@@ -350,7 +338,6 @@ search: exclude
         "url": "committee_layout.html#disagreements-about-committee",
         "summary": ""
     },
-
     {
         "title": "Disagreements about proposal (timeline, content, etc.)",
         "tags": "",
@@ -358,7 +345,6 @@ search: exclude
         "url": "committee_layout.html#disagreements-about-proposal",
         "summary": ""
     },
-
     {
         "title": "Disagreements about what is required for dissertation",
         "tags": "",
@@ -367,6 +353,8 @@ search: exclude
         "summary": ""
     },
 
+
+
     {
         "title": "Disagreements about applying for fellowships",
         "tags": "",
@@ -374,7 +362,6 @@ search: exclude
         "url": "finances_layout.html#disagreements-about-fellowships",
         "summary": ""
     },
-
     {
         "title": "Advisor threatens to pull funding",
         "tags": "",
@@ -382,7 +369,6 @@ search: exclude
         "url": "finances_layout.html#advisor-threatens-funding",
         "summary": ""
     },
-
     {
         "title": "Unable to afford personal expenses",
         "tags": "",
@@ -390,7 +376,6 @@ search: exclude
         "url": "Money, broke, expenses, expensive, afford, food, rent, housing, bills",
         "summary": ""
     },
-
     {
         "title": "Paying taxes",
         "tags": "",
@@ -399,6 +384,8 @@ search: exclude
         "summary": ""
     },
 
+
+
     {
         "title": "Disagreements about what is required for dissertation",
         "tags": "",
@@ -406,7 +393,6 @@ search: exclude
         "url": "graduation_layout.html#disagreements-about-dissertation",
         "summary": ""
     },
-
     {
         "title": "Disagreements about graduation progress",
         "tags": "",
@@ -414,7 +400,6 @@ search: exclude
         "url": "graduation_layout.html#disagreements-about-progress",
         "summary": ""
     },
-
     {
         "title": "Advisor not respecting career choices",
         "tags": "",
@@ -422,7 +407,6 @@ search: exclude
         "url": "graduation_layout.html#disagreements-about-career",
         "summary": ""
     },
-
     {
         "title": "Disagreements about graduation date",
         "tags": "",
@@ -431,6 +415,8 @@ search: exclude
         "summary": ""
     },
 
+
+
     {
         "title": "Concern that complaints made to faculty/staff are not confidential",
         "tags": "",
@@ -438,7 +424,6 @@ search: exclude
         "url": "interpersonal_layout.html#confidentiality-of-complaints",
         "summary": ""
     },
-
     {
         "title": "Harassment from other students",
         "tags": "",
@@ -446,7 +431,6 @@ search: exclude
         "url": "interpersonal_layout.html#harassment-from-students",
         "summary": ""
     },
-
     {
         "title": "Dealing with anxiety/depression",
         "tags": "",
@@ -454,14 +438,135 @@ search: exclude
         "url": "interpersonal_layout.html#anxiety-and-depression",
         "summary": ""
     },
-
     {
         "title": "Suicidal thoughts and ideation",
         "tags": "",
         "keywords": "Suicide, suicial, death, die, depressed, depression",
         "url": "interpersonal_layout.html#suicidal-thoughts",
         "summary": ""
+    },
+
+
+
+    {
+        "title": "Negative consequence for quals performance (being fired, losing GRA or GTA status, etc.)",
+        "tags": "",
+        "keywords": "Quals, qualifying exam, performance, fail, fired",
+        "url": "quals_layout.html#negative-consequence-quals",
+        "summary": ""
+    },
+    {
+        "title": "Harassment from quals committee",
+        "tags": "",
+        "keywords": "Quals, qualifying exam, harassment, negative, comments",
+        "url": "quals_layout.html#harassment-from-quals-committee",
+        "summary": ""
+    },
+    {
+        "title": "Unfair treatment from quals committee",
+        "tags": "",
+        "keywords": "Quals, qualifying exam, sexist, misogynistic, racist, laugh",
+        "url": "quals_layout.html#unfair-quals-committee",
+        "summary": ""
+    },
+    {
+        "title": "Insulting/humiliating comments from quals committee",
+        "tags": "",
+        "keywords": "Quals, qualifying exam, insulting, insult, humiliating, humiliation",
+        "url": "quals_layout.html#insulting-comments-quals-committee",
+        "summary": ""
+    },
+
+
+
+    {
+        "title": "Instructor yelling at students",
+        "tags": "",
+        "keywords": "Yelling, loud, scream, voice, shout",
+        "url": "instructor_layout.html#yelling",
+        "summary": ""
+    },
+    {
+        "title": "Instructor insulting/humiliating students",
+        "tags": "",
+        "keywords": "Humiliating, humiliation, degrading, insulting, insult, mean, hurtful",
+        "url": "instructor_layout.html#humiliating-comments",
+        "summary": ""
+    },
+    {
+        "title": "Instructor intimidating students",
+        "tags": "",
+        "keywords": "Intimidating, intimidation, ultimatum, insulting",
+        "url": "instructor_layout.html#intimidation",
+        "summary": ""
+    },
+    {
+        "title": "Racist comments from instructor",
+        "tags": "",
+        "keywords": "Racist, race",
+        "url": "instructor_layout.html#racist-comments",
+        "summary": ""
+    },
+    {
+        "title": "Misogynistic comments from instructor",
+        "tags": "",
+        "keywords": "Misogynistic, sexist, woman, gender",
+        "url": "instructor_layout.html#misogynistic-comments",
+        "summary": ""
+    },
+    {
+        "title": "Homophobic, transphobic, biphobic, acephobic, etc.",
+        "tags": "",
+        "keywords": "Homophobic, gay, sexual orientation, trans, lgbtq, bisexual, asexual",
+        "url": "instructor_layout.html#homophobic-comments",
+        "summary": ""
+    },
+    {
+        "title": "Instructor incorrectly punishes you for cheating",
+        "tags": "",
+        "keywords": "Cheat, test, coursework, honor code",
+        "url": "instructor_layout.html#accused-of-cheating",
+        "summary": ""
+    },
+    {
+        "title": "Grade disputes",
+        "tags": "",
+        "keywords": "Class, course, instructor, grade, grading, dispute, pass, passing, fail, failing, withdraw, incomplete",
+        "url": "instructor_layout.html#grade-dispute",
+        "summary": ""
+    },
+
+
+
+    {
+        "title": "A coworker/collaborator asks you to do something unethical",
+        "tags": "",
+        "keywords": "Unethical, dishonest, immoral",
+        "url": "research_ethics_layout.html#asked-to-act-unethically",
+        "summary": ""
+    },
+    {
+        "title": "A coworker/collaborator misrepresents findings or data",
+        "tags": "",
+        "keywords": "Data, skew, manipulate, alter, figure",
+        "url": "research_ethics_layout.html#misrepresentation-of-data",
+        "summary": ""
+    },
+    {
+        "title": "Your advisor inaccurately assigns work or credit",
+        "tags": "",
+        "keywords": "Credit, contribution, workload",
+        "url": "research_ethics_layout.html#misappropriation-of-credit",
+        "summary": ""
+    },
+    {
+        "title": "Disagreement regarding authorship inclusion or order",
+        "tags": "",
+        "keywords": "Authorship, credit, inclusion",
+        "url": "research_ethics_layout.html#authorship-inclusion",
+        "summary": ""
     }
+
 
 
 
