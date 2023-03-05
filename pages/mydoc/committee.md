@@ -78,10 +78,6 @@ folder: mydoc
                              <li><a href="department_chair.html">Department Chair</a></li>
                              <li><a href="ombudsmen.html">Ombudsmen</a></li>
                     </ol>
-                <p><b>Alternate Chain of Command</b></p>
-                    <ol type="1">
-                             <li><a href="ethicspoint.html">EthicsPoint</a></li>
-                    </ol>
                 <p><b>Relevant Policies</b></p>
                     <p class="answer">There are many different sources of laws, policies, and codes of conduct that might apply to you as a graduate student (half employee/half student). Unfortunately GT does not have a centralized location for all their policies making them particularly hard to find. Furthermore, the university administration in place to help you resolve your conflict are not necessarily aware of relevant university or USG policies that might apply to your conflict and are almost certainly not trained in policy interpretation. Therefore, it can be important for you to know your rights and the policies in place to protect you prior to seeking administrative support resolving a conflict. The following policies have been identified as relevant to your case:</p>
                     <ul>
