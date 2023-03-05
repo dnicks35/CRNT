@@ -365,6 +365,41 @@ search: exclude
         "keywords": "Dissertation, thesis, requirements, require",
         "url": "committee_layout.html#disagreements-about-dissertation",
         "summary": ""
+    },
+
+    {
+        "title": "Disagreements about applying for fellowships",
+        "tags": "",
+        "keywords": "Fellowship, scholarship, apply, funding",
+        "url": "finances_layout.html#disagreements-about-fellowships",
+        "summary": ""
+    },
+
+    {
+        "title": "Advisor threatens to pull funding",
+        "tags": "",
+        "keywords": "Funding, GRA, GTA, support, salary, money, pay",
+        "url": "finances_layout.html#advisor-threatens-funding",
+        "summary": ""
+    },
+
+    {
+        "title": "Unable to afford personal expenses",
+        "tags": "",
+        "keywords": "Dissertation, thesis, requirements, require",
+        "url": "Money, broke, expenses, expensive, afford, food, rent, housing, bills",
+        "summary": ""
+    },
+
+    {
+        "title": "Paying taxes",
+        "tags": "",
+        "keywords": "Tax, taxes, government, international, money, pay, paycheck",
+        "url": "finances_layout.html#taxes",
+        "summary": ""
     }
+
+
+
 
 ]
