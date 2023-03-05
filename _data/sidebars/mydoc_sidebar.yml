@@ -56,13 +56,13 @@ entries:
       url: /labmate_layout.html
       output: web
 
-    # - title: 5.0 Release notes
-    #   url: /mydoc_release_notes_50.html
-    #   output: web, pdf
-
   - title: Committee
     output: web
     folderitems:
+
+      - title: Committee
+        url: /committee_layout.html
+        output: web
 
     # - title: About Ruby, Gems, Bundler, etc.
     #   url: /mydoc_about_ruby_gems_etc.html
@@ -78,7 +78,6 @@ entries:
 
   - title: Finances
     output: web
-
     folderitems:
     # - title: Pages
     #   url: /mydoc_pages.html
@@ -114,8 +113,8 @@ entries:
 
   - title: Graduation
     output: web, pdf
-
     folderitems:
+
     # - title: Sidebar navigation
     #   url: /mydoc_sidebar_navigation.html
     #   output: web, pdf
@@ -134,8 +133,8 @@ entries:
 
   - title: Interpersonal
     output: web, pdf
-
     folderitems:
+
     # - title: Tooltips
     #   url: /mydoc_adding_tooltips.html
     #   output: web, pdf
@@ -182,8 +181,8 @@ entries:
 
   - title: Quals
     output: web, pdf
-
     folderitems:
+
     # - title: Commenting on files
     #   url: /mydoc_commenting_on_files.html
     #   output: web, pdf
@@ -194,8 +193,8 @@ entries:
 
   - title: Instructor
     output: web, pdf
-
     folderitems:
+
     # - title: Build arguments
     #   url: /mydoc_build_arguments.html
     #   output: web, pdf
