@@ -18,7 +18,7 @@ folder: mydoc
         </div>
         <div id="misappropriation-of-credit" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p>You, a peer, colleague, and/or collaborator are not recieveing the proper credit for your work, not properly  or efforts or are being unduly blamed for issues.</p>
+		<p>You, a peer, colleague, and/or collaborator are not receiving the proper credit for your work, not properly  or efforts or are being unduly blamed for issues.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
@@ -73,7 +73,7 @@ folder: mydoc
         </div>
         <div id="misogynistic-comments-labmate" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p>Peer makes demeaning comments and/or shows predujice against women.</p>
+		<p>Peer makes demeaning comments and/or shows prejudice against women.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
@@ -107,7 +107,7 @@ folder: mydoc
         </div>
         <div id="homophobic-comments-labmate" class="panel-collapse collapse">
             <div class="panel-body">
-		<p>Peer makes degrading and/or predujiced comments about your sexual orientation or identity.</p>
+		<p>Peer makes degrading and/or prejudiced comments about your sexual orientation or identity.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
@@ -259,7 +259,7 @@ folder: mydoc
         </div>
         <div id="insulting-comments-labmate" class="panel-collapse collapse">
             <div class="panel-body">
-		<p>Peer publically or privately insults or humiliates you. Peer says rude, mean, and/or degrading things to and about you.</p>
+		<p>Peer publicly or privately insults or humiliates you. Peer says rude, mean, and/or degrading things to and about you.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
