@@ -302,5 +302,17 @@ folder: mydoc
                });
             },
         100);
+
+        $(window).on("click", function(e) {
+            if(e.target.className.trim() == 'anchorjs-link')
+            {
+                if(e.target.hash == location.hash)
+                {
+                    e.preventDefault();
+                    if(e.target.previousElementSibling.classList.contains("collapsed"))
+                        e.target.previousElementSibling.click();
+                }
+            }
+        });
     }
 </script>

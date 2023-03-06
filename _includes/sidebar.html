@@ -6,6 +6,7 @@
   {% for folder in entry.folders %}
   {% if folder.output contains "web" %}
   <li>
+      {% if folder.folderitems %}
       <a title="{{folder.title}}" href="#">{{folder.title}}</a>
       <ul>
           {% for folderitem in folder.folderitems %}
@@ -43,6 +44,9 @@
           {% endif %}
           {% endfor %}
       </ul>
+      {% else %}
+      <a title="{{folder.title}}" href="{{folder.url | remove: "/"}}">{{folder.title}}</a>
+      {% endif %}
    </li>
      {% endif %}
       {% endfor %}
