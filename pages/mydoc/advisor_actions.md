@@ -294,5 +294,13 @@ folder: mydoc
     {
         var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
         $(url + ".collapse").collapse("show");
+        var doc = document.getElementById(url.replace("#", "")).parentElement;
+        setTimeout(function () {
+            doc.scrollIntoView({
+                behavior: "smooth",
+               block: "start",
+               });
+            },
+        100);
     }
 </script>
