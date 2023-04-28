@@ -54,7 +54,7 @@ $(function() {
     });
 
     $("a.anchorjs-link").each(function() {
-        $(this)[0].href = $(this)[0].previousElementSibling.hash;
+        $(this)[0].href = $(this)[0].parentElement.parentElement.parentElement.hash;
     });
     
 });

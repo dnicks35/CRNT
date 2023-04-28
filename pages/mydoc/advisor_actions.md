@@ -11,11 +11,13 @@ folder: mydoc
 
 <div class="panel-group" id="my-advisors-actions">
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#intimidating-students" aria-expanded="false">Intimidating Students</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#intimidating-students" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Intimidating Students
+                </h4>
+            </div>
+        </a>
         <div id="intimidating-students" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>Advisor intimidates, harasses, and manipulates you to to achieve some desired result.</p>
@@ -56,11 +58,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
+    <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#threatening-funding" aria-expanded="false">
+        <div class="panel-heading" style="background-color:#f5f5f5;">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#threatening-funding" aria-expanded="false">Threatening Funding</a>
+                Threatening Funding
             </h4>
         </div>
+        </a>
         <div id="threatening-funding" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>Advisor threatens to fire you, cut your funding, drop your GTA/GRA, etc.</p>
@@ -93,11 +97,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#unreasonable-requests" aria-expanded="false">Unreasonable Requests</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#unreasonable-requests" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Unreasonable Requests
+                </h4>
+            </div>
+        </a>
         <div id="unreasonable-requests" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>Advisor requests/expects you to do things that are unreasonable, unsafe, unrealistic, etc.</p>
@@ -128,11 +134,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#retaliation-for-complaining-against-advisor" aria-expanded="false">Retaliation for complaining against advisor</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#retaliation-for-complaining-against-advisor" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Retaliation for complaining against advisor
+                </h4>
+            </div>
+        </a>
         <div id="retaliation-for-complaining-against-advisor" class="panel-collapse collapse">
             <div class="panel-body">
 		<p>Advisor retaliates after you make a complaint about his/her actions. Examples could include withdrawing a paper from a conference, giving you less time for meetings, etc.</p>
@@ -162,11 +170,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#blind-siding-students-with-a-poor-review" aria-expanded="false">"Blind siding" students with a poor review</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#blind-siding-students-with-a-poor-review" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    "Blind siding" students with a poor review
+                </h4>
+            </div>
+        </a>
         <div id="blind-siding-students-with-a-poor-review" class="panel-collapse collapse">
             <div class="panel-body">
 		<p>Advisor gives you a poor review on research credits for the semester with no warning or indication as to why you've earned such a review.</p>
@@ -192,11 +202,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#negative-consequences-of-a-poor-review-from-an-advisor" aria-expanded="false">Negative consequences of a poor review from an advisor</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#negative-consequences-of-a-poor-review-from-an-advisor" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Negative consequences of a poor review from an advisor
+                </h4>
+            </div>
+        </a>
         <div id="negative-consequences-of-a-poor-review-from-an-advisor" class="panel-collapse collapse">
             <div class="panel-body">
 		<p>Advisor gives you a poor review for research credits for the semester resulting in academic probation or other negative consequences.</p>
@@ -226,11 +238,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#disagreements-about-authorship-inclusion-or-order" aria-expanded="false">Disagreements about authorship inclusion or order</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#disagreements-about-authorship-inclusion-or-order" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Disagreements about authorship inclusion or order
+                </h4>
+            </div>
+        </a>
         <div id="disagreements-about-authorship-inclusion-or-order" class="panel-collapse collapse">
             <div class="panel-body">
 		<p>You and your advisor disagree on whether you belong on a paper and/or in what order your contributions should appear in the author order.</p>
@@ -257,11 +271,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#misappropriating-credit-for-work-to-another-student-or-post-doc" aria-expanded="false">Misappropriating credit for work to another student or post-doc</a>
-            </h4>
-        </div>
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#misappropriating-credit-for-work-to-another-student-or-post-doc" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Misappropriating credit for work to another student or post-doc
+                </h4>
+            </div>
+        </a>
         <div id="misappropriating-credit-for-work-to-another-student-or-post-doc" class="panel-collapse collapse">
             <div class="panel-body">
 		<p>Your work or contributions are not cited in a paper/conference and credit is instead given to others in the lab.</p>
@@ -294,25 +310,28 @@ folder: mydoc
     {
         var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
         $(url + ".collapse").collapse("show");
-        var doc = document.getElementById(url.replace("#", "")).parentElement;
+        var doc = document.getElementById(url.replace("#", "")).parentElement.parentElement;
+        let position = doc.getBoundingClientRect();
         setTimeout(function () {
-            doc.scrollIntoView({
-                behavior: "smooth",
-               block: "start",
-               });
+            window.scrollTo(position.left, position.top + window.scrollY - 400);
             },
         100);
-
-        $(window).on("click", function(e) {
-            if(e.target.className.trim() == 'anchorjs-link')
-            {
-                if(e.target.hash == location.hash)
-                {
-                    e.preventDefault();
-                    if(e.target.previousElementSibling.classList.contains("collapsed"))
-                        e.target.previousElementSibling.click();
-                }
-            }
-        });
     }
+
+    $(window).on("click", function(e) {
+        if(e.target.className.trim() == 'panel-title')
+        {
+            navigator.clipboard.writeText(e.target.childNodes[1].href);
+            if(e.target.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
+                e.target.parentElement.parentElement.nextElementSibling.click();
+        }
+
+        else if(e.target.className.trim() == 'anchorjs-link')
+        {
+            console.log(e);
+            navigator.clipboard.writeText(e.target.href);
+            if(e.target.parentElement.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
+                e.target.parentElement.parentElement.parentElement.nextElementSibling.click();
+        }
+    });
 </script>

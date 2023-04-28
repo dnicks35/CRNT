@@ -11,11 +11,13 @@ folder: mydoc
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#misappropriation-of-credit" aria-expanded="false">Misappropriation of credit for work to another student or post-doc</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#misappropriation-of-credit" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Misappropriation of credit for work to another student or post-doc
+                </h4>
+            </div>
+        </a>
         <div id="misappropriation-of-credit" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>You, a peer, colleague, and/or collaborator are not receiving the proper credit for your work, not properly  or efforts or are being unduly blamed for issues.</p>
@@ -38,11 +40,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#racist-comments-labmate" aria-expanded="false">Racist comments</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#racist-comments-labmate" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Racist comments
+                </h4>
+            </div>
+        </a>
         <div id="racist-comments-labmate" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>Peer makes demeaning comments regarding your race, identity, or ethnicity to you or others.</p>
@@ -66,11 +70,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#misogynistic-comments-labmate" aria-expanded="false">Misogynistic comments</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#misogynistic-comments-labmate" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Misogynistic comments
+                </h4>
+            </div>
+        </a>
         <div id="misogynistic-comments-labmate" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>Peer makes demeaning comments and/or shows prejudice against women.</p>
@@ -100,11 +106,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#homophobic-comments-labmate" aria-expanded="false">Homophobic, transphobic, biphobic, acephobic, etc. comments</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#homophobic-comments-labmate" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Homophobic, transphobic, biphobic, acephobic, etc. comments
+                </h4>
+            </div>
+        </a>
         <div id="homophobic-comments-labmate" class="panel-collapse collapse">
             <div class="panel-body">
 		<p>Peer makes degrading and/or prejudiced comments about your sexual orientation or identity.</p>
@@ -134,11 +142,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#intimidation-labmate" aria-expanded="false">Intimidation</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#intimidation-labmate" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Intimidation
+                </h4>
+            </div>
+        </a>
         <div id="intimidation-labmate" class="panel-collapse collapse">
             <div class="panel-body">
 		<p>Peer uses rank, threats, and/or physical, verbal, or emotional intimidation to sway your actions.</p>
@@ -162,11 +172,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#harassment-labmate" aria-expanded="false">Harassment/Hostility</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#harassment-labmate" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Harassment/Hostility
+                </h4>
+            </div>
+        </a>
         <div id="harassment-labmate" class="panel-collapse collapse">
             <div class="panel-body">
 		<p>Peer harasses you, treats you inappropriately, and/or makes you feel unsafe or uncomfortable.</p>
@@ -192,11 +204,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#exclusion-labmate" aria-expanded="false">Exclusion</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#exclusion-labmate" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Exclusion
+                </h4>
+            </div>
+        </a>
         <div id="exclusion-labmate" class="panel-collapse collapse">
             <div class="panel-body">
 		<p>Peer excludes you from lab/work activities, socials, discussion, etc.</p>
@@ -221,11 +235,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#stalking-labmate" aria-expanded="false">Stalking, inappropriate or sexual contact</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#stalking-labmate" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Stalking, inappropriate or sexual contact
+                </h4>
+            </div>
+        </a>
         <div id="stalking-labmate" class="panel-collapse collapse">
             <div class="panel-body">
 		<p>Peer engages in inappropriate physical or virtual conduct, particularly of a sexual nature, towards you and/or others.</p>
@@ -252,11 +268,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#insulting-comments-labmate" aria-expanded="false">Insulting/humiliating comments</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#insulting-comments-labmate" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Insulting/humiliating comments
+                </h4>
+            </div>
+        </a>
         <div id="insulting-comments-labmate" class="panel-collapse collapse">
             <div class="panel-body">
 		<p>Peer publicly or privately insults or humiliates you. Peer says rude, mean, and/or degrading things to and about you.</p>
@@ -285,25 +303,28 @@ folder: mydoc
     {
         var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
         $(url + ".collapse").collapse("show");
-        var doc = document.getElementById(url.replace("#", "")).parentElement;
+        var doc = document.getElementById(url.replace("#", "")).parentElement.parentElement;
+        let position = doc.getBoundingClientRect();
         setTimeout(function () {
-            doc.scrollIntoView({
-                behavior: "smooth",
-               block: "start",
-               });
+            window.scrollTo(position.left, position.top + window.scrollY - 400);
             },
         100);
-
-        $(window).on("click", function(e) {
-            if(e.target.className.trim() == 'anchorjs-link')
-            {
-                if(e.target.hash == location.hash)
-                {
-                    e.preventDefault();
-                    if(e.target.previousElementSibling.classList.contains("collapsed"))
-                        e.target.previousElementSibling.click();
-                }
-            }
-        });
     }
+
+    $(window).on("click", function(e) {
+        if(e.target.className.trim() == 'panel-title')
+        {
+            navigator.clipboard.writeText(e.target.childNodes[1].href);
+            if(e.target.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
+                e.target.parentElement.parentElement.nextElementSibling.click();
+        }
+
+        else if(e.target.className.trim() == 'anchorjs-link')
+        {
+            console.log(e);
+            navigator.clipboard.writeText(e.target.href);
+            if(e.target.parentElement.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
+                e.target.parentElement.parentElement.parentElement.nextElementSibling.click();
+        }
+    });
 </script>

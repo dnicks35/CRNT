@@ -16,6 +16,7 @@
 
 body {
     font-size:15px;
+    padding-top: 100px;
 }
 
 .bs-callout {
@@ -212,22 +213,27 @@ p.post-meta {font-size: 80%; color: #777;}
 .entry-date{font-size:14px;font-size:0.875rem;line-height:1.71429;margin-bottom:0;text-transform:uppercase;}
 
 /* search area */
+
 /* @media (max-width: 768px) {
-    .navbar-collapse {
-        position: absolute;
-        overflow: hidden;
+    #search-demo-container ul#results-container {
+        width: max-content;
+    }
+
+    #search-input {
+        width: max-content;
     }
 } */
+
 #search-demo-container ul#results-container {
     list-style: none;
     font-size: 12px;
     background-color: white;
-    position: fixed !important;
-    margin-top: 0px; /*if you change anything about the nav, you'll prob. need to reset the top and left values here. */
-    margin-left: 20px;
+    position: absolute !important;
+    margin-top: 0px;
+    /* margin-left: 20px; */
     z-index: -1;
     
-    width: 235px;
+    width: 470px;
     border-left: 1px solid #dedede;
 }
 
@@ -240,14 +246,14 @@ ul#results-container a:hover {
     color: black;
 }
 
-
 #search-demo-container a:hover {
     color: black;
 }
+
 #search-input {
     padding: .5em;
-    margin-left:20px;
-    width:20em;
+    /* margin-left:20px; */
+    width:40em;
     font-size: 0.8em;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -617,7 +623,7 @@ a.fa.fa-envelope-o.mailto {
 }
 
 h3 {color: #ED1951; font-weight:normal; font-size:130%;}
-h4 {color: #808080; font-weight:normal; font-size:120%; font-style:italic;}
+h4 {color: #808080; font-weight:normal;}
 
 .alert, .callout {
     overflow: hidden;
@@ -1187,6 +1193,25 @@ h4.panel-title {
     margin-top: 0px;
 }
 
+.grid-container {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 50% 50%;
+    grid-gap: 10px;
+}
+
+.grid-container > div {
+    text-align: center;
+}
+
+.grid-container > div > div {
+    padding: 10px;
+}
+
+.item1 {
+    grid-column: 1 / 2;
+}
+
 /*set navbar breakpoint so that it converts to hamburger earlier */
 
 @media (max-width: 1200px) {
@@ -1222,5 +1247,20 @@ h4.panel-title {
     }
     .collapse.in{
         display:block !important;
+    }
+
+    #search-demo-container ul#results-container {
+        width: 95%;
+        z-index: -1;
+    }
+
+    #search-input {
+        width: 95%;
+        z-index: -1;
+    }
+
+    .grid-container {
+        display: flex;
+        flex-direction: column;
     }
 }

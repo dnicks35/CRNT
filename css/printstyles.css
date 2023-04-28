@@ -11,20 +11,21 @@ table .table {max-width:650px;}
 #navig li.sectionHead {font-weight: bold; font-size: 18px; color: #595959 !important; }
 #navig li {font-weight: normal; }
 
-#navig a[href]::after { content: leader(".") target-counter(attr(href), page); }
+/* #navig a[href]::after { content: leader(".") target-counter(attr(href), page); }
 
 a[href]::after {
     content: " (page " target-counter(attr(href), page) ")"
-}
+} */
 
 a[href^="http:"]::after, a[href^="https:"]::after {
-    content: "";
+    content: " (page " attr(href)")"
 }
 
 a[href] {
     color: blue !important;
 }
-a[href*="mailto"]::after, a[data-toggle="tooltip"]::after, a[href].noCrossRef::after {
+
+a[href*="mailto"]::after, a[data-toggle="tooltip"]::after{
     content: "";
 }
 

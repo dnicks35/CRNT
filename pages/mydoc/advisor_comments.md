@@ -11,11 +11,13 @@ folder: mydoc
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#yelling" aria-expanded="false">Yelling</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#yelling" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Yelling
+                </h4>
+            </div>
+        </a>
         <div id="yelling" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>Advisor yells or screams at you and/or others.</p>
@@ -48,11 +50,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#humiliating-comments" aria-expanded="false">Humiliating/Insulting comments</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#humiliating-comments" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Humiliating/Insulting comments
+                </h4>
+            </div>
+        </a>
         <div id="humiliating-comments" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>Advisor publically or privately insults or humiliates you. Advisor says mean and/or degrading things to you.</p>
@@ -85,11 +89,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#racist-comments" aria-expanded="false">Racist Comments</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#racist-comments" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Racist Comments
+                </h4>
+            </div>
+        </a>
         <div id="racist-comments" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>Advisor makes demeaning comments regarding your race, identity, or ethnicity to you or others.</p>
@@ -111,11 +117,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#misogynistic-comments" aria-expanded="false">Misogynistic comments</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#misogynistic-comments" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Misogynistic comments
+                </h4>
+            </div>
+        </a>
         <div id="misogynistic-comments" class="panel-collapse collapse">
             <div class="panel-body">
 		<p>Advisor makes demeaning comments and/or shows predujice against women.</p>
@@ -142,11 +150,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#homophobic-comments" aria-expanded="false">Homophobic, transphobic, biphobic, acephobic, etc.</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#homophobic-comments" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Homophobic, transphobic, biphobic, acephobic, etc.
+                </h4>
+            </div>
+        </a>
         <div id="homophobic-comments" class="panel-collapse collapse">
             <div class="panel-body">
 		<p>Advisor makes degrading and/or predujiced comments about your sexual orientation or identity.</p>
@@ -173,11 +183,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#concern-that-advisor-will-say-negative-things" aria-expanded="false">Concern that advisor would say negative things about you to other faculty/staff</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#concern-that-advisor-will-say-negative-things" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Concern that advisor would say negative things about you to other faculty/staff
+                </h4>
+            </div>
+        </a>
         <div id="concern-that-advisor-will-say-negative-things" class="panel-collapse collapse">
             <div class="panel-body">
 		<p>Advisor says demeaning, embarassing, and/or negative things about you to other faculty members and administrator.</p>
@@ -212,25 +224,28 @@ folder: mydoc
     {
         var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
         $(url + ".collapse").collapse("show");
-        var doc = document.getElementById(url.replace("#", "")).parentElement;
+        var doc = document.getElementById(url.replace("#", "")).parentElement.parentElement;
+        let position = doc.getBoundingClientRect();
         setTimeout(function () {
-            doc.scrollIntoView({
-                behavior: "smooth",
-               block: "start",
-               });
+            window.scrollTo(position.left, position.top + window.scrollY - 400);
             },
         100);
-
-        $(window).on("click", function(e) {
-            if(e.target.className.trim() == 'anchorjs-link')
-            {
-                if(e.target.hash == location.hash)
-                {
-                    e.preventDefault();
-                    if(e.target.previousElementSibling.classList.contains("collapsed"))
-                        e.target.previousElementSibling.click();
-                }
-            }
-        });
     }
+
+    $(window).on("click", function(e) {
+        if(e.target.className.trim() == 'panel-title')
+        {
+            navigator.clipboard.writeText(e.target.childNodes[1].href);
+            if(e.target.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
+                e.target.parentElement.parentElement.nextElementSibling.click();
+        }
+
+        else if(e.target.className.trim() == 'anchorjs-link')
+        {
+            console.log(e);
+            navigator.clipboard.writeText(e.target.href);
+            if(e.target.parentElement.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
+                e.target.parentElement.parentElement.parentElement.nextElementSibling.click();
+        }
+    });
 </script>

@@ -11,11 +11,13 @@ folder: mydoc
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#does-not-provide-disability-accomodations" aria-expanded="false">Does not provide disability accomodations</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#does-not-provide-disability-accomodations" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Does not provide disability accomodations
+                </h4>
+            </div>
+        </a>
         <div id="does-not-provide-disability-accomodations" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>You have a need/needs related to an injury or disability that your advisor refuses to accomodate.</p>
@@ -35,11 +37,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#familial-constraints" aria-expanded="false">Does not acknowledge parental/familial constraints</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#familial-constraints" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Does not acknowledge parental/familial constraints
+                </h4>
+            </div>
+        </a>
         <div id="familial-constraints" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>Advisor refuses to accomodate your familial or parental responsibilities.</p>
@@ -65,11 +69,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#excessive-expected-work-hours" aria-expanded="false">Excessive expected work hours</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#excessive-expected-work-hours" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Excessive expected work hours
+                </h4>
+            </div>
+        </a>
         <div id="excessive-expected-work-hours" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>Advisor demands an unreasonable amount of work given the time you are given.</p>
@@ -95,11 +101,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#unsafe-work-conditions" aria-expanded="false">Unsafe work conditions</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#unsafe-work-conditions" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Unsafe work conditions
+                </h4>
+            </div>
+        </a>
         <div id="unsafe-work-conditions" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>Advisor does not provide/enable a safe work environment or ask you to do work that is unsafe.</p>
@@ -131,25 +139,28 @@ folder: mydoc
     {
         var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
         $(url + ".collapse").collapse("show");
-        var doc = document.getElementById(url.replace("#", "")).parentElement;
+        var doc = document.getElementById(url.replace("#", "")).parentElement.parentElement;
+        let position = doc.getBoundingClientRect();
         setTimeout(function () {
-            doc.scrollIntoView({
-                behavior: "smooth",
-               block: "start",
-               });
+            window.scrollTo(position.left, position.top + window.scrollY - 400);
             },
         100);
-
-        $(window).on("click", function(e) {
-            if(e.target.className.trim() == 'anchorjs-link')
-            {
-                if(e.target.hash == location.hash)
-                {
-                    e.preventDefault();
-                    if(e.target.previousElementSibling.classList.contains("collapsed"))
-                        e.target.previousElementSibling.click();
-                }
-            }
-        });
     }
+
+    $(window).on("click", function(e) {
+        if(e.target.className.trim() == 'panel-title')
+        {
+            navigator.clipboard.writeText(e.target.childNodes[1].href);
+            if(e.target.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
+                e.target.parentElement.parentElement.nextElementSibling.click();
+        }
+
+        else if(e.target.className.trim() == 'anchorjs-link')
+        {
+            console.log(e);
+            navigator.clipboard.writeText(e.target.href);
+            if(e.target.parentElement.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
+                e.target.parentElement.parentElement.parentElement.nextElementSibling.click();
+        }
+    });
 </script>

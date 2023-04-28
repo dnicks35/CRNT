@@ -11,11 +11,13 @@ folder: mydoc
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-dissertation" aria-expanded="false">Disagreements about what is required for dissertation</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-dissertation" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Disagreements about what is required for dissertation
+                </h4>
+            </div>
+        </a>
         <div id="disagreements-about-dissertation" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>TEMP</p>
@@ -41,11 +43,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-progress" aria-expanded="false">Disagreements about graduation progress</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-progress" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Disagreements about graduation progress
+                </h4>
+            </div>
+        </a>
         <div id="disagreements-about-progress" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>TEMP</p>
@@ -71,11 +75,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-career" aria-expanded="false">Advisor not respecting career choices</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-career" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Advisor not respecting career choices
+                </h4>
+            </div>
+        </a>
         <div id="disagreements-about-career" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>TEMP</p>
@@ -100,11 +106,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-graduation-date" aria-expanded="false">Disagreements about graduation date</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-graduation-date" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Disagreements about graduation date
+                </h4>
+            </div>
+        </a>
         <div id="disagreements-about-graduation-date" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>TEMP</p>
@@ -135,25 +143,28 @@ folder: mydoc
     {
         var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
         $(url + ".collapse").collapse("show");
-        var doc = document.getElementById(url.replace("#", "")).parentElement;
+        var doc = document.getElementById(url.replace("#", "")).parentElement.parentElement;
+        let position = doc.getBoundingClientRect();
         setTimeout(function () {
-            doc.scrollIntoView({
-                behavior: "smooth",
-               block: "start",
-               });
+            window.scrollTo(position.left, position.top + window.scrollY - 400);
             },
         100);
-
-        $(window).on("click", function(e) {
-            if(e.target.className.trim() == 'anchorjs-link')
-            {
-                if(e.target.hash == location.hash)
-                {
-                    e.preventDefault();
-                    if(e.target.previousElementSibling.classList.contains("collapsed"))
-                        e.target.previousElementSibling.click();
-                }
-            }
-        });
     }
+
+    $(window).on("click", function(e) {
+        if(e.target.className.trim() == 'panel-title')
+        {
+            navigator.clipboard.writeText(e.target.childNodes[1].href);
+            if(e.target.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
+                e.target.parentElement.parentElement.nextElementSibling.click();
+        }
+
+        else if(e.target.className.trim() == 'anchorjs-link')
+        {
+            console.log(e);
+            navigator.clipboard.writeText(e.target.href);
+            if(e.target.parentElement.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
+                e.target.parentElement.parentElement.parentElement.nextElementSibling.click();
+        }
+    });
 </script>

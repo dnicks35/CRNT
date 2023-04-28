@@ -11,11 +11,13 @@ folder: mydoc
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#physical-violence" aria-expanded="false">Physical violence</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#physical-violence" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Physical violence
+                </h4>
+            </div>
+        </a>
         <div id="physical-violence" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>Advisor threatens you with physical violence, encourages others to act violently to you, or is physical violent towards themselves.</p>
@@ -35,11 +37,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#inappropriate-contact" aria-expanded="false">Stalking, inappropriate or sexual contact</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#inappropriate-contact" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Stalking, inappropriate or sexual contact
+                </h4>
+            </div>
+        </a>
         <div id="inappropriate-contact" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>Advisor engages in inappropriate physical or virtual conduct, particularly of a sexual nature, towards you and/or your peers.</p>
@@ -61,11 +65,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#academically-unethical-practices" aria-expanded="false">Academically unethical practices</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#academically-unethical-practices" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Academically unethical practices
+                </h4>
+            </div>
+        </a>
         <div id="academically-unethical-practices" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>Advisor is partaking in unethical academic or research activities or is encouraging you to do so. Activities may include falsifying data, cherry-picking results, skipping IRB requirements, etc.</p>
@@ -86,11 +92,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#unethical-financial-activities" aria-expanded="false">General financial activities that are illegal or unethical</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#unethical-financial-activities" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    General financial activities that are illegal or unethical
+                </h4>
+            </div>
+        </a>
         <div id="unethical-financial-activities" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>Advisor is participating in or attempting to make you participate in illegal or unethical financial activities such as withholding pay, taking or giving bribes, money laundering, etc.</p>
@@ -113,11 +121,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-on-internship" aria-expanded="false">Disagreements on taking an internship</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-on-internship" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Disagreements on taking an internship
+                </h4>
+            </div>
+        </a>
         <div id="disagreements-on-internship" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>Advisor actions hinder you from pursuing an internship or work arrangements. You and your advisor disagree on when and/or what type of internship you can pursue.</p>
@@ -139,25 +149,28 @@ folder: mydoc
     {
         var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
         $(url + ".collapse").collapse("show");
-        var doc = document.getElementById(url.replace("#", "")).parentElement;
+        var doc = document.getElementById(url.replace("#", "")).parentElement.parentElement;
+        let position = doc.getBoundingClientRect();
         setTimeout(function () {
-            doc.scrollIntoView({
-                behavior: "smooth",
-               block: "start",
-               });
+            window.scrollTo(position.left, position.top + window.scrollY - 400);
             },
         100);
-
-        $(window).on("click", function(e) {
-            if(e.target.className.trim() == 'anchorjs-link')
-            {
-                if(e.target.hash == location.hash)
-                {
-                    e.preventDefault();
-                    if(e.target.previousElementSibling.classList.contains("collapsed"))
-                        e.target.previousElementSibling.click();
-                }
-            }
-        });
     }
+
+    $(window).on("click", function(e) {
+        if(e.target.className.trim() == 'panel-title')
+        {
+            navigator.clipboard.writeText(e.target.childNodes[1].href);
+            if(e.target.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
+                e.target.parentElement.parentElement.nextElementSibling.click();
+        }
+
+        else if(e.target.className.trim() == 'anchorjs-link')
+        {
+            console.log(e);
+            navigator.clipboard.writeText(e.target.href);
+            if(e.target.parentElement.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
+                e.target.parentElement.parentElement.parentElement.nextElementSibling.click();
+        }
+    });
 </script>

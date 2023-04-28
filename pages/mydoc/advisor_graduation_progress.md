@@ -11,11 +11,13 @@ folder: mydoc
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-proposal" aria-expanded="false">Disagreements about proposal (timeline, content, etc)</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-proposal" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Disagreements about proposal (timeline, content, etc)
+                </h4>
+            </div>
+        </a>
         <div id="disagreements-about-proposal" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>You and your advisor disagree on the timeline and/or content for your proposal which causes delays, stress, and/or hinderances to your progress.</p>
@@ -35,11 +37,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-dissertation" aria-expanded="false">Disagreements about what is required for dissertation</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-dissertation" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Disagreements about what is required for dissertation
+                </h4>
+            </div>
+        </a>
         <div id="disagreements-about-dissertation" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>You and your advisor disagree on the timeline and/or content for your dissertation and/or defense which causes delays, stress, and/or hinderances to your progress.</p>
@@ -61,11 +65,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-graduation-date" aria-expanded="false">Disagreements about graduation date</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-graduation-date" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Disagreements about graduation date
+                </h4>
+            </div>
+        </a>
         <div id="disagreements-about-graduation-date" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>You and your advisor disagree on the timeline to your graduation and requirements for graduation.</p>
@@ -86,12 +92,14 @@ folder: mydoc
         </div>
     </div>
     <!-- /.panel -->
-        <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-thesis-committee-members" aria-expanded="false">Disagreements about thesis committee members</a>
-            </h4>
-        </div>
+    <div class="panel panel-default">
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-thesis-committee-members" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Disagreements about thesis committee members
+                </h4>
+            </div>
+        </a>
         <div id="disagreements-about-thesis-committee-members" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>You and your advisor disagree on who should and should not be on your thesis committee.</p>
@@ -113,11 +121,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-classes-and-performance" aria-expanded="false">Disagreements about classes to take and course performance</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-classes-and-performance" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Disagreements about classes to take and course performance
+                </h4>
+            </div>
+        </a>
         <div id="disagreements-about-classes-and-performance" class="panel-collapse collapse">
             <div class="panel-body">
 		<p>You and your advisor disagree on course goals, what classes to take when, and the amount of effort needed for your course(s).</p>
@@ -139,25 +149,28 @@ folder: mydoc
     {
         var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
         $(url + ".collapse").collapse("show");
-        var doc = document.getElementById(url.replace("#", "")).parentElement;
+        var doc = document.getElementById(url.replace("#", "")).parentElement.parentElement;
+        let position = doc.getBoundingClientRect();
         setTimeout(function () {
-            doc.scrollIntoView({
-                behavior: "smooth",
-               block: "start",
-               });
+            window.scrollTo(position.left, position.top + window.scrollY - 400);
             },
         100);
-
-        $(window).on("click", function(e) {
-            if(e.target.className.trim() == 'anchorjs-link')
-            {
-                if(e.target.hash == location.hash)
-                {
-                    e.preventDefault();
-                    if(e.target.previousElementSibling.classList.contains("collapsed"))
-                        e.target.previousElementSibling.click();
-                }
-            }
-        });
     }
+
+    $(window).on("click", function(e) {
+        if(e.target.className.trim() == 'panel-title')
+        {
+            navigator.clipboard.writeText(e.target.childNodes[1].href);
+            if(e.target.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
+                e.target.parentElement.parentElement.nextElementSibling.click();
+        }
+
+        else if(e.target.className.trim() == 'anchorjs-link')
+        {
+            console.log(e);
+            navigator.clipboard.writeText(e.target.href);
+            if(e.target.parentElement.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
+                e.target.parentElement.parentElement.parentElement.nextElementSibling.click();
+        }
+    });
 </script>
