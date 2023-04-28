@@ -233,7 +233,7 @@ p.post-meta {font-size: 80%; color: #777;}
     /* margin-left: 20px; */
     z-index: -1;
     
-    width: 470px;
+    width: 345px;
     border-left: 1px solid #dedede;
 }
 
@@ -253,7 +253,7 @@ ul#results-container a:hover {
 #search-input {
     padding: .5em;
     /* margin-left:20px; */
-    width:40em;
+    width:29em;
     font-size: 0.8em;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;

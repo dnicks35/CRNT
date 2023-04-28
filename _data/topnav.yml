@@ -8,8 +8,6 @@ topnav:
   items:
     - title: Problem Identification
       url: /problem-identification
-    - title: Conflict Navigation
-      url: /conflict-navigation
     - title: Directory
       url: /directory
     - title: Feedback
