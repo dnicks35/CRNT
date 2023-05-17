@@ -11,11 +11,13 @@ folder: mydoc
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-fellowships" aria-expanded="false">Disagreements about applying for fellowships</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-fellowships" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Disagreements about applying for fellowships
+                </h4>
+            </div>
+        </a>
         <div id="disagreements-about-fellowships" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>Your advisor tries to prevent you from applying to fellowships or tries to force you to apply for a fellowship for research you don't want to conduct.</p>
@@ -36,11 +38,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#advisor-threatens-funding" aria-expanded="false">Advisor threatens to pull funding</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#advisor-threatens-funding" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Advisor threatens to pull funding
+                </h4>
+            </div>
+        </a>
         <div id="advisor-threatens-funding" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>Your advisor threatens to stop giving you GRA funding for a variety of reasons including: not making enough progress, personal grievance, retaliation, or any other reason.</p>
@@ -61,11 +65,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#personal-expenses" aria-expanded="false">Unable to afford personal expenses</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#personal-expenses" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Unable to afford personal expenses
+                </h4>
+            </div>
+        </a>
         <div id="personal-expenses" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>The amount you are being paid is not enough to cover your basic living expenses.</p>
@@ -87,11 +93,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#taxes" aria-expanded="false">Paying taxes</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#taxes" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Paying taxes
+                </h4>
+            </div>
+        </a>
         <div id="taxes" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>You are unsure how to file your taxes and cannot afford to pay for a professional service.</p>
@@ -117,5 +125,28 @@ folder: mydoc
     {
         var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
         $(url + ".collapse").collapse("show");
+        var doc = document.getElementById(url.replace("#", "")).parentElement.parentElement;
+        let position = doc.getBoundingClientRect();
+        setTimeout(function () {
+            window.scrollTo(position.left, position.top + window.scrollY - 400);
+            },
+        100);
     }
+
+    $(window).on("click", function(e) {
+        if(e.target.className.trim() == 'panel-title')
+        {
+            navigator.clipboard.writeText(e.target.childNodes[1].href);
+            if(e.target.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
+                e.target.parentElement.parentElement.nextElementSibling.click();
+        }
+
+        else if(e.target.className.trim() == 'anchorjs-link')
+        {
+            console.log(e);
+            navigator.clipboard.writeText(e.target.href);
+            if(e.target.parentElement.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
+                e.target.parentElement.parentElement.parentElement.nextElementSibling.click();
+        }
+    });
 </script>

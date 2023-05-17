@@ -11,11 +11,13 @@ folder: mydoc
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#asked-to-act-unethically" aria-expanded="false">A coworker/collaborator asks you to do something unethical</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#asked-to-act-unethically" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    A coworker/collaborator asks you to do something unethical
+                </h4>
+            </div>
+        </a>
         <div id="asked-to-act-unethically" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>Someone you are working with asks you to perform an action that you believe breaks some moral or ethical guidelines.</p>
@@ -39,11 +41,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#misrepresentation-of-data" aria-expanded="false">A coworker/collaborator misrepresents findings or data</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#misrepresentation-of-data" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    A coworker/collaborator misrepresents findings or data
+                </h4>
+            </div>
+        </a>
         <div id="misrepresentation-of-data" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>You find out that someone intentionally or unintentionally reported false or misleading data.</p>
@@ -67,11 +71,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#misappropriation-of-credit" aria-expanded="false">Your advisor inaccurately assigns work or credit</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#misappropriation-of-credit" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Your advisor inaccurately assigns work or credit
+                </h4>
+            </div>
+        </a>
         <div id="misappropriation-of-credit" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>Your advisor attributes work efforts or results to researchers who do not deserve it and/or take credit away from those who deserve it.</p>
@@ -91,11 +97,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#authorship-inclusion" aria-expanded="false">Disagreement regarding authorship inclusion or order</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#authorship-inclusion" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Disagreement regarding authorship inclusion or order
+                </h4>
+            </div>
+        </a>
         <div id="authorship-inclusion" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>You and your advisor or coworker disagree about the order in which the authors should be listed on a publication, presentation, or patent.</p>
@@ -120,5 +128,28 @@ folder: mydoc
     {
         var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
         $(url + ".collapse").collapse("show");
+        var doc = document.getElementById(url.replace("#", "")).parentElement.parentElement;
+        let position = doc.getBoundingClientRect();
+        setTimeout(function () {
+            window.scrollTo(position.left, position.top + window.scrollY - 400);
+            },
+        100);
     }
+
+    $(window).on("click", function(e) {
+        if(e.target.className.trim() == 'panel-title')
+        {
+            navigator.clipboard.writeText(e.target.childNodes[1].href);
+            if(e.target.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
+                e.target.parentElement.parentElement.nextElementSibling.click();
+        }
+
+        else if(e.target.className.trim() == 'anchorjs-link')
+        {
+            console.log(e);
+            navigator.clipboard.writeText(e.target.href);
+            if(e.target.parentElement.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
+                e.target.parentElement.parentElement.parentElement.nextElementSibling.click();
+        }
+    });
 </script>
