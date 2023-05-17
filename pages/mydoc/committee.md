@@ -11,11 +11,13 @@ folder: mydoc
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-committee" aria-expanded="false">Disagreements about thesis committee members</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-committee" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Disagreements about thesis committee members
+                </h4>
+            </div>
+        </a>
         <div id="disagreements-about-committee" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>You and your advisor disagree on who should and should not be on your thesis committee.</p>
@@ -36,11 +38,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-proposal" aria-expanded="false">Disagreements about proposal (timeline, content, etc.)</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-proposal" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Disagreements about proposal (timeline, content, etc.)
+                </h4>
+            </div>
+        </a>
         <div id="disagreements-about-proposal" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>You and your committee member(s) disagree on the proposed timeline and research deliverables.</p>
@@ -62,11 +66,13 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-dissertation" aria-expanded="false">Disagreements about what is required for dissertation</a>
-            </h4>
-        </div>
+        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-dissertation" aria-expanded="false">
+            <div class="panel-heading" style="background-color:#f5f5f5;">
+                <h4 class="panel-title">
+                    Disagreements about what is required for dissertation
+                </h4>
+            </div>
+        </a>
         <div id="disagreements-about-dissertation" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
 		<p>You and your committee member(s) have different opinions about what amount of work is adequate for your dissertation.</p>
