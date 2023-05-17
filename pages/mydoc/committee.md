@@ -89,23 +89,32 @@ folder: mydoc
 </div>
 
 <script>
-	if(location.hash !== null && location.hash !== "") 
-	{
-		var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash; $(url + ".collapse").collapse("show"); 
-		var doc = document.getElementById(url.replace("#", "")).parentElement.parentElement; 
-		let position = doc.getBoundingClientRect(); 
-		setTimeout(function () {window.scrollTo(position.left, position.top + window.scrollY - 400); }, 100); 
-	} 
+    if(location.hash !== null && location.hash !== "")
+    {
+        var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
+        $(url + ".collapse").collapse("show");
+        var doc = document.getElementById(url.replace("#", "")).parentElement.parentElement;
+        let position = doc.getBoundingClientRect();
+        setTimeout(function () {
+            window.scrollTo(position.left, position.top + window.scrollY - 400);
+            },
+        100);
+    }
 
-	$(window).on("click", function(e) { 
-		if(e.target.className.trim() == 'panel-title') 
-		{ 
-			navigator.clipboard.writeText(e.target.childNodes[1].href); 
-			if(e.target.parentElement.parentElement.nextElementSibling.classList.contains("collapsed")) e.target.parentElement.parentElement.nextElementSibling.click(); 
-		} 
-		else if(e.target.className.trim() == 'anchorjs-link') 
-		{ 
-			console.log(e); navigator.clipboard.writeText(e.target.href); 
-			if(e.target.parentElement.parentElement.parentElement.nextElementSibling.classList.contains("collapsed")) e.target.parentElement.parentElement.parentElement.nextElementSibling.click(); } 
-		}); 
+    $(window).on("click", function(e) {
+        if(e.target.className.trim() == 'panel-title')
+        {
+            navigator.clipboard.writeText(e.target.childNodes[1].href);
+            if(e.target.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
+                e.target.parentElement.parentElement.nextElementSibling.click();
+        }
+
+        else if(e.target.className.trim() == 'anchorjs-link')
+        {
+            console.log(e);
+            navigator.clipboard.writeText(e.target.href);
+            if(e.target.parentElement.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
+                e.target.parentElement.parentElement.parentElement.nextElementSibling.click();
+        }
+    });
 </script>
