@@ -13,9 +13,11 @@ Purpose of the directory and how to use it. May want to also link to conflict na
 <p>&nbsp;</p>
 
 <div class="grid-container btn-group">
-  <div class="item1"><div class="btn-primary" style="border-radius: 12px;"><a href="dean_of_college.html" style="color: white !important">College Dean</a></div></div>
-
   <div class="item2"><div class="btn-primary" style="border-radius: 12px;"><a href="vice_provost_conflict_resolution.html" style="color: white !important">Assistant VP for Conflict Resolution</a></div></div>
+
+  <div class="item1"><div class="btn-primary" style="border-radius: 12px;"><a href="care.html" style="color: white !important">CARE Counseling</a></div></div>
+
+  <div class="item1"><div class="btn-primary" style="border-radius: 12px;"><a href="dean_of_college.html" style="color: white !important">College Dean</a></div></div>
 
   <div class="item3"><div class="btn-primary" style="border-radius: 12px;"><a href="dean_students.html" style="color: white !important">Dean of Students</a></div></div>
 
@@ -26,6 +28,8 @@ Purpose of the directory and how to use it. May want to also link to conflict na
   <div class="item6"><div class="btn-primary" style="border-radius: 12px;"><a href="ehs.html" style="color: white !important">Environmental Health and Safety Department</a></div></div>
 
   <div class="item7"><div class="btn-primary" style="border-radius: 12px;"><a href="ethicspoint.html" style="color: white !important">EthicsPoint</a></div></div>
+
+  <div class="item7"><div class="btn-primary" style="border-radius: 12px;"><a href="external_therapy.html" style="color: white !important">External Therapy</a></div></div>
 
   <div class="item8"><div class="btn-primary" style="border-radius: 12px;"><a href="gt_police.html" style="color: white !important">GT Police</a></div></div>
 
@@ -50,11 +54,14 @@ Purpose of the directory and how to use it. May want to also link to conflict na
   <div class="item18"><div class="btn-primary" style="border-radius: 12px;"><a href="voice.html" style="color: white !important">VOICE</a></div></div>
 </div>
 
-<!-- <p><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></p>
+<!-- 
+<p><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></p>
+<p><a href="care.html">CARE Counseling</a></p>
 <p><a href="dean_of_college.html">College Dean</a></p>
 <p><a href="dean_students.html">Dean of Students</a></p>
 <p><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></p>
 <p><a href="department_chair.html">Department Chair</a></p>
+<p><a href="external_therapy.html">External Therapy</a></p>
 <p><a href="ehs.html">Environmental Health and Safety Department</a></p>
 <p><a href="ethicspoint.html">EthicsPoint</a></p>
 <p><a href="gt_police.html">GT Police</a></p>
