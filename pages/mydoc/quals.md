@@ -11,16 +11,14 @@ folder: mydoc
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#negative-consequence-quals" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Negative consequence for quals performance (being fired, losing GRA or GTA status, etc.)
-                </h4>
-            </div>
-        </a>
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#negative-consequence-quals" aria-expanded="false">Negative consequence for quals performance (being fired, losing GRA or GTA status, etc.)</a>
+            </h4>
+        </div>
         <div id="negative-consequence-quals" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p>TEMP</p>
+		<p>Your advisor threatens you with negative consequences for not passing quals on your first try such as being fired or losing funding.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
@@ -41,16 +39,14 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#harassment-from-quals-committee" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Harassment from quals committee
-                </h4>
-            </div>
-        </a>
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#harassment-from-quals-committee" aria-expanded="false">Harassment from quals committee</a>
+            </h4>
+        </div>
         <div id="harassment-from-quals-committee" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p>TEMP</p>
+		<p>One or more members of your quals committee harasses you, treats you inappropriately, and/or makes you feel unsafe or uncomfortable particularly in regard to your race, gender, or identity.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                    <ol type="1">
@@ -72,16 +68,14 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#unfair-quals-committee" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Unfair treatment from quals committee
-                </h4>
-            </div>
-        </a>
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#unfair-quals-committee" aria-expanded="false">Unfair treatment from quals committee</a>
+            </h4>
+        </div>
         <div id="unfair-quals-committee" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p>TEMP</p>
+		<p>Your quals committee treats you in a way you feel is unreasonable or inconsistent with written expectations.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                    <ol type="1">
@@ -103,16 +97,14 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#insulting-comments-quals-committee" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Insulting/humiliating comments from quals committee
-                </h4>
-            </div>
-        </a>
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#insulting-comments-quals-committee" aria-expanded="false">Insulting/humiliating comments from quals committee</a>
+            </h4>
+        </div>
         <div id="insulting-comments-quals-committee" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p>TEMP</p>
+		<p>Your quals committee member(s) publically or privately insults or humiliates you. Committee member says rude, mean, and/or degrading things to or about you.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                    <ol type="1">
@@ -139,28 +131,5 @@ folder: mydoc
     {
         var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
         $(url + ".collapse").collapse("show");
-        var doc = document.getElementById(url.replace("#", "")).parentElement.parentElement;
-        let position = doc.getBoundingClientRect();
-        setTimeout(function () {
-            window.scrollTo(position.left, position.top + window.scrollY - 400);
-            },
-        100);
     }
-
-    $(window).on("click", function(e) {
-        if(e.target.className.trim() == 'panel-title')
-        {
-            navigator.clipboard.writeText(e.target.childNodes[1].href);
-            if(e.target.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
-                e.target.parentElement.parentElement.nextElementSibling.click();
-        }
-
-        else if(e.target.className.trim() == 'anchorjs-link')
-        {
-            console.log(e);
-            navigator.clipboard.writeText(e.target.href);
-            if(e.target.parentElement.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
-                e.target.parentElement.parentElement.parentElement.nextElementSibling.click();
-        }
-    });
 </script>

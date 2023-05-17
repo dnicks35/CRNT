@@ -11,16 +11,14 @@ folder: mydoc
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-dissertation" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Disagreements about what is required for dissertation
-                </h4>
-            </div>
-        </a>
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-dissertation" aria-expanded="false">Disagreements about what is required for dissertation</a>
+            </h4>
+        </div>
         <div id="disagreements-about-dissertation" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p>TEMP</p>
+		<p>You and your advisor disagree on the timeline and/or content for your dissertation and/or defense which causes delays, stress, and/or hinderances to your progress.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
@@ -43,16 +41,14 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-progress" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Disagreements about graduation progress
-                </h4>
-            </div>
-        </a>
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-progress" aria-expanded="false">Disagreements about graduation progress</a>
+            </h4>
+        </div>
         <div id="disagreements-about-progress" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p>TEMP</p>
+		<p>You and your advisor disagree on what constitutes reasonable progress towards having completed enough research to graduate.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                    <ol type="1">
@@ -75,16 +71,14 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-career" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Advisor not respecting career choices
-                </h4>
-            </div>
-        </a>
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-career" aria-expanded="false">Advisor not respecting career choices</a>
+            </h4>
+        </div>
         <div id="disagreements-about-career" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p>TEMP</p>
+		<p>Your advisor tries to force you into a certain career path, work for a certain company, or tries to sabatoge your efforts towards your desired career path.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                    <ol type="1">
@@ -106,16 +100,14 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-graduation-date" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Disagreements about graduation date
-                </h4>
-            </div>
-        </a>
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-graduation-date" aria-expanded="false">Disagreements about graduation date</a>
+            </h4>
+        </div>
         <div id="disagreements-about-graduation-date" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p>TEMP</p>
+		<p>You and your advisor or committee members disagree on the timeline for when you should propose and defend your dissertation.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                    <ol type="1">
@@ -143,28 +135,5 @@ folder: mydoc
     {
         var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
         $(url + ".collapse").collapse("show");
-        var doc = document.getElementById(url.replace("#", "")).parentElement.parentElement;
-        let position = doc.getBoundingClientRect();
-        setTimeout(function () {
-            window.scrollTo(position.left, position.top + window.scrollY - 400);
-            },
-        100);
     }
-
-    $(window).on("click", function(e) {
-        if(e.target.className.trim() == 'panel-title')
-        {
-            navigator.clipboard.writeText(e.target.childNodes[1].href);
-            if(e.target.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
-                e.target.parentElement.parentElement.nextElementSibling.click();
-        }
-
-        else if(e.target.className.trim() == 'anchorjs-link')
-        {
-            console.log(e);
-            navigator.clipboard.writeText(e.target.href);
-            if(e.target.parentElement.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
-                e.target.parentElement.parentElement.parentElement.nextElementSibling.click();
-        }
-    });
 </script>

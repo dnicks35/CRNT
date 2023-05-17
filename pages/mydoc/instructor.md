@@ -11,16 +11,14 @@ folder: mydoc
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#yelling" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Instructor yelling at students
-                </h4>
-            </div>
-        </a>
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#yelling" aria-expanded="false">Instructor yelling at students</a>
+            </h4>
+        </div>
         <div id="yelling" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p>TEMP</p>
+		<p>Your instructor yells or screams at you and/or others.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
@@ -43,16 +41,14 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-    <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#humiliating-comments" aria-expanded="false">
-        <div class="panel-heading" style="background-color:#f5f5f5;">
+        <div class="panel-heading">
             <h4 class="panel-title">
-                Instructor insulting/humiliating students
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#humiliating-comments" aria-expanded="false">Instructor insulting/humiliating students</a>
             </h4>
         </div>
-        </a>
         <div id="humiliating-comments" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p>TEMP</p>
+		<p>Your instructor makes humiliating or insultimg comments about students in public or in private.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                    <ol type="1">
@@ -75,16 +71,14 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#intimidation" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Instructor intimidating students
-                </h4>
-            </div>
-        </a>
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#intimidation" aria-expanded="false">Instructor intimidating students</a>
+            </h4>
+        </div>
         <div id="intimidation" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p>TEMP</p>
+		<p>Your instructor uses rank, threats, and/or physical, verbal, or emotional intimidation to sway your actions.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                    <ol type="1">
@@ -104,16 +98,14 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#racist-comments" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Racist comments from instructor
-                </h4>
-            </div>
-        </a>
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#racist-comments" aria-expanded="false">Racist comments from instructor</a>
+            </h4>
+        </div>
         <div id="racist-comments" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p>TEMP</p>
+		<p>Instructor makes demeaning comments regarding your or another student's race, identity, or ethnicity to you or others.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                    <ol type="1">
@@ -132,16 +124,14 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#misogynistic-comments" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Misogynistic comments from instructor
-                </h4>
-            </div>
-        </a>
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#misogynistic-comments" aria-expanded="false">Misogynistic comments from instructor</a>
+            </h4>
+        </div>
         <div id="misogynistic-comments" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-    <p>TEMP</p>
+    		<p>Instructor makes demeaning comments and/or shows predujice against women.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                    <ol type="1">
@@ -165,16 +155,14 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#homophobic-comments" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Homophobic, transphobic, biphobic, acephobic, etc. comments
-                </h4>
-            </div>
-        </a>
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#homophobic-comments" aria-expanded="false">Homophobic, transphobic, biphobic, acephobic, etc. comments</a>
+            </h4>
+        </div>
         <div id="homophobic-comments" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-    <p>TEMP</p>
+    		<p>Instructor makes degrading and/or predujiced comments about your or another student's sexual orientation or identity. </p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                    <ol type="1">
@@ -198,16 +186,14 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#accused-of-cheating" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Instructor incorrectly punishes you for cheating
-                </h4>
-            </div>
-        </a>
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#accused-of-cheating" aria-expanded="false">Instructor incorrectly punishes you for cheating</a>
+            </h4>
+        </div>
         <div id="accused-of-cheating" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-    <p>TEMP</p>
+    		<p>Your instructor punishes you for cheating when you did not.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                    <ol type="1">
@@ -225,16 +211,14 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#grade-dispute" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Grade disputes
-                </h4>
-            </div>
-        </a>
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#grade-dispute" aria-expanded="false">Grade disputes</a>
+            </h4>
+        </div>
         <div id="grade-dispute" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-    <p>TEMP</p>
+    		<p>You believe that your grade for a course or individual assessment may have been unfairly/incorrectly assigned by an instructor or TA.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                    <ol type="1">
@@ -256,28 +240,5 @@ folder: mydoc
     {
         var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
         $(url + ".collapse").collapse("show");
-        var doc = document.getElementById(url.replace("#", "")).parentElement.parentElement;
-        let position = doc.getBoundingClientRect();
-        setTimeout(function () {
-            window.scrollTo(position.left, position.top + window.scrollY - 400);
-            },
-        100);
     }
-
-    $(window).on("click", function(e) {
-        if(e.target.className.trim() == 'panel-title')
-        {
-            navigator.clipboard.writeText(e.target.childNodes[1].href);
-            if(e.target.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
-                e.target.parentElement.parentElement.nextElementSibling.click();
-        }
-
-        else if(e.target.className.trim() == 'anchorjs-link')
-        {
-            console.log(e);
-            navigator.clipboard.writeText(e.target.href);
-            if(e.target.parentElement.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
-                e.target.parentElement.parentElement.parentElement.nextElementSibling.click();
-        }
-    });
 </script>

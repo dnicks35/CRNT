@@ -11,16 +11,14 @@ folder: mydoc
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-committee" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Disagreements about thesis committee members
-                </h4>
-            </div>
-        </a>
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-committee" aria-expanded="false">Disagreements about thesis committee members</a>
+            </h4>
+        </div>
         <div id="disagreements-about-committee" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p>TEMP</p>
+		<p>You and your advisor disagree on who should and should not be on your thesis committee.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
@@ -38,16 +36,14 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-proposal" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Disagreements about proposal (timeline, content, etc.)
-                </h4>
-            </div>
-        </a>
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-proposal" aria-expanded="false">Disagreements about proposal (timeline, content, etc.)</a>
+            </h4>
+        </div>
         <div id="disagreements-about-proposal" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p>TEMP</p>
+		<p>You and your committee member(s) disagree on the proposed timeline and research deliverables.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
@@ -66,16 +62,14 @@ folder: mydoc
     </div>
     <!-- /.panel -->
     <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-dissertation" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Disagreements about what is required for dissertation
-                </h4>
-            </div>
-        </a>
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#disagreements-about-dissertation" aria-expanded="false">Disagreements about what is required for dissertation</a>
+            </h4>
+        </div>
         <div id="disagreements-about-dissertation" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-		<p>TEMP</p>
+		<p>You and your committee member(s) have different opinions about what amount of work is adequate for your dissertation.</p>
                 <p><b>Chain of Command for Conflict Resolution</b></p>
                    <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
@@ -99,28 +93,5 @@ folder: mydoc
     {
         var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
         $(url + ".collapse").collapse("show");
-        var doc = document.getElementById(url.replace("#", "")).parentElement.parentElement;
-        let position = doc.getBoundingClientRect();
-        setTimeout(function () {
-            window.scrollTo(position.left, position.top + window.scrollY - 400);
-            },
-        100);
     }
-
-    $(window).on("click", function(e) {
-        if(e.target.className.trim() == 'panel-title')
-        {
-            navigator.clipboard.writeText(e.target.childNodes[1].href);
-            if(e.target.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
-                e.target.parentElement.parentElement.nextElementSibling.click();
-        }
-
-        else if(e.target.className.trim() == 'anchorjs-link')
-        {
-            console.log(e);
-            navigator.clipboard.writeText(e.target.href);
-            if(e.target.parentElement.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
-                e.target.parentElement.parentElement.parentElement.nextElementSibling.click();
-        }
-    });
 </script>
