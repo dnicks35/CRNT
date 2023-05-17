@@ -42,7 +42,7 @@ folder: mydoc
                 <p><b>Alternative Solutions</b></p>
                         <ul>
                             <li>Change advisors</li>
-                            <li>Seek therapy/CARE</li>
+                            <li><a href="external_therapy.html">Seek therapy</a>/<a href="care.html">CARE</a></li>
                             <li>Leave of absense</li>
                             <li>Master out</li>
                         </ul>
