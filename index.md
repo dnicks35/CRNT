@@ -7,9 +7,14 @@ search: exclude
 toc: false
 ---
 
-<p>
-This is what this website is about: this includes the history behind the website, the purpose of the website and what we hope to provide the website user. We can even provide guidance here about how to navigate the website and any disclaimers.
-</p>
+<p>Whatever problem you're going through, we can sympathize and are more than happy to talk with you about it. Use this tool to determine where to start in the conflict resolution process and what policies are in place to protect you.</p>
+
+<p>&nbsp;</p>
+
+<p><b>How to use this tool:</b></p>
+<p class="answer">Search manually through the tree to the left or by using the search bar at the top of the page to search for a conflict through keywords. Each conflict has a "Chain of Command for Conflict Resolution". It is best to start the conflict resolution process at the lowest level possible, but any should be able to help get your conflict resolved. Click on each office to determine what you can do to work with that office and what will be the likely solution.</p>
+
+<p>&nbsp;</p>
 
  
 <div>
