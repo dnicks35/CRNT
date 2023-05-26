@@ -24,7 +24,7 @@ toc: false
     <div class="col-md-4">
         <div class="panel panel-default text-center">
             <div class="panel-body">
-                <p>Information about how to know what is normal and what is not. How to identify problems, etc.</p>
+                <p>If you're unsure if what you're experiencing is normal, use this tool to identify problems, etc.</p>
                 <a href="problem-identification" class="btn btn-primary">Identify Problems</a>
             </div>
         </div>
@@ -48,7 +48,7 @@ toc: false
     <div class="col-md-4">
         <div class="panel panel-default text-center">
             <div class="panel-body">
-                <p>Encouragement to provide feedback and why we would like to hear from users.</p>
+                <p>Please let us know your experience with conflict resolution so that we can keep our information accurate and up-to-date.</p>
                 <a href="feedback" class="btn btn-primary">Provide Feedback</a>
             </div>
         </div>
