@@ -8,7 +8,7 @@ toc: false
 ---
 
 <p>
-This is what this website is about: this includes the history behind the website, the purpose of the website and what we hope to provide the website user. We can even provide guidance here about how to navigate the website and any disclaimers. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is what this website is about: this includes the history behind the website, the purpose of the website and what we hope to provide the website user. We can even provide guidance here about how to navigate the website and any disclaimers.
 </p>
 
  
@@ -17,7 +17,7 @@ This is what this website is about: this includes the history behind the website
     <div class="col-md-4">
         <div class="panel panel-default text-center">
             <div class="panel-body">
-                <p>Information about how to know what is normal and what is not. How to identify problems, etc. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p>Information about how to know what is normal and what is not. How to identify problems, etc.</p>
                 <a href="problem-identification" class="btn btn-primary">Identify Problems</a>
             </div>
         </div>
@@ -25,15 +25,23 @@ This is what this website is about: this includes the history behind the website
     <div class="col-md-4">
         <div class="panel panel-default text-center">
             <div class="panel-body">
-                <p>Information about how to know what is normal and what is not. How to identify problems, etc. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                <a href="tag_navigation.html" class="btn btn-primary">Navigate a Conflict</a>
+                <p>Directory of the various offices at Georgia Tech along with how to contact them and what to expect.</p>
+                <a href="directory" class="btn btn-primary">Office Directory</a>
             </div>
         </div>
     </div>
+    <!-- <div class="col-md-4">
+        <div class="panel panel-default text-center">
+            <div class="panel-body">
+                <p>Information about how to know what is normal and what is not. How to identify problems, etc.</p>
+                <a href="tag_navigation.html" class="btn btn-primary">Navigate a Conflict</a>
+            </div>
+        </div>
+    </div> -->
     <div class="col-md-4">
         <div class="panel panel-default text-center">
             <div class="panel-body">
-                <p>Encouragement to provide feedback and why we would like to hear from users. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                <p>Encouragement to provide feedback and why we would like to hear from users.</p>
                 <a href="feedback" class="btn btn-primary">Provide Feedback</a>
             </div>
         </div>
