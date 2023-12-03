@@ -54,6 +54,13 @@ Purpose of the directory and how to use it. May want to also link to conflict na
   <div class="item20"><div class="btn-primary" style="border-radius: 12px;"><a href="voice.html" style="color: white !important">VOICE</a></div></div>
 </div>
 
+<p>&nbsp;</p>
+
+<p><i>Confidentiality</i></p>
+<ul><li>Some departments are required to preserve confidentiality for legal reasons (e.g. EthicsPoint, the VOICE office, etc.). In most other cases, university personnel are not officially required to preserve confidentiality, although they may offer to keep a conversation private, and you may opt to trust them. Keep in mind that there are cases in which it may not be possible for the confidant to both preserve confidentiality and to take action on behalf of the person with the complaint.</li></ul>
+<p><i>If something bad happens to me as a result of a report I make to this person, am I protected under Georgia Tech's anti-retaliation policy?</i></p>
+<ul><li>Georgia Tech takes accusations of retaliation seriously; however, the burden of proof is on the victim to show "materially adverse actions" were taken against them (in other words, that there was a demonstrable negative impact or loss) because they reported or assisted with reporting a policy violation, rather than due to any prior situational factors. If the report was not about a violation of a law or policy, it may not be considered "protected activity" under the terms of the anti-retaliation policy.</li></ul>
+
 <!-- 
 <p><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></p>
 <p><a href="care.html">CARE Counseling</a></p>
