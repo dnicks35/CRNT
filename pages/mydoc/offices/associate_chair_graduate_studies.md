@@ -10,6 +10,8 @@ folder: mydoc
 
 <p>&nbsp;</p>
 
+<hr>
+
 <p><b>Who is this person?</b></p>
    <p>The Associate Chair of Graduate Studies directs graduate student services. Their duties include oversight of the graduate program, career advisement, acting as liaison to other departments or committees, and general graduate student advisement. They usually also serve as an advisor to non-thesis masters students in your department.</p>
 
@@ -24,14 +26,12 @@ folder: mydoc
 
 <p><b>Probable outcome:</b></p>
    <p>Solutions arrived at here will be informal. Most likely the process will include a facilitated discussion with you and the offending party. The success of this resolution will hinge upon the administrator's conflict-resolution skills, their ability to be fair and unbiased, and both parties' willingness to participate in the suggested resolution. Resolutions at this level are not binding, so "offender" buy-in is critical.</p>
-    <p>If departmental resources (co-advisor, TA-funding, facilities, etc.) can be leveraged to generate a potential solution, this is a good path to pursue.</p>
-</p>
+   <p>If departmental resources (co-advisor, TA-funding, facilities, etc.) can be leveraged to generate a potential solution, this is a good path to pursue.</p>
 
 <p><b>How should I approach them?</b></p>
    <p>Recognize that in many cases, a request for confidentiality will restrict much of the resolution options that this person can facilitate, which are mostly based on mediated discussion.</p>
    <p>If you are concerned about negative consequences that may arise if confidentiality is not kept, then prior to reporting/discussing your complaint with this person, state in writing your concerns, with examples of real possible negative outcomes you could face. Request written confirmation that any and all future communication regarding this concern be considered "protected activity" under the university anti-retaliation policy. You may request that a member of ER (HR) is present for the initial discussion of your complaint so that there is a formal, confidential and protected record of your conversation.</p>
    <p>Prior to a mediated conversation with the "offending party", request that the proposed possible solutions be run by you in advance. Request understanding of any and all limitations to the solution.</p>
-</p>
 
 <hr></hr>
 
