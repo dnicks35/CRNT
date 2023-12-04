@@ -49,7 +49,7 @@ Purpose of the directory and how to use it. May want to also link to conflict na
   
   <div class="item18"><div class="btn-primary" style="border-radius: 12px;"><a href="thesis_committee.html" style="color: white !important">Thesis Committee</a></div></div>
   
-  <div class="item19"><div class="btn-primary" style="border-radius: 12px;"><a href="title_ix.html" style="color: white !important">Title 9</a></div></div>
+  <div class="item19"><div class="btn-primary" style="border-radius: 12px;"><a href="title_ix.html" style="color: white !important">Title IX</a></div></div>
   
   <div class="item20"><div class="btn-primary" style="border-radius: 12px;"><a href="vice_provost_graduate_education.html" style="color: white !important">Vice Provost for Graduate and Postdoctoral Education</a></div></div>
   
