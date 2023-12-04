@@ -30,7 +30,7 @@ folder: mydoc
 
 <p>&nbsp;</p>
 
-<p><b>Probable outcome:</b></p>
+<p><b>Probable outcome?</b></p>
    <p>Solutions arrived at here will be informal. Most likely the process will include a facilitated discussion with you and the offending party. The success of this resolution will hinge upon the administrator's conflict-resolution skills, their ability to be fair and unbiased, and both parties' willingness to participate in the suggested resolution. Resolutions at this level are not binding, so "offender" buy-in is critical.</p>
    <p>If departmental resources (co-advisor, TA-funding, facilities, etc.) can be leveraged to generate a potential solution, this is a good path to pursue.</p>
 

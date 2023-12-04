@@ -30,7 +30,7 @@ folder: mydoc
 
 <p>&nbsp;</p>
 
-<p><b>Probable outcome:</b></p>
+<p><b>Probable outcome?</b></p>
    <p>This solution will still be considered informal. Most likely the process will include conversations and communication that you are not privy to. This is because at this level conflict-resolution becomes potentially politically motivated for the faculty. Additionally, your chair might not know what they can/cannot do, so they might reach out to others to find out. This would be a good reason for you to have a specific request for a resolution and/or have sought the advice of an ombudsman or the VP for Conflict Resolution prior to reaching out, to find out what is possible.</p>
    <p>The chair has authority over your PhD Advisor, so while the Chair's solution may not have any explicit consequences for lack of follow-through, your advisor is likely motivated to respond as directed. Solutions at this level might include additional facilitated discussion with you and the offending party. The success of this resolution will hinge upon the administrator's conflict-resolution skills, their ability to be fair and unbiased, and both parties' willingness to participate in the suggested resolution. Resolutions at this level are not necessarily binding, so "offender" buy-in is critical.</p>
    <p>If departmental resources (co-advisor, TA-funding, facilities, etc.) can be leveraged to generate a potential solution this is a good path to pursue. If the political influence of the Chair might be enough to alleviate this situation this is a good option. Success is heavily dependent on who is the Chair, the Advisor, and/or the offending party.</p>
