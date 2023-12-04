@@ -10,8 +10,6 @@ folder: mydoc
 
 <hr>
 
-<p>&nbsp;</p>
-
 <p><b>Who is this person?</b></p>
    <p>The Associate Chair of Graduate Studies directs graduate student services. Their duties include oversight of the graduate program, career advisement, acting as liaison to other departments or committees, and general graduate student advisement. They usually also serve as an advisor to non-thesis masters students in your department.</p>
 
