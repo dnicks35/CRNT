@@ -11,7 +11,7 @@ toc: false
 Sample page for feedback!
 </p>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeDQ8_A0Fa2BHnXZSWVniLnkN2mMLY411FHjI_udSRH5c_gwQ/viewform?embedded=true" width="1280" height="959" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://forms.gle/wGwpFssAY8gWH7bx6" width="1280" height="959" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 <script>
     $("#tg-sb-sidebar").toggle();
