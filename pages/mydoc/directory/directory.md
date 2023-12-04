@@ -31,27 +31,29 @@ Purpose of the directory and how to use it. May want to also link to conflict na
 
   <div class="item9"><div class="btn-primary" style="border-radius: 12px;"><a href="external_therapy.html" style="color: white !important">External Therapy</a></div></div>
 
-  <div class="item10"><div class="btn-primary" style="border-radius: 12px;"><a href="gt_police.html" style="color: white !important">GT Police</a></div></div>
+  <div class="item10"><div class="btn-primary" style="border-radius: 12px;"><a href="academic_advisor.html" style="color: white !important">Graduate Academic Advisor</a></div></div>
 
-  <div class="item11"><div class="btn-primary" style="border-radius: 12px;"><a href="hr.html" style="color: white !important">Human Resources</a></div></div>
+  <div class="item11"><div class="btn-primary" style="border-radius: 12px;"><a href="gt_police.html" style="color: white !important">GT Police</a></div></div>
 
-  <div class="item12"><div class="btn-primary" style="border-radius: 12px;"><a href="disability_services.html" style="color: white !important">Office of Disability Services</a></div></div>
+  <div class="item12"><div class="btn-primary" style="border-radius: 12px;"><a href="hr.html" style="color: white !important">Human Resources</a></div></div>
 
-  <div class="item13"><div class="btn-primary" style="border-radius: 12px;"><a href="student_integrity.html" style="color: white !important">Office of Student Integrity</a></div></div>
+  <div class="item13"><div class="btn-primary" style="border-radius: 12px;"><a href="disability_services.html" style="color: white !important">Office of Disability Services</a></div></div>
 
-  <div class="item14"><div class="btn-primary" style="border-radius: 12px;"><a href="ombudsmen.html" style="color: white !important">Ombudsmen</a></div></div>
+  <div class="item14"><div class="btn-primary" style="border-radius: 12px;"><a href="student_integrity.html" style="color: white !important">Office of Student Integrity</a></div></div>
 
-  <div class="item15"><div class="btn-primary" style="border-radius: 12px;"><a href="research_advisor.html" style="color: white !important">Research Advisor</a></div></div>
+  <div class="item15"><div class="btn-primary" style="border-radius: 12px;"><a href="ombudsmen.html" style="color: white !important">Ombudsmen</a></div></div>
 
-  <div class="item16"><div class="btn-primary" style="border-radius: 12px;"><a href="rcr.html" style="color: white !important">Responsible Conduct of Research</a></div></div>
+  <div class="item16"><div class="btn-primary" style="border-radius: 12px;"><a href="research_advisor.html" style="color: white !important">Research Advisor</a></div></div>
+
+  <div class="item17"><div class="btn-primary" style="border-radius: 12px;"><a href="rcr.html" style="color: white !important">Responsible Conduct of Research</a></div></div>
   
-  <div class="item17"><div class="btn-primary" style="border-radius: 12px;"><a href="thesis_committee.html" style="color: white !important">Thesis Committee</a></div></div>
+  <div class="item18"><div class="btn-primary" style="border-radius: 12px;"><a href="thesis_committee.html" style="color: white !important">Thesis Committee</a></div></div>
   
-  <div class="item18"><div class="btn-primary" style="border-radius: 12px;"><a href="title_ix.html" style="color: white !important">Title 9</a></div></div>
+  <div class="item19"><div class="btn-primary" style="border-radius: 12px;"><a href="title_ix.html" style="color: white !important">Title 9</a></div></div>
   
-  <div class="item19"><div class="btn-primary" style="border-radius: 12px;"><a href="vice_provost_graduate_education.html" style="color: white !important">Vice Provost for Graduate and Postdoctoral Education</a></div></div>
+  <div class="item20"><div class="btn-primary" style="border-radius: 12px;"><a href="vice_provost_graduate_education.html" style="color: white !important">Vice Provost for Graduate and Postdoctoral Education</a></div></div>
   
-  <div class="item20"><div class="btn-primary" style="border-radius: 12px;"><a href="voice.html" style="color: white !important">VOICE</a></div></div>
+  <div class="item21"><div class="btn-primary" style="border-radius: 12px;"><a href="voice.html" style="color: white !important">VOICE</a></div></div>
 </div>
 
 <p>&nbsp;</p>
