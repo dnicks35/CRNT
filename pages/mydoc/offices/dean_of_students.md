@@ -8,18 +8,45 @@ toc: false
 folder: mydoc
 ---
 
+<hr>
+
+<p><b>Who is this person?</b></p>
+   <p>The Office assists students in the resolution of problems, provides information about and referral to campus resources, and promotes initiatives that address students' needs and interests. In addition the Office provides educational and co-curricular activities and experiences that encourage students to have a positive college experience.</p>
+   <p>Their primary purpose for the sake of conflict resolution is to help you negotiate accommodations or absences in case of personal or family emergencies.</p>
+
 <p>&nbsp;</p>
 
-<p>The Dean of Students Office assists students in the resolution of problems, provides information about, and referral to campus resources, and promotes initiatives that address students' needs and interests. In addition the Office provides educational and co-curricular activities and experiences that encourage students to have a positive college experience.</p>
+<p><b>How can I find them?</b></p>
+   <p>https://studentlife.gatech.edu/about/dean-students</p>
 
-<p><b>What can I do?</b></p>
-   <p>Those with issues relating generally to being a student (e.g. class absence, leave of absence, grade changes, academic grievances etc.) can contact the Dean of Students Office through an <a href='https://gatech-advocate.symplicity.com/care_report/index.php/pid661935?'>online form</a>.</p>
+<p>&nbsp;</p>
 
-<p><b>Likely solution?</b></p>
-   <p>The Dean of Students Office will provide you with accommodations for classes. If a professor violates these accommodations, the Office will act on the student's behalf.</p>
+<p><b>When should I consider contacting this person?</b></p>
+   <p>If you have a family situation or personal emergency, the Dean of Students office will provide your professors (including your advisor, if applicable) with the list of accommodations that they are required to provide for you (for instance, an excused absence, extra days to complete assignments, etc). If a professor violates these accommodations, the Office will act on the student's behalf.</p>
+   <p>For long-term situations, they can help you arrange a leave of absence or a withdrawal.</p>
+   <p>The Dean of Students has authority over OSI. Contact this individual (rather than the office) if an OSI-related issue is not being handled efficiently or thoroughly.</p>
 
-<p><b>Is speaking with them confidential?</b></p>
-   <p class="answer">While it may be promised, there is no guarantee that a conversation with this person is confidential. There is no official protection or promise of confidentiality from the university at this level. Promises of confidentiality are worth as much as the word of the faculty serving in this role. They will likely tell you that for them to assist you with this issue they cannot maintain confidentiality as they will need to have conversations with lower levels of administration as well as possibly the advisor.</p>
+<p>&nbsp;</p>
 
-<p><b>Is speaking with them considered "Protected Activity"?</b></p>
-   <p class="answer">Your communication with administration at this level, whether it be verbal or in writing is not legally considered "protected activity" by the university. Ie. If you endure negative outcomes from reporting at this level, the university anti-retalliation policy will not protect you.</p>
+<p><b>Is speaking with this person confidential?</b></p>
+   <p>Part of the purpose of getting an accommodation through the Dean of Students Office is to preserve the privacy of the individual experiencing the emergency. The Dean will contact your professor informing them of the university-approved accommodations they are required to provide, but will not inform the professor about the nature of the emergency. You are not required to provide details to your professors about your personal situation.</p>
+
+<p>&nbsp;</p>
+
+<p><b>Probable outcome?</b></p>
+   <p>The Dean of Students Office will provide you with a note to present to your professor with your approved accommodations. If a professor violates these accommodations, the Office will act on the student's behalf.</p>
+
+<p>&nbsp;</p>
+
+<p><b>How should I approach them?</b></p>
+   <p>Those with issues relating generally to being a student (e.g. class absence, leave of absence, grade changes, academic grievances etc.) can contact the Dean of Students Office through an <a href="https://gatech-advocate.symplicity.com/care_report/index.php/pid661935?">online form</a>.</p>
+   <p>For escalating from OSI-related concerns, you can contact the Dean of Students themselves, directly. You can find their name on the Dean of Students Office website and search for their contact information in the Georgia Tech directory.</p>
+
+
+<script>
+    if(location.hash !== null && location.hash !== "")
+    {
+        var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
+        $(url + ".collapse").collapse("show");
+    }
+</script>
