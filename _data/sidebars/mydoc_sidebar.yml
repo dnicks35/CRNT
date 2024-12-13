@@ -25,9 +25,13 @@ entries:
     output: web
     type: homepage
 
-  - title: Georgia Tech's Conflict Resolution Process
+  - title: The Conflict Resolution Process at Georgia Tech
     url: /resolution_process.html
     output: web
+
+  - title: How to Find an Advisor
+    url: /find_advisor.html
+    output: web   
 
   - title: How to Have Difficult Conversations
     url: /difficult_conversations.html
