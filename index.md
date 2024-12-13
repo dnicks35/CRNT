@@ -9,12 +9,15 @@ toc: false
 
 <p>&nbsp;</p>
 
-<p>Whatever problem you're going through, we can sympathize and are more than happy to talk with you about it. Use this tool to determine where to start in the conflict resolution process and what policies are in place to protect you.</p>
+<p><i>
+    (Greeting and brief introduction. Info about who created this website and why)
+</i></p>
+<!-- <p>Whatever problem you're going through, we can sympathize and are more than happy to talk with you about it. Use this tool to determine where to start in the conflict resolution process and what policies are in place to protect you.</p> -->
 
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p>
 
 <p><b>How to use this tool:</b></p>
-<p class="answer"><i>Do we need this or is it self-explanatory?</i></p>
+<p class="answer"><i>(Do we need this or is it self-explanatory?)</i></p> -->
 <p> This website was last updated Dec 12, 2024. </p>
 
 <p>&nbsp;</p>
