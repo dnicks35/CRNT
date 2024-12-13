@@ -41,7 +41,7 @@ toc: false
     <div class="col-md-4">
         <div class="panel panel-default text-center">
             <div class="panel-body">
-                <p>Learn about the offices and personnel at Georgia Tech and how/when to contact them:</p>
+                <p>Learn who can help and how/when to contact them:</p>
                 <a href="directory" class="btn btn-primary">Office Directory</a>
             </div>
         </div>
@@ -54,6 +54,7 @@ toc: false
             </div>
         </div>
     </div> -->
+    <p>&nbsp;</p>
     <div class="col-md-12">
         <div class="panel panel-default text-center">
             <div class="panel-body">
