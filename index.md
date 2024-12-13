@@ -14,7 +14,7 @@ toc: false
 <p>&nbsp;</p>
 
 <p><b>How to use this tool:</b></p>
-<p class="answer">Search manually through the tree to the left or by using the search bar at the top of the page to search for a conflict through keywords. Each conflict has a "Chain of Command for Conflict Resolution". It is best to start the conflict resolution process at the lowest level possible, but any should be able to help get your conflict resolved. Click on each office to determine what you can do to work with that office and what will be the likely solution.</p>
+<p class="answer"><i>Do we need this or is it self-explanatory?</i></p>
 <p> This website was last updated Dec 12, 2024. </p>
 
 <p>&nbsp;</p>
