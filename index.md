@@ -54,14 +54,14 @@ toc: false
             </div>
         </div>
     </div> -->
-    <center><div class="col-md-4">
+    <div class="col-md-8">
         <div class="panel panel-default text-center">
             <div class="panel-body">
-                    <p>Please help us keep this website up-to-date:</p>
+                    <p>Please help us keep this website up-to-date!</p>
                     <a href="feedback" class="btn btn-primary">Provide Feedback</a>
             </div>
         </div>
-    </center></div>
+    </div>
 </div>
 
 <!-- <script>
