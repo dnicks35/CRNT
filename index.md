@@ -15,6 +15,7 @@ toc: false
 
 <p><b>How to use this tool:</b></p>
 <p class="answer">Search manually through the tree to the left or by using the search bar at the top of the page to search for a conflict through keywords. Each conflict has a "Chain of Command for Conflict Resolution". It is best to start the conflict resolution process at the lowest level possible, but any should be able to help get your conflict resolved. Click on each office to determine what you can do to work with that office and what will be the likely solution.</p>
+<p> This website was last updated Dec 12, 2024. </p>
 
 <p>&nbsp;</p>
 
@@ -24,15 +25,23 @@ toc: false
     <div class="col-md-4">
         <div class="panel panel-default text-center">
             <div class="panel-body">
-                <p>If you're unsure if what you're experiencing is normal, use this tool to identify problems, etc.</p>
-                <a href="problem-identification" class="btn btn-primary">Identify Problems</a>
+                <p>Search for solution pathways based on your problem:</p>
+                <a href="problem-identification" class="btn btn-primary">Problem Decision Tree</a>
             </div>
         </div>
     </div>
     <div class="col-md-4">
         <div class="panel panel-default text-center">
             <div class="panel-body">
-                <p>Directory of the various offices at Georgia Tech along with how to contact them and what to expect.</p>
+                <p>Understand the policies that may be relevant to you:</p>
+                <a href="policies" class="btn btn-primary">Policy Library</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="panel panel-default text-center">
+            <div class="panel-body">
+                <p>Learn about the different offices and personnel at Georgia Tech and how/when to contact them:</p>
                 <a href="directory" class="btn btn-primary">Office Directory</a>
             </div>
         </div>
