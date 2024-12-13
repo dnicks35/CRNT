@@ -1,77 +1,36 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
-#This file is located in _data/sidebars
 
 entries:
 - title: sidebar
-  product: My issue pertains to
+  product: Quick Links
   # version: 6.0
   folders:
 
-  - title: Advisor
+  # - title:
+  #   output: pdf
+  #   type: frontmatter
+  #   folderitems:
+  #   - title:
+  #     url: /titlepage.html
+  #     output: pdf
+  #     type: frontmatter
+  #   - title:
+  #     url: /tocpage.html
+  #     output: pdf
+  #     type: frontmatter
+
+
+  - title: About This Tool
+    url: /about_this_site.html
     output: web
-    folderitems:
+    type: homepage
 
-    - title: My Advisor's Actions
-      url: /advisor_actions_layout.html
-      output: web
-      type: homepage
-
-    - title: My Advisor's Comments
-      url: /advisor_comments_layout.html
-      output: web
-
-    - title: Workplace Issues
-      url: /advisor_workplace_issues_layout.html
-      output: web
-
-    - title: Graduation Progress
-      url: /advisor_graduation_progress_layout.html
-      output: web
-
-    - title: Personal Issues
-      url: /advisor_personal_issues_layout.html
-      output: web
-
-    - title: Other
-      url: /advisor_other_layout.html
-      output: web
-
-  - title: Labmate
+  - title: Georgia Tech's Conflict Resolution Process
+    url: /gt_process.html
     output: web
-    folderitems:
 
-    - title: Grad Student Peers
-      url: /labmate_layout.html
-      output: web
-
-  - title: Committee
+  - title: How to Have Difficult Conversations
+    url: /difficult_conversations.html
     output: web
-    url: /committee_layout.html
-
-  - title: Finances
-    output: web
-    url: /finances_layout.html
-
-  - title: Graduation
-    output: web
-    url: /graduation_layout.html
-
-  - title: Interpersonal
-    output: web
-    url: /interpersonal_layout.html
-
-  - title: Quals
-    output: web
-    url: /quals_layout.html
-
-  - title: Instructor
-    output: web
-    url: /instructor_layout.html
-
-  - title: Research Ethics
-    output: web
-    url: /research_ethics_layout.html
-
-
 
 # Copyright 2021 Google LLC

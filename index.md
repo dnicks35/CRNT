@@ -26,7 +26,7 @@ toc: false
         <div class="panel panel-default text-center">
             <div class="panel-body">
                 <p>Search for solution pathways based on your problem:</p>
-                <a href="problem-identification" class="btn btn-primary">Problem Decision Tree</a>
+                <a href="problem-identification" class="btn btn-primary">Problem Directory</a>
             </div>
         </div>
     </div>
