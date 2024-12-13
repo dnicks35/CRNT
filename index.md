@@ -1,5 +1,5 @@
 ---
-title: "Conflict Resolution Tool Home"
+title: "Conflict Resolution Navigator Tool: Home"
 sidebar: mydoc_sidebar
 permalink: index.html
 # summary: The landing page
@@ -18,7 +18,6 @@ toc: false
 
 <p><b>How to use this tool:</b></p>
 <p class="answer"><i>(Do we need this or is it self-explanatory?)</i></p> -->
-<p> This website was last updated Dec 12, 2024. </p>
 
 <p>&nbsp;</p>
 
@@ -67,6 +66,13 @@ toc: false
         </div>
     </div>
 </div>
+
+<p>&nbsp;</p>
+
+<p> This website was last updated Dec 12, 2024. </p>
+
+
+
 
 <!-- <script>
     $("#tg-sb-sidebar").toggle();
