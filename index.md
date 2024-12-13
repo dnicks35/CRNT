@@ -54,7 +54,7 @@ toc: false
             </div>
         </div>
     </div> -->
-    <div class="col-md-8">
+    <div class="col-md-12">
         <div class="panel panel-default text-center">
             <div class="panel-body">
                     <p>Please help us keep this website up-to-date!</p>
