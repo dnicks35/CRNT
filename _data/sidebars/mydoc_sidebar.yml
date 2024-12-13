@@ -20,7 +20,7 @@ entries:
   #     type: frontmatter
 
 
-  - title: About This Tool
+  - title: About This Website
     url: /about_this_site.html
     output: web
     type: homepage
@@ -33,8 +33,14 @@ entries:
     url: /find_advisor.html
     output: web   
 
-  - title: How to Have Difficult Conversations
+  - title: How to Have Difficult Conversations with Your Advisor
     url: /difficult_conversations.html
     output: web
+
+  - title: The Emergency Button--How to Escape
+    url: /better_part_of_valor.html
+    output: web
+  
+
 
 # Copyright 2021 Google LLC
