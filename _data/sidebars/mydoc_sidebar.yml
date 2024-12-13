@@ -37,6 +37,10 @@ entries:
     url: /difficult_conversations.html
     output: web
 
+  - title: Problem Identification and Solution Pathways
+    url: /problem-identification.html
+    output: web
+
   - title: The Emergency Button--How to Escape
     url: /better_part_of_valor.html
     output: web
