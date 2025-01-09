@@ -26,6 +26,7 @@ keywords: concern, conflict
         </div>
     </div>
     
+    <!-- /.panel -->
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
@@ -51,60 +52,49 @@ keywords: concern, conflict
             </div>
         </div>
     </div>
-
+    
+    <!-- /.panel -->
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#losing_funding" aria-expanded="false">Losing Funding</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#graduation_progress" aria-expanded="false">Progress Towards Graduation</a>
+            </h4>
+        </div>
+        <div id="graduation_progress" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <p class="answer">Timeline for milestones: Quals, Thesis Committee Formation, Proposal, Defense (concern, conflict)
+                                    </p>
+                <p class="answer">Disputes over fairness of evaluation or execution of milestones (Quals, Thesis Committee Formation, Proposal, Defense) (conflict)
+                </p>
+                <p class="answer">Disagreements with advisor about what is required for dissertation (conflict)
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#finding_lab" aria-expanded="false">Finding an Advisor / Lab Membership</a>
             </h4>
         </div>
         <div id="losing_funding" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                    <p class="answer">Fellowship or grant ending (concern)
+                    <p class="answer">Finding an advisor (concern)
                                     </p>
-                <p class="answer">Advisor withdrawing funding support (conflict)
+                <p class="answer">Finding a co-advisor (concern, conflict)
                 </p>
-                <p class="answer"> Due to unsatisfactory academic performance (see below)
+                <p class="answer">Managing conflicting co-advisors (conflict)
+                </p>
+                <p class="answer">Managing time conflicts between research and non-research university obligations (concern, conflict)
+                </p>
+                <p class="answer">Managing time conflicts between university obligations and personal needs  (concern, conflict)
                 </p>
             </div>
         </div>
     </div>
 
-        <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#losing_funding" aria-expanded="false">Losing Funding</a>
-            </h4>
-        </div>
-        <div id="losing_funding" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-                    <p class="answer">Fellowship or grant ending (concern)
-                                    </p>
-                <p class="answer">Advisor withdrawing funding support (conflict)
-                </p>
-                <p class="answer"> Due to unsatisfactory academic performance (see below)
-                </p>
-            </div>
-        </div>
-    </div>
-
-        <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#losing_funding" aria-expanded="false">Losing Funding</a>
-            </h4>
-        </div>
-        <div id="losing_funding" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-                    <p class="answer">Fellowship or grant ending (concern)
-                                    </p>
-                <p class="answer">Advisor withdrawing funding support (conflict)
-                </p>
-                <p class="answer"> Due to unsatisfactory academic performance (see below)
-                </p>
-            </div>
-        </div>
-    </div>
 
     
 </div>
