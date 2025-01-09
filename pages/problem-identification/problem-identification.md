@@ -26,7 +26,6 @@ keywords: concern, conflict
             </div>
         </div>
     </div>
-    
     <!-- /.panel -->
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -57,7 +56,6 @@ keywords: concern, conflict
             </div>
         </div>
     </div>
-    
     <!-- /.panel -->
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -76,7 +74,6 @@ keywords: concern, conflict
             </div>
         </div>
     </div>
-    
     <!-- /.panel -->
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -98,13 +95,9 @@ keywords: concern, conflict
                 </p>
             </div>
         </div>
-    </div>
-
-
-    
+    </div>    
 </div>
 <!-- /.panel-group -->
-
 <script>
     if(location.hash !== null && location.hash !== "")
         $(location.hash + ".collapse").collapse("show");
