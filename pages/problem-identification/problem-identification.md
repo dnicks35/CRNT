@@ -36,15 +36,19 @@ keywords: concern, conflict
         </div>
         <div id="student_status" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                    <p class="answer">Losing an advisor: 
-                        ****Advisor is leaving GT for another position (concern)
-                        ****Advisor didn't get tenure (concern)
-                        ****Advisor terminates student's membership in lab or warns that it may be terminated (conflict)
+                    <p class="answer">Losing an advisor:
+                    <ul>
+                        <li>Advisor is leaving GT for another position (concern) </li>
+                        <li>Advisor didn't get tenure (concern)</li>
+                        <li>Advisor terminates student's membership in lab or warns that it may be terminated (conflict)</li>
+                        </ul>
                                     </p>
                 <p class="answer">Switching advisors
-                    *****with support from their current advisor (concern)
-                    ******without support from their current advisor (conflict)
-                    ******Losing funding (see above)
+                <ul>
+                    <li>with support from their current advisor (concern)</li>
+                    <li>without support from their current advisor (conflict) </li>
+                    <li>Losing funding (see above)</li>
+                    </ul>
                 </p>
                 <p class="answer"> Unsatisfactory academic progress/status:
                     *****which student disputes (conflict)
