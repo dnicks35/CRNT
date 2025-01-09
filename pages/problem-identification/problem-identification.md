@@ -1,38 +1,31 @@
 ---
 title: Problem Identification
-sidebar: mydoc_sidebar
 permalink: problem-identification.html
+sidebar: mydoc_sidebar
 folder: images
+toc: false
+keywords: concern, conflict
 ---
 
-<div class="row">
-<div class="col-md-6">
-    {% include image.html file="pd_1.png"%}
-</div>
+<div class="panel-group" id="policies">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#academic_grievance" aria-expanded="false">Academic Grievance Policy</a>
+            </h4>
+        </div>
+        <div id="academic_grievance" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <p><b>Summary</b></p>
+                    <p class="answer">This policy offers procedures for handling disputes related to your classes or coursework. Refer to this policy for procedures regarding grade disputes, honor code violations, examination disagreements, and other academic-related grievances. The grievances will be brought to a committee for review.</p>
+            </div>
+        </div>
+    </div>
 
-<div class="col-md-6">
-    <p>Information on why we have this portion of the website,  giving students a sense of "normal" experiences as a grad students and some potential "red flags" for students to look out for.</p>
 </div>
-</div>
-
-<div class="row">
-<br/>
-</div>
-
-<div class="row">
-<div class="col-md-6">
-    
-</div>
-
-<div class="col-md-6">
-    {% include image.html file="pd_2.png"%}
-</div>
-</div>
+<!-- /.panel-group -->
 
 <script>
-    $("#tg-sb-sidebar").toggle();
-    $("#tg-sb-content").toggleClass('col-md-9');
-    $("#tg-sb-content").toggleClass('col-md-12');
-    $("#tg-sb-icon").toggleClass('fa-toggle-on');
-    $("#tg-sb-icon").toggleClass('fa-toggle-off');
+    if(location.hash !== null && location.hash !== "")
+        $(location.hash + ".collapse").collapse("show");
 </script>
