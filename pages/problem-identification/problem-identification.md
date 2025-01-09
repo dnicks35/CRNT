@@ -7,11 +7,11 @@ toc: false
 keywords: concern, conflict
 ---
 
-<div class="panel-group" id="policies">
+<div class="panel-group" id="problems">
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#losing_funding" aria-expanded="false">Losing Funding</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#problems" href="#losing_funding" aria-expanded="false">Losing Funding</a>
             </h4>
         </div>
         <div id="losing_funding" class="panel-collapse collapse noCrossRef">
@@ -30,7 +30,7 @@ keywords: concern, conflict
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#student_status" aria-expanded="false">Student Status</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#problems" href="#student_status" aria-expanded="false">Student Status</a>
             </h4>
         </div>
         <div id="student_status" class="panel-collapse collapse noCrossRef">
@@ -57,7 +57,7 @@ keywords: concern, conflict
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#graduation_progress" aria-expanded="false">Progress Towards Graduation</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#problems" href="#graduation_progress" aria-expanded="false">Progress Towards Graduation</a>
             </h4>
         </div>
         <div id="graduation_progress" class="panel-collapse collapse noCrossRef">
@@ -76,10 +76,10 @@ keywords: concern, conflict
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#finding_lab" aria-expanded="false">Finding an Advisor / Lab Membership</a>
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#problems" href="#finding_lab" aria-expanded="false">Finding an Advisor / Lab Membership</a>
             </h4>
         </div>
-        <div id="losing_funding" class="panel-collapse collapse noCrossRef">
+        <div id="finding_lab" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                     <p class="answer">Finding an advisor (concern)
                                     </p>
