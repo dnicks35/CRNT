@@ -6,6 +6,7 @@ folder: images
 toc: false
 keywords: concern, conflict
 ---
+<p>I am/have a student who is concerned about my/their...</p>
 
 <div class="panel-group" id="problems">
     <div class="panel panel-default">
@@ -18,7 +19,7 @@ keywords: concern, conflict
             <div class="panel-body">
                     <p class="answer">Fellowship or grant ending (concern)
                                     </p>
-                <p class="answer">Advisor withdrawing funding support (conflict)
+                <p class="answer">Advisor withdrawing funding support <b>(conflict)</b>
                 </p>
                 <p class="answer"> Due to unsatisfactory academic performance (see below)
                 </p>
