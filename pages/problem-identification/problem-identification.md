@@ -96,6 +96,37 @@ keywords: concern, conflict
             </div>
         </div>
     </div>    
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#problems" href="#advisor_relationship" aria-expanded="false">Advisor-Student Relationship</a>
+            </h4>
+        </div>
+        <div id="advisor_relationship" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                    <p class="answer">Unfair, unreasonable, or unprofessional treatment by the advisor
+                        <ul><li>Unreasonable working hours (concern, conflict)</li>
+                            <li>Unreasonable timelines/deadlines (concern, conflict)</li>
+                            <li>Insufficient equipment or resources to perform research (e.g. to purchase samples, pay users for studies, pay conference fees) (concern, conflict)</li>
+                            <li>Unsafe working conditions (conflict)</li>
+                            <li>Uncertain funding situation (see above)</li>
+                            <li>Does not provide disability accommodations or acknowledge health constraints (conflict)</li>
+                            <li>Does not acknowledge parental/familial constraints (conflict)</li>
+                            <li>Does not acknowledge religious holidays/constraints (conflict)</li>
+                            <li>Evaluates your research credit hours as “U” (unsatisfactory) (concern, conflict) - see above</li></ul>
+                                    </p>
+                <p class="answer">Finding a co-advisor (concern, conflict)
+                </p>
+                <p class="answer">Managing conflicting co-advisors (conflict)
+                </p>
+                <p class="answer">Managing time conflicts between research and non-research university obligations (concern, conflict)
+                </p>
+                <p class="answer">Managing time conflicts between university obligations and personal needs  (concern, conflict)
+                </p>
+            </div>
+        </div>
+    </div>   
 </div>
 <!-- /.panel-group -->
 <script>
