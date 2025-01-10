@@ -116,13 +116,59 @@ keywords: concern, conflict
                             <li>Does not acknowledge religious holidays/constraints (conflict)</li>
                             <li>Evaluates your research credit hours as “U” (unsatisfactory) (concern, conflict) - see above</li></ul>
                                     </p>
-                <p class="answer">Finding a co-advisor (concern, conflict)
+                <p class="answer">Insufficient or delayed communication, response, and/or feedback from advisor (concern, conflict)
+                    <ul><li>Unexpected poor evaluation on research credit hours/quality (concern, conflict) - see above</li></ul>
                 </p>
-                <p class="answer">Managing conflicting co-advisors (conflict)
+                <p class="answer">Lack of support, training, or respect from advisor:
+                    <ul><li>Advisor is unable to provide technical guidance (concern)</li>
+                    <li>Advisor is unable or unwilling to provide guidance or mentorship on research skills critical to a PhD (e.g. writing papers, determining target publications, project scoping, presentation skills, writing grants, etc) (concern, conflict)</li>
+                    <li>Advisor is unable or unwilling to provide guidance, support, or mentorship for important PhD milestones (Quals, Thesis Committee Formation, Proposal, Defense) (conflict)</li>
+                    <li>Lack of support or respect from advisor regarding career goals (conflict)</li>
+                    <li>Lack of support from advisor for an internship (concern, conflict)</li></ul>
                 </p>
-                <p class="answer">Managing time conflicts between research and non-research university obligations (concern, conflict)
+                <p class="answer">Advisor disregards your allegations of inappropriate behavior by other lab members (concern, conflict)
                 </p>
-                <p class="answer">Managing time conflicts between university obligations and personal needs  (concern, conflict)
+                <p class="answer">Opposition from advisor (concern, conflict) 
+                    <ul><li>Advisor opposes choice of curriculum or course work (concern, conflict)</li>
+                    <li>Advisor opposes solicitation of a particular funding source (concern, conflict)</li>
+                    <li>Advisor opposes taking an internship (see above)</li>
+                    <li>Advisor delays or opposes progression through PhD milestones (conflict)</li>
+                    <li>Advisor delays or opposes completion of research (restricts equipment or funding, withholds feedback, refuses to pay publication fees, inflates scope of project) (concern, conflict) - see above for specifics <ol>                        <li>If the advisor is simply the bearer of bad tidings: concern that both advisor and student need to work together to address</li><li>If advisor is manipulating, neglecting, or sabotaging the student: conflict</li></ol></li>
+                    <li>Advisor makes threatening comments (e.g. emphasizing the power they have over your career, graduation, funding, timeline, reputation, etc), with or without an ultimatum (concern, conflict) <ol><li>If advisor is trying to explain natural consequences but communicates this in a way that the student perceives as intimidating: concern, although a meta-level conversation about communication styles may be necessary</li><li>If advisor is manipulating or intimidating the student: conflict</li></ol></li></ul>
+                </p>
+                <p class="answer">Inappropriate advisor comments:
+                    <ul><li>Advisor yelling, insulting, berating or intimidating student (in private or in front of others) (conflict)</li>
+                    <li>Advisor making racist, misogynistic, homophobic, transphobic, etc comments (conflict)</li>
+                    <li>Advisor shows lack of respect for/makes derogatory comments about private or personal matters (conflict)</li>
+                    <li>Slander or other negative comments made by advisor to others in your absence (conflict)</li>
+                    <li>Advisor makes threatening comments (emphasizing the power they have over your career, graduation, funding, timeline, reputation, etc), with or without an ultimatum (concern, conflict) - see above</li></ul>
+                </p>
+                <p class="answer">Illegal actions taken by advisor:
+                    <ul><li>Physical violence (conflict)</li>
+                    <li>Advisor making racist, misogynistic, homophobic, transphobic, etc comments (conflict)</li>
+                    <li>Stalking, inappropriate or sexual contact (conflict)</li>
+                    <li>Academically unethical practices (see Research Ethics below)</li>
+                    <li>Illegal or unethical financial activities (conflict)</li></ul>
+                </p>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#problems" href="#research_ethics" aria-expanded="false">Research Ethics</a>
+            </h4>
+        </div>
+        <div id="research_ethics" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                    <p class="answer">Advisor, sponsor, or lab mate asks you to do something unethical or dishonest or in violation of an IRB (conflict)
+                                    </p>
+                <p class="answer">Advisor, sponsor, or lab mate mishandles data (conflict)
+                </p>
+                <p class="answer">Advisor, sponsor, or lab mate misrepresents findings or data in a publication (conflict)
+                </p>
+                <p class="answer">Misappropriated credit for work or research, authorship/authorship order disputes (conflict)
                 </p>
             </div>
         </div>
