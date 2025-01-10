@@ -50,8 +50,8 @@ keywords: concern, conflict
                     </ul>
                 </p>
                 <p class="answer"> Unsatisfactory academic progress/status:
-                    *****which student disputes (conflict)
-                    *****which student does not dispute (concern)
+                    <ul><li>in which student disputes (conflict)</li>
+                    <li>in which student does not dispute (concern)</li></ul>
                 </p>
             </div>
         </div>
@@ -172,7 +172,152 @@ keywords: concern, conflict
                 </p>
             </div>
         </div>
-    </div>   
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#problems" href="#coursework" aria-expanded="false">Class, Coursework, and/or Instructor</a>
+            </h4>
+        </div>
+        <div id="coursework" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                    <p class="answer">Course selection (concern)
+                                    </p>
+                <p class="answer">Grade dispute (conflict) - see above
+                </p>
+                <p class="answer">False accusations of cheating (conflict)
+                </p>
+                <p class="answer">Inappropriate or discriminatory comments from an instructor (conflict)
+                </p>
+                <p class="answer">Humiliating, degrading, or insulting comments from instructor; yelling or shouting in public or in private (conflict) - see above
+                </p>
+                <p class="answer">Instructor making negative or slanderous comments about you or another student (conflict) - see above
+                </p>
+                <p class="answer">Inappropriate or sexual contact from instructor or teaching assistant (conflict) - see above
+                </p>
+                <p class="answer">Physical violence from instructor or teaching assistant (conflict) - see above
+                </p>
+                <p class="answer">Retaliation from instructor (conflict) - see above
+                </p>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#problems" href="#peers" aria-expanded="false">Peers</a>
+            </h4>
+        </div>
+        <div id="peers" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                    <p class="answer">Inappropriate or discriminatory comments from another student (conflict) - see above
+                                    </p>
+                <p class="answer">Humiliating, degrading, or insulting comments made in public or private (conflict) - see above
+                </p>
+                <p class="answer">Slander or other negative comments made in your absence (conflict) - see above
+                </p>
+                <p class="answer">Misappropriating or misrepresenting work (conflict) - see Authorship, above
+                </p>
+                <p class="answer">Threatening comments (conflict) - see above
+                </p>
+                <p class="answer">Inappropriate or sexual contact (conflict) - see above
+                </p>
+                <p class="answer">Physical violence (conflict) - see above
+                </p>
+                <p class="answer">Stalking (conflict) - see above
+                </p>
+                <p class="answer">Retaliation (conflict) - see above
+                </p>
+            </div>
+        </div>
+    </div> 
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#problems" href="#university_staff" aria-expanded="false">University Staff Member</a>
+            </h4>
+        </div>
+        <div id="university_staff" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                    <p class="answer">Employee’s comments (similar to above)
+                                    </p>
+                <p class="answer">Employee’s actions (similar to above)
+                </p>
+                <p class="answer">This employee is retaliating against you (similar to above)
+                </p>
+            </div>
+        </div>
+    </div> 
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#problems" href="#career" aria-expanded="false">Career</a>
+            </h4>
+        </div>
+        <div id="career" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                    <p class="answer">Finding a job (concern)
+                                    </p>
+                <p class="answer">Finding an internship (concern)
+                </p>
+                <p class="answer">Finding a fellowship (concern)
+                </p>
+                <p class="answer">Lack of support or respect from advisor regarding career choice (see above)
+                </p>
+                <p class="answer">Lack of support from advisor for an internship (see above)
+                </p>
+            </div>
+        </div>
+    </div> 
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#problems" href="#personal" aria-expanded="false">Personal Situation (Unrelated to School)</a>
+            </h4>
+        </div>
+        <div id="personal" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                    <p class="answer">Financial concerns (concern)
+                        <ul><li>How to pay taxes (concern)</li></ul>
+                                    </p>
+                <p class="answer">International student status concerns (concern)
+                </p>
+                <p class="answer">Mental health concerns (concern)
+                    <ul><li>Relationship concerns (concern)</li></ul>
+                </p>
+                <p class="answer">Lack of support or respect from advisor regarding career choice (see above)
+                </p>
+                <p class="answer">Lack of support from advisor for an internship (see above)
+                </p>
+            </div>
+        </div>
+    </div> 
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#problems" href="#observed" aria-expanded="false">Observed Situation at Georgia Tech</a>
+            </h4>
+        </div>
+        <div id="observed" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                    <p class="answer">Observed illegal activity (conflict)
+                                    </p>
+                <p class="answer">Observed misuse of financial resources (conflict) - see above
+                </p>
+                <p class="answer">Observed unethical research procedures or data handling (conflict) - see above
+                </p>
+                <p class="answer">Observed or possible sexual misconduct (conflict) - see above
+                </p>
+                <p class="answer">Observed bullying (conflict) - see above
+                </p>
+            </div>
+        </div>
+    </div> 
 </div>
 <!-- /.panel-group -->
 <script>
