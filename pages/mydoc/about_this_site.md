@@ -1,5 +1,5 @@
 ---
-title: About this site
+title: ABOUT THIS TOOL
 permalink: about_this_site.html
 sidebar: mydoc_sidebar
 # tags: [special_layouts]
@@ -9,6 +9,17 @@ toc: false
 folder: mydoc
 ---
 
+<p>The website you see was created by and for Georgia Tech PhD students, to be an approachable, practical tool to help PhD students understand and access the resources that are available to help them navigate conflicts and concerns at our university. We have coordinated with multiple departments and offices of the university to consolidate information across Georgia Tech's branching bureaucracy.</p> 
+
+<p>Our tool includes general guidance for new students, a directory of offices and personnel, a list of policies that may apply to common complaints, and most importantly, a catalog of concerns and conflicts that students may encounter. In all cases, we have endeavored not just to consolidate information, but to explain how and why these people and policies operate (in their own words, where possible) so that users can be empowered to understand their situation and their available options. We expect that the most valuable part of this website is in the <A href="/pages/problem-identification/problem-identification.html">"Problem Identification and Solution Pathways"</A> tab, where we have outlined 75+ (and counting!) conflicts and concerns, and described the most direct pathways to solving them.</p>
+
+<p>We recognize that no tool is perfect, and that universities are constantly evolving. If you have experienced a problem that is not in our catalog, or discovered that a part of our website is incomplete or out of date, <A href="/pages/feedback/feedback.html">we welcome your feedback.</A> We are particularly interested in expanding this tool to better answer the needs of masters students and international students.</p>
+
+<p>Whether you are a professor, staff member, provost, or student, we hope that this resource will help save you and those you interact with both time and stress. Please spread the word! Thank you for your efforts to streamline conflict resolution at Georgia Tech. </p>
+
+<h1>Getting Started</h1>
+
+<h2>HOW DO I KNOW IF I HAVE A PROBLEM?</h2>
 <p> One of the difficulties in handling conflict resolution is that policies are written for neatly labeled issues, whereas lived experiences can be difficult to diagnose. Since grad school (and research in general) is expected to be rigorous and challenging, with high expectations and many ambiguities, it may be especially difficult to determine what difficulties are a natural part of the graduate student experience and which are pathological. Students may wonder, “Is my situation normal?” “Do I need to get better at handling this?” and “How do I ensure my success and well-being, given that there are no guarantees about the outcomes of the research I’m attempting?”</p>
 <p> Research is full of ambiguities, but a university is intended to provide structure and mentorship that allows you to handle the unknown. All research involves struggle, but that struggle can be approached from a position of safety—financial safety, a foundation of prior research and techniques, social and reputational safety, reasonable time boundaries, and alternative avenues worthy of pursuit should your primary research thrust become untenable.</p>
 
@@ -21,5 +32,5 @@ folder: mydoc
 <ul>Staff and non-advisor faculty (grad school planning, mentorship, contextualization, networking…)</ul>
 <p>The purpose of this help may be to strengthen you to handle your situation, to provide temporary support so that you can regain your normal level of health and productivity, and/or to make changes in your external environment in order to make it more manageable.
 In no case should there be ethical issues concerning (…the treatment of individuals in your lab, funding, research procedures, research validity, etc) in your lab. If you know of any ethical issues in your lab (or outside of it), report it to the sources recommended by the link below: </p>
-<p>If you suspect unethical behavior or feel uncomfortable about a situation you experience, you can consult the “Conflicts and Concerns” library in order to determine 1) if the situation requires further observation, investigation, or intervention, and 2) the most direct and effective pathway(s) to do so.
+<p>If you suspect unethical behavior or feel uncomfortable about a situation you experience, you can consult the <A href="/pages/problem-identification/problem-identification.html">“Conflicts and Concerns”</A> library in order to determine 1) if the situation requires further observation, investigation, or intervention, and 2) the most direct and effective pathway(s) to do so.
  </p>
