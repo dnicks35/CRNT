@@ -152,7 +152,7 @@ keywords: concern, conflict
                 </p>
             </div>
         </div>
-    </div>
+
     <!-- /.panel -->
     <div class="panel panel-default">
         <div class="panel-heading">
