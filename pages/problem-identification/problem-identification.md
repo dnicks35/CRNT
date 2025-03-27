@@ -35,7 +35,7 @@ keywords: concern, conflict
         </div>
         <div id="student_status" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                    <p class="answer">Losing an advisor: WE HAVE UPDATED
+                    <p class="answer">Losing an advisor: WE HAVE UPDATED AGAIN
                     <ul>
                         <li>Advisor is leaving GT for another position (concern) </li>
                         <li>Advisor didn't get tenure (concern)</li>
@@ -51,13 +51,17 @@ keywords: concern, conflict
                             </div>
                             <div id="testing_nested_tabs" class="panel-collapse collapse noCrossRef">
                                 <div class="panel-body">
-                                    <p class="answer">TEST HERE
+                                    <p class="answer">TEST HERE Please show up
                                         </p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- /.panel -->
+                    <script>
+                        if(location.hash !== null && location.hash !== "")
+                        $(location.hash + ".collapse").collapse("show");
+                    </script>
                 <p class="answer">Switching advisors
                 <ul>
                     <li>with support from their current advisor (concern)</li>
