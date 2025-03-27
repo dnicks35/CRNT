@@ -42,7 +42,7 @@ keywords: concern, conflict
                         <li>Advisor terminates student's membership in lab or warns that it may be terminated (conflict)</li>
                         </ul>
                                     </p>
-                    <div class="panel-group" id="problems">
+                    <div class="panel-group" id="test_nest">
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h4 class="panel-title">
