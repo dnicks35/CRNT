@@ -19,7 +19,7 @@ keywords: concern, conflict
             <div class="panel-body">
                     <p class="answer">Fellowship or grant ending (concern)
                                     </p>
-                <p class="answer">Advisor withdrawing funding support <b><A href="https://catalog.gatech.edu/academics/graduate/expectations/">w(conflict).</A></b>
+                <p class="answer">Advisor withdrawing funding support <b><A href="https://catalog.gatech.edu/academics/graduate/expectations/">(conflict).</A></b>
                 </p>
                 <p class="answer"> Due to unsatisfactory academic performance (see below)
                 </p>
