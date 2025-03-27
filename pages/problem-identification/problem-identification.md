@@ -46,7 +46,7 @@ keywords: concern, conflict
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h4 class="panel-title">
-                                    <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#problems" href="#losing_funding" aria-expanded="false">Test Nest</a>
+                                    <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#problems" href="#testing_nested_tabs" aria-expanded="false">Test Nest</a>
                                 </h4>
                             </div>
                             <div id="testing_nested_tabs" class="panel-collapse collapse noCrossRef">
@@ -58,10 +58,6 @@ keywords: concern, conflict
                         </div>
                     </div>
                     <!-- /.panel -->
-                    <script>
-                        if(location.hash !== null && location.hash !== "")
-                        $(location.hash + ".collapse").collapse("show");
-                    </script>
                 <p class="answer">Switching advisors
                 <ul>
                     <li>with support from their current advisor (concern)</li>
