@@ -49,7 +49,7 @@ keywords: concern, conflict
                                     <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#problems" href="#student_status_losingadvisor" aria-expanded="false">Losing an advisor:</a>
                                 </h4>
                             </div>
-                            <div id="testing_nested_tabs" class="panel-collapse collapse noCrossRef">
+                            <div id="student_status_losingadvisor" class="panel-collapse collapse noCrossRef">
                                 <div class="panel-body">
                                     <p class="answer">
                                         <ul>
