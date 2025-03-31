@@ -35,14 +35,7 @@ keywords: concern, conflict
         </div>
         <div id="student_status" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                <p class="answer">Losing an advisor: Trying again
-                <ul>
-                        <li>Advisor is leaving GT for another position (concern) </li>
-                        <li>Advisor didn't get tenure (concern)</li>
-                        <li>Advisor terminates student's membership in lab or warns that it may be terminated (conflict)</li>
-                </ul>
-                            </p>
-                    <div class="panel-group" id="test_nest">
+                    <div class="panel-group" id="student_status_losingadvisor">
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h4 class="panel-title">
