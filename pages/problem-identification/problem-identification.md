@@ -58,7 +58,6 @@ keywords: concern, conflict
                         </div>
                     </div>
                     <!-- /.panel -->
-
                 <p class="answer">Switching advisors
                 <ul>
                     <li>with support from their current advisor (concern)</li>
