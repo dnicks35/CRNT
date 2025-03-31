@@ -35,23 +35,28 @@ keywords: concern, conflict
         </div>
         <div id="student_status" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                    <p class="answer">Losing an advisor: Trying again
-                    <ul>
+                <p class="answer">Losing an advisor: Trying again
+                <ul>
                         <li>Advisor is leaving GT for another position (concern) </li>
                         <li>Advisor didn't get tenure (concern)</li>
                         <li>Advisor terminates student's membership in lab or warns that it may be terminated (conflict)</li>
-                        </ul>
-                                    </p>
+                </ul>
+                            </p>
                     <div class="panel-group" id="test_nest">
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h4 class="panel-title">
-                                    <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#problems" href="#testing_nested_tabs" aria-expanded="false">Test Nest</a>
+                                    <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#problems" href="#student_status_losingadvisor" aria-expanded="false">Losing an advisor:</a>
                                 </h4>
                             </div>
                             <div id="testing_nested_tabs" class="panel-collapse collapse noCrossRef">
                                 <div class="panel-body">
-                                    <p class="answer">TEST HERE Please show up
+                                    <p class="answer">
+                                        <ul>
+                                            <li>Advisor is leaving GT for another position (concern) </li>
+                                            <li>Advisor didn't get tenure (concern)</li>
+                                            <li>Advisor terminates student's membership in lab or warns that it may be terminated (conflict)</li>
+                                        </ul>
                                         </p>
                                 </div>
                             </div>
