@@ -35,7 +35,7 @@ keywords: concern, conflict
         </div>
         <div id="student_status" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                    <p class="answer">Losing an advisor:
+                    <p class="answer">Losing an advisor: Trying again
                     <ul>
                         <li>Advisor is leaving GT for another position (concern) </li>
                         <li>Advisor didn't get tenure (concern)</li>
@@ -58,10 +58,7 @@ keywords: concern, conflict
                         </div>
                     </div>
                     <!-- /.panel -->
-                    <script>
-                        if(location.hash !== null && location.hash !== "")
-                            $(location.hash + ".collapse").collapse("show");
-                    </script>
+
                 <p class="answer">Switching advisors
                 <ul>
                     <li>with support from their current advisor (concern)</li>
