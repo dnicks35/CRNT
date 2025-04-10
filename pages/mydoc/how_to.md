@@ -28,3 +28,12 @@ folder: mydoc
  </p>
 
  <p>For more information on what EthicsPoint is and an overview of what to expect from Georgia Tech's standard conflict resolution process, go to <A href="https://www.derek-nichols.com/CRNT/resolution_process.html">Georgia Tech's Conflict Resolution Process</A>.</p>
+
+<hr \>
+<h3>A note from other grad students:</h3>
+<p> <i>We who have designed this tool are aware that there may be many obstacles to resolution of an issue. Diagnosis of whether there is an issue and what resources there are to resolving it are two steps we hope we can assist with via this online tool. We also know that problems rarely arise in such isolation that they can be neatly solved without other, potentially detrimental impacts on other aspects of lab or student experience. Furthermore, our experience shows us that imperfect humans are the implementers of the systems that are designed for our protection, and that those systems have sometimes-conflicting goals of protecting both the students and the university. For this reason, we would like to provide anonymized information about previous student outcomes, including A) preparation strategies and information needed in order to make a report, B) probable initial outcome, C) timeline to reach the initial outcome, and D) escalation procedures if the initial outcome was unsatisfactory. We hope that providing not only outcomes but timelines will provide essential planning information for students who find themselves in potentially hazardous situations, and will encourage other students to attempt early resolution of mild situations rather than waiting until problems become severe. </i> </p>
+
+<p>
+This is intended to be a living document; we appreciate your assistance in reporting on the outcomes and timelines of your own experiences to better inform future grad students on how to navigate their own conflict resolution paths.</p>
+
+<p><i>*insert disclaimer here</i></p>
