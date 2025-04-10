@@ -25,6 +25,11 @@ entries:
     output: web
     type: homepage
 
+  - title: Getting Started with the CRNT
+    url: /how_to.html
+    output: web
+    type: homepage
+
   - title: The Conflict Resolution Process at Georgia Tech
     url: /resolution_process.html
     output: web
