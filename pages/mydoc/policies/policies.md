@@ -78,7 +78,6 @@ folder: mydoc
                 <p><b>Link to Policy</b>
                 <p><a href="https://www.policylibrary.gatech.edu/faculty_handbook">https://www.policylibrary.gatech.edu/faculty_handbook</a>.</p>
                 <p>Information sourced from above link – accurate as of November 2023.</p>
-
                 <p><b>Policy Scope</b></p>
                     <p class="answer">The faculty handbook provides guidelines for faculty procedures and governance at Georgia Tech.</p>
                 <p><b>Policy Description</b></p>
