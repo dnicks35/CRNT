@@ -10,10 +10,10 @@ toc: false
 <p>&nbsp;</p>
 
 <p>
-    Welcome to the Georgia Tech Conflict Resolution Navigator Tool. The website you see was created by the ME Graduate Mental Health Committee <i>(add hyperlink here)</i> in order to streamline the resolution of common PhD student conflicts and concerns. We designed this website to be a tool for both graduate students and those who work with them. We hope that by presenting this information in a central, easy-to-navigate web tool, we can connect members of the Georgia Tech community to the resources available to them and reduce the time, confusion, and distress that conflict resolution can often involve</p>
+    Welcome to the Georgia Tech Conflict Resolution Navigator Tool. The website you see was created by the <a href="https://memhc.me.gatech.edu/">ME Graduate Mental Health Committee</a> in order to streamline the resolution of common PhD student conflicts and concerns. We designed this website to be a tool for both graduate students and those who work with them. We hope that by presenting this information in a central, easy-to-navigate web tool, we can connect members of the Georgia Tech community to the resources available to them and reduce the time, confusion, and distress that conflict resolution can often involve.</p>
 
 <p>
-    While our focus in this phase is on issues experienced by graduate students (more specifically, PhD students), we hope that the Conflict Resolution Navigator Tool can be someday expanded to include problems experienced by other parties at Georgia Tech. If you have feedback or information for us, please send it via the provided form. If you like our work and would like to get in touch with us, please see <i>(insert hyperlink here? Or just use the normal feedback form? We could have a separate Contact Us page where we let people know how to make their own websites, get involved with the ME MHC, or donate to Woodruff Strong).</i>
+    While our focus in this phase is on issues experienced by graduate students (more specifically, PhD students), we hope that the Conflict Resolution Navigator Tool can be someday expanded to include problems experienced by other parties at Georgia Tech. If you have feedback or information for us, please send it via the <a href="feedback" class="btn btn-primary"> provided form</a>. If you like our work and would like to get in touch with us, please see our group website, <a href = "https://memhc.me.gatech.edu/contact-us/">here</a>. We welcome any who would like to get involved with the ME MHC, create your own website modeled after this one, or donate to GT's Woodruff Strong Campaign.
 </p>
 <p>
     Thank you for contributing to our efforts to streamline conflict resolution at Georgia Tech.
@@ -75,7 +75,7 @@ toc: false
 
 <p>&nbsp;</p>
 
-<p align="right"> This website was last updated Jan 14, 2025. </p>
+<p align="right"> This website was last updated May 7, 2025. </p>
 
 
 
