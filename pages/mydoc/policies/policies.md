@@ -88,6 +88,7 @@ folder: mydoc
                     <li><a href="https://www.policylibrary.gatech.edu/faculty-handbook/4.7-student-complaints-and-grievances-against-faculty-member">Section 4.7 (Student Complaints and Grievances Against a Faculty)</a> contains procedures for submitting, resolving, and officially recording complaints against a faculty member. </li>
                     <li><a href="https://www.policylibrary.gatech.edu/faculty-handbook/5.7-policy-responding-allegations-scientific-or-other-scholarly-misconduct">Section 5.7 (Policy for Responding to Allegations of Scientific or Other Scholarly Misconduct)</a> contains procedures for handling allegations of research-related ethics violations. </li>
                     </ul>
+                    <p class="answer"></p>
             </div>
         </div>
     </div>
