@@ -75,20 +75,16 @@ folder: mydoc
         </div>
         <div id="faculty_handbook" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                <p><b>Summary</b></p>
-                    <p class="answer">The faculty handbook provides guidelines for faculty procedures and governance at GT. Although the handbook describes some policies, the handbook content is not itself an enforceable policy except for certain highlighted parts. It carries little weight in formal investigations. There is little that can be used as leverage in conflicts with faculty. Most importantly, Section 4.7 contains procedures for submitting, resolving, and officially recording complaints.</p>
+                <p><a href="https://www.policylibrary.gatech.edu/faculty_handbook">https://www.policylibrary.gatech.edu/faculty_handbook</a>.</p>
+                <p>Information sourced from above link – accurate as of November 2023.</p>
+
+                <p><b>Policy Scope</b></p>
+                    <p class="answer">The faculty handbook provides guidelines for faculty procedures and governance at Georgia Tech.</p>
                 <p><b>Policy Description</b></p>
-                    <p class="answer">The faculty handbook contains general guidelines and official policies. "Certain parts of the Handbook designated as Statutes of the Institute are deemed to be core principles, policies, and procedures essential to orderly conduct of Faculty business and the maintenance of high educational standards.  Such Sections are shaded in gold."</p>
-                    <p class="answer">The most relevant section is 4.7 Student Complaints and Grievances Against a Faculty Member. It reads as follows:
-                        <ul> 
-                            <li>"Students' complaints or grievances related to other issues should be made in writing to the appropriate administrator such as School Director, Department Head or Provost and Executive Vice-President for Academic Affairs. However, in the case of an oral complaint, the administrator should make written notes about the nature of the complaint. Appropriate measures shall be taken to safeguard the student from retaliatory action.</li>
-                            <li>The administrator promptly shall discuss the complaint with the faculty member to determine if it has merit. If the complaint is determined to have merit, it may be made a part of the personnel file of the faculty member only after discussion with the faculty member. However, the faculty member shall be given the opportunity to make his or her own written comments/rebuttal to the complaint. Such written comments by the faculty member shall be attached to the administrator's report in the personnel file.</li>
-                            <li>Note: Accumulation of complaints without discussing them with the appropriate faculty member in order to use them as justification for lack of promotion or lack of salary improvement at a later time, is not permissible.</li>
-                            <li>If the complaint is determined to have merit, then a plan of action to correct the cause of the complaint shall be worked out jointly between the administrator and the faculty member. Check points for a review of the situation are to be established at that time. A copy of the written plan shall be shared with the faculty member and a record of these actions shall be maintained in the personnel file of the faculty member.</li>
-                            <li>If the faculty member is not satisfied with the plan of action proposed for the resolution of the student complaint, the faculty member may present the grievance to the Faculty Status and Grievance Committee.</li>
-                            <li>The administrator shall inform the student of the resolution of the complaint.  If the student is not satisfied, the student may go to the next higher administrative level for review. (Assistance regarding procedures may be obtained from the Vice President of Student Life.)"</li>
-                        </ul>
-                    </p>
+                    <p class="answer">Sets out the principles, policies, and procedures relevant to the functions of the Faculty of the Georgia Institute of Technology </p>
+                    <p class="answer">Includes provisions for the academic life of Students of the Institute (i.e. this policy addresses the instructor/student relationship, as opposed to the advisor/advisee relationship). </p>   
+                    <p class="answer"><a href="https://www.policylibrary.gatech.edu/faculty-handbook/4.7-student-complaints-and-grievances-against-faculty-member">Section 4.7 (Student Complaints and Grievances Against a Faculty)</a> contains procedures for submitting, resolving, and officially recording complaints against a faculty member. </p>
+                    <p class="answer"><a href="https://www.policylibrary.gatech.edu/faculty-handbook/5.7-policy-responding-allegations-scientific-or-other-scholarly-misconduct">Section 5.7 (Policy for Responding to Allegations of Scientific or Other Scholarly Misconduct)</a> contains procedures for handling allegations of research-related ethics violations. </p>
             </div>
         </div>
     </div>
