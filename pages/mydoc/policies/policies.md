@@ -75,9 +75,9 @@ folder: mydoc
         </div>
         <div id="faculty_handbook" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                <p><b>Where can I find this policy?</b>
+                <p><b>Where can I find this policy?</b></p>
                 <p><a href="https://www.policylibrary.gatech.edu/faculty_handbook">https://www.policylibrary.gatech.edu/faculty_handbook</a>.</p>
-                <p>Information sourced from above link – accurate as of November 2023.</p>
+                <p><i>Information sourced from above link – accurate as of November 2023.</i></p>
                 <p><b>Policy Scope</b></p>
                     <p class="answer">The faculty handbook provides guidelines for faculty procedures and governance at Georgia Tech.</p>
                 <p><b>Policy Description</b></p>
