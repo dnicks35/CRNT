@@ -75,7 +75,7 @@ folder: mydoc
         </div>
         <div id="faculty_handbook" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                <p><b>Link to Policy</b>
+                <p><b>Where can I find this policy?</b>
                 <p><a href="https://www.policylibrary.gatech.edu/faculty_handbook">https://www.policylibrary.gatech.edu/faculty_handbook</a>.</p>
                 <p>Information sourced from above link – accurate as of November 2023.</p>
                 <p><b>Policy Scope</b></p>
@@ -88,8 +88,7 @@ folder: mydoc
                     <li><a href="https://www.policylibrary.gatech.edu/faculty-handbook/5.7-policy-responding-allegations-scientific-or-other-scholarly-misconduct">Section 5.7 (Policy for Responding to Allegations of Scientific or Other Scholarly Misconduct)</a> contains procedures for handling allegations of research-related ethics violations. </li>
                     </ul>
                 <p><b>Where do I report a violation of this policy?</b></p>
-                    <p class="answer">You can report concerns about violations of this policy through <a href="https://secure.ethicspoint.com/domain/media/en/gui/7508/index.html">Ethicspoint</a>, the appropriate link on the Provost's <a href="https://provost.gatech.edu/reporting-units/advocacy">Conflict Resolution and Advocacy</a> website, or any of the normal reporting channels found on the page relevant to your conflict. </p>
-                </div>
+                    <p class="answer">You can report concerns about violations of this policy through <a href="https://secure.ethicspoint.com/domain/media/en/gui/7508/index.html">Ethicspoint</a>, the appropriate link on the Provost's <a href="https://provost.gatech.edu/reporting-units/advocacy">Conflict Resolution and Advocacy</a> website, or any of the provided reporting channels found on the page relevant to your conflict. </p>
             </div>
         </div>
     </div>
