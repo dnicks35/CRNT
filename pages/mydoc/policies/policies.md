@@ -83,12 +83,13 @@ folder: mydoc
                 <p><b>Policy Description</b></p>
                     <p class="answer">Sets out the principles, policies, and procedures relevant to the functions of the Faculty of the Georgia Institute of Technology. </p>
                     <ul>
-                    <li>Includes provisions for the academic life of Students of the Institute (i.e. this policy addresses the instructor/student relationship, as opposed to the advisor/advisee relationship). </li>   
-                    <li><a href="https://www.policylibrary.gatech.edu/faculty-handbook/4.7-student-complaints-and-grievances-against-faculty-member">Section 4.7 (Student Complaints and Grievances Against a Faculty)</a> contains procedures for submitting, resolving, and officially recording complaints against a faculty member. </li>
-                    <li><a href="https://www.policylibrary.gatech.edu/faculty-handbook/5.7-policy-responding-allegations-scientific-or-other-scholarly-misconduct">Section 5.7 (Policy for Responding to Allegations of Scientific or Other Scholarly Misconduct)</a> contains procedures for handling allegations of research-related ethics violations. </li>
+                        <li>Includes provisions for the academic life of Students of the Institute (i.e. this policy addresses the instructor/student relationship, as opposed to the advisor/advisee relationship). </li>   
+                        <li><a href="https://www.policylibrary.gatech.edu/faculty-handbook/4.7-student-complaints-and-grievances-against-faculty-member">Section 4.7 (Student Complaints and Grievances Against a Faculty)</a> contains procedures for submitting, resolving, and officially recording complaints against a faculty member. </li>
+                        <li><a href="https://www.policylibrary.gatech.edu/faculty-handbook/5.7-policy-responding-allegations-scientific-or-other-scholarly-misconduct">Section 5.7 (Policy for Responding to Allegations of Scientific or Other Scholarly Misconduct)</a> contains procedures for handling allegations of research-related ethics violations. </li>
                     </ul>
                 <p><b>Where do I report a violation of this policy?</b></p>
                     <p class="answer">You can report concerns about violations of this policy through <a href="https://secure.ethicspoint.com/domain/media/en/gui/7508/index.html">Ethicspoint</a>, the appropriate link on the Provost's <a href="https://provost.gatech.edu/reporting-units/advocacy">Conflict Resolution and Advocacy</a> website, or any of the provided reporting channels found on the page relevant to your conflict. </p>
+                    <p class="answer"></p>
             </div>
         </div>
     </div>
