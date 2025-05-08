@@ -11,6 +11,13 @@ folder: mydoc
 
 <p> This page was generously contributed by the <a href ="https://provost.gatech.edu/reporting-units/advocacy">Assistant Vice Provost for Conflict Resolution</a>.Rough draft was provided by the ME MHC. </p>
 
+<p>First order of business: did the situation occur in the graduate student's role as student or employee?</p>
+<ul>
+<li>The first order of business is to determine whether the situation applies to a graduate student who is acting in their student or employee role. There are policies that apply to employees, and policies that apply to students, and graduate students fall into both categories. Determining whether and which policies apply in a given situation is the first hurdle, and may affect which office/policy you appeal to. (If you can determine this  yourself, you may be able to save yourself from thrashing between departments or offices.)</li>
+
+<li> To be an "employee" of Georgia Tech means that you're on a GT payroll. Unfortunately, this may mean that fellowship students do not fall into the employee category, and thus do not have the protections associated with employee-related policies. <i>(Is there anything special about GRA positions? I know fellowships are outside of GT's payroll, but are there grants that can result in this situation as well?)</i></li>
+</ul>
+
 
 <p>Describe the criteria for which GT will initiate disciplinary action (a policy, code, or legal violation) vs the situations which GT will respond to via mediated discussions or warnings:</p>
 <ul>
