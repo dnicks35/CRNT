@@ -312,11 +312,19 @@ folder: mydoc
         </div>
         <div id="student_code_of_conduct" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                <p><b>Summary</b></p>
-                    <p class="answer">The code of conduct contains a huge list of rules regarding student behavior. It is enforced by the Office of Student Integrity. Student sexual misbehavior is covered instead by the Sexual Misconduct Policy. The policy is enforced by the Office of Student Integrity.</p>
+                <p><b>Where can I find this policy?</b></p>
+                <p><a href="https://policylibrary.gatech.edu/student-life/student-code-conduct">https://policylibrary.gatech.edu/student-life/student-code-conduct</a></p>
+                <p><i>Information sourced from above link – accurate as of November 2023.</i></p>
+                <p><b>Policy Scope</b></p>
+                    <p class="answer">The code outlines prohibited conduct by students of the Institute, both academic and non-academic, and sets the steps of due process. </p>
                 <p><b>Policy Description</b></p>
-                    <p class="answer">The Code educates all members of the Georgia Tech Community about the Institute's expectations and Students' rights and creates a standard by which Students are expected to conduct themselves for the purpose of establishing an environment conducive to academic excellence. Georgia Tech Students, Registered Student Organizations, and Groups are responsible for their own behavior, and the Institute has the authority to establish an internal structure for the enforcement of its policies and procedures, the terms of which students have agreed to accept by their enrollment.</p>
-                    <p class="answer">The Code is not written with the specificity of a criminal statute and should not be confused with criminal law. Institute conduct proceedings are not restricted by the rules of evidence governing criminal and civil proceedings. Students may be charged under multiple sections of the Student Code of Conduct (Non-Academic Misconduct, the Academic Misconduct) based upon the same conduct. Students may be held accountable both to civil or criminal authorities and the Institute for acts that constitute violations of law and the Policy. Proceedings under this Policy may be carried out prior to, simultaneously with, or following civil or criminal proceedings. Students who reside in Institute housing are subject to Housing policies and procedures in addition to this Code.</p>
+                    <p class="answer">Sets out the principles, policies, and procedures relevant to the functions of the Faculty of the Georgia Institute of Technology. </p>
+                    <ul>
+                        <li>Non-Academic misconduct includes: illegal drug and alcohol violations, assault, disorderly conduct, trespassing, theft, hazing, harassment, discrimination, etc.  </li>   
+                        <li>Academic misconduct includes: cheating, plagiarism, forgery, unauthorized use of materials.</li>
+                    </ul>
+                <p><b>Where do I report a violation of this policy?</b></p>
+                <p class="answer"> Follow the link here and choose whether your concern is related to academic or non-academic issues: <a href="https://osi.gatech.edu/">https://osi.gatech.edu/</a> </p>
             </div>
         </div>
     </div>
