@@ -25,6 +25,11 @@ Where possible, align your interests with that of your advisor: </li>
 </ul>
 <p>If you have healthy patterns of communication with your advisor (i.e. regular, respectful), that can make difficult conversations easier, but that doesn't mean they will always be easy. Advisors have a lot of power over a student's PhD experience, and many students would rather leave frustrations unspoken rather than risk creating an uncomfortable relationship with someone whom they will need to continue working with for the next many years / someone who has the authority to delay or block their dissertation milestones/degree, and someone who acts as a bridge/network to many potential future career options. Here are some ways to reframe this conversation so that it comes across as you being proactive, professional, and polite:</p>
  <p>{INSERT INFORMATION HERE}</p>
+ <!--<p>Helpful advice gathered from other universities <i>(Please contact them and request permission to use their material)</i>:</p> 
+ <ul>
+ <li><a href="https://executive.berkeley.edu/thought-leadership/blog/how-have-difficult-conversations">https://executive.berkeley.edu/thought-leadership/blog/how-have-difficult-conversations</a></li>
+ <li><a href="https://hr.utexas.edu/current/services/difficult-conversations-supervisor">https://hr.utexas.edu/current/services/difficult-conversations-supervisor</a></li>
+ </ul>-->
 <p>If you don't have regular communication with your advisor, here are additional things to consider:</p>
   <p>{INSERT INFORMATION HERE}</p>
 If you don't have respectful communication with your advisor, here are additional things to consider:
