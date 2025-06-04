@@ -44,7 +44,7 @@ keywords: concern, conflict
                             </div>
                             <div id="student_status_losingadvisor" class="panel-collapse collapse noCrossRef">
                                 <div class="panel-body">
-                                    <p class="answer">
+                                    <p class="answer"> Losing an Advisor
                                         <ul>
                                             <li>Advisor is leaving GT for another position (concern) </li>
                                             <li>Advisor didn't get tenure (concern)</li>
