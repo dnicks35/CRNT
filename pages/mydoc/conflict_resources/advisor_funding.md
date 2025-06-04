@@ -11,8 +11,8 @@ folder: mydoc
 <h4>Threating Funding</h4>
 <p>Advisor threatens to fire you, cut your funding, drop your GTA/GRA, etc.</p>
 
-<p><b>Chain of Command for Conflict Resolution</b></p>
-                   <p For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
+<p><b>Chain of Command for Conflict Resolution:</b> For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
+<p><b>Advisor Threatens to Pull Funding</b></p>
                     <ol type="1">
                              <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
                              <li><a href="department_chair.html">Department Chair</a></li>
@@ -35,35 +35,3 @@ folder: mydoc
                              <li><a href="https://policylibrary.gatech.edu/employment/provisional-employment-probationary-period">GT 8.51 Provisional Employment (Probationary Period)</a></li>
                              <li><a href="https://policylibrary.gatech.edu/employment/workplace-violence">GT 5.2 Workplace Violence Policy</a></li>
                     </ul>
-
-
-<script>
-    if(location.hash !== null && location.hash !== "")
-    {
-        var url = location.hash.endsWith("-1") ? location.hash.substring(0, location.hash.length-2) : location.hash;
-        $(url + ".collapse").collapse("show");
-        var doc = document.getElementById(url.replace("#", "")).parentElement.parentElement;
-        let position = doc.getBoundingClientRect();
-        setTimeout(function () {
-            window.scrollTo(position.left, position.top + window.scrollY - 400);
-            },
-        100);
-    }
-
-    $(window).on("click", function(e) {
-        if(e.target.className.trim() == 'panel-title')
-        {
-            navigator.clipboard.writeText(e.target.childNodes[1].href);
-            if(e.target.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
-                e.target.parentElement.parentElement.nextElementSibling.click();
-        }
-
-        else if(e.target.className.trim() == 'anchorjs-link')
-        {
-            console.log(e);
-            navigator.clipboard.writeText(e.target.href);
-            if(e.target.parentElement.parentElement.parentElement.nextElementSibling.classList.contains("collapsed"))
-                e.target.parentElement.parentElement.parentElement.nextElementSibling.click();
-        }
-    });
-</script>
