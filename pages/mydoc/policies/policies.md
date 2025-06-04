@@ -318,7 +318,6 @@ folder: mydoc
                 <p><b>Policy Scope</b></p>
                     <p class="answer">The code outlines prohibited conduct by students of the Institute, both academic and non-academic, and sets the steps of due process. </p>
                 <p><b>Policy Description</b></p>
-                    <p class="answer">Sets out the principles, policies, and procedures relevant to the functions of the Faculty of the Georgia Institute of Technology. </p>
                     <ul>
                         <li>Non-Academic misconduct includes: illegal drug and alcohol violations, assault, disorderly conduct, trespassing, theft, hazing, harassment, discrimination, etc.  </li>   
                         <li>Academic misconduct includes: cheating, plagiarism, forgery, unauthorized use of materials.</li>
