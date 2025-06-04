@@ -364,7 +364,7 @@ folder: mydoc
                     </ul>
                     <p> <b>Note:</b> While USG Policy 8.2.18 Personnel Conduct pertains to all <i>employees</i> of USG, the USG Ethics Policy governs official conduct performed by or on behalf of the USG. </p>
                 <p><b>Where do I report a violation of this policy?</b></p>
-                <p class="answer"> You can report concerns about violations of this policy through <a href="https://secure.ethicspoint.com/domain/media/en/gui/7508/index.html">Ethicspoint</a>, the appropriate link on the Provost's <a href="https://provost.gatech.edu/reporting-units/advocacy">Conflict Resolution and Advocacy</a> website, or any of the provided reporting channels found on the page relevant to your conflict. </p> </p>
+                <p class="answer"> You can report concerns about violations of this policy through <a href="https://secure.ethicspoint.com/domain/media/en/gui/7508/index.html">Ethicspoint</a>, the appropriate link on the Provost's <a href="https://provost.gatech.edu/reporting-units/advocacy">Conflict Resolution and Advocacy</a> website, or any of the provided reporting channels found on the page relevant to your conflict. </p>
             </div>
         </div>
     </div>
