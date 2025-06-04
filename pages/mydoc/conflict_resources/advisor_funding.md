@@ -8,19 +8,11 @@ keywords: intimidating, threatening, unreasonable, retaliation, review
 toc: false
 folder: mydoc
 ---
-    <div class="panel panel-default">
-    <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#threatening-funding" aria-expanded="false">
-        <div class="panel-heading" style="background-color:#f5f5f5;">
-            <h4 class="panel-title">
-                Threatening Funding
-            </h4>
-        </div>
-        </a>
-        <div id="threatening-funding" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-		<p>Advisor threatens to fire you, cut your funding, drop your GTA/GRA, etc.</p>
-                <p><b>Chain of Command for Conflict Resolution</b></p>
-                   <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
+<h4>Threating Funding</h4>
+<p>Advisor threatens to fire you, cut your funding, drop your GTA/GRA, etc.</p>
+
+<p><b>Chain of Command for Conflict Resolution</b></p>
+                   <p For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
                     <ol type="1">
                              <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
                              <li><a href="department_chair.html">Department Chair</a></li>
@@ -36,225 +28,14 @@ folder: mydoc
                              <li><a href="hr.html">Human Resources</a></li>
                     </ol>
                 <p><b>Relevant Policies</b></p>
-                    <p class="answer">There are many different sources of laws, policies, and codes of conduct that might apply to you as a graduate student (half employee/half student). Unfortunately GT does not have a centralized location for all their policies making them particularly hard to find. Furthermore, the university administration in place to help you resolve your conflict are not necessarily aware of relevant university or USG policies that might apply to your conflict and are almost certainly not trained in policy interpretation. Therefore, it can be important for you to know your rights and the policies in place to protect you prior to seeking administrative support resolving a conflict. The following policies have been identified as relevant to your case:</p>
+                    <p>There are many different sources of laws, policies, and codes of conduct that might apply to you as a graduate student (half employee/half student). Unfortunately GT does not have a centralized location for all their policies making them particularly hard to find. Furthermore, the university administration in place to help you resolve your conflict are not necessarily aware of relevant university or USG policies that might apply to your conflict and are almost certainly not trained in policy interpretation. Therefore, it can be important for you to know your rights and the policies in place to protect you prior to seeking administrative support resolving a conflict. The following policies have been identified as relevant to your case:</p>
                     <ul>
                              <li><a href="https://policylibrary.gatech.edu/employment/termination-procedures">GT 12.9 Termination Procedures</a></li>
                              <li><a href="https://policylibrary.gatech.edu/employment/progressive-discipline">GT 5.13 Progressive Discipline</a></li>
                              <li><a href="https://policylibrary.gatech.edu/employment/provisional-employment-probationary-period">GT 8.51 Provisional Employment (Probationary Period)</a></li>
                              <li><a href="https://policylibrary.gatech.edu/employment/workplace-violence">GT 5.2 Workplace Violence Policy</a></li>
                     </ul>
-            </div>
-        </div>
-    </div>
-    <!-- /.panel -->
-    <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#unreasonable-requests" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Unreasonable Requests
-                </h4>
-            </div>
-        </a>
-        <div id="unreasonable-requests" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-		<p>Advisor requests/expects you to do things that are unreasonable, unsafe, unrealistic, etc.</p>
-                <p><b>Chain of Command for Conflict Resolution</b></p>
-                   <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
-                    <ol type="1">
-                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
-                             <li><a href="department_chair.html">Department Chair</a></li>
-                             <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
-                             <li><a href="dean_students.html">Dean of Students</a></li>
-                             <li><a href="ethicspoint.html">EthicsPoint</a></li>
-                             <li><a href="dean_of_college.html">College Dean</a></li>
-                             <li><a href="vice_provost_graduate_education.html">Vice Provost for Graduate and Postdoctoral Education</a></li>
-                    </ol>
-                <p><b>Alternate Chain of Command</b></p>
-                    <ol type="1">
-                             <li><a href="ehs.html">EH&S</a></li>
-                             <li><a href="rcr.html">Responsible Conduct of Research</a></li>
-                             <li><a href="thesis_committee.html">Thesis Committee</a></li>
-                    </ol>
-                <p><b>Relevant Policies</b></p>
-                    <p class="answer">There are many different sources of laws, policies, and codes of conduct that might apply to you as a graduate student (half employee/half student). Unfortunately GT does not have a centralized location for all their policies making them particularly hard to find. Furthermore, the university administration in place to help you resolve your conflict are not necessarily aware of relevant university or USG policies that might apply to your conflict and are almost certainly not trained in policy interpretation. Therefore, it can be important for you to know your rights and the policies in place to protect you prior to seeking administrative support resolving a conflict. The following policies have been identified as relevant to your case:</p>
-                    <ul>
-                             <li><a href="https://www.usg.edu/policymanual/section6/C2654">USG 6.6 Non-Discrimination and Anti-Harassment</a></li>
-                    </ul>
-            </div>
-        </div>
-    </div>
-    <!-- /.panel -->
-    <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#retaliation-for-complaining-against-advisor" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Retaliation for complaining against advisor
-                </h4>
-            </div>
-        </a>
-        <div id="retaliation-for-complaining-against-advisor" class="panel-collapse collapse">
-            <div class="panel-body">
-		<p>Advisor retaliates after you make a complaint about his/her actions. Examples could include withdrawing a paper from a conference, giving you less time for meetings, etc.</p>
-                <p><b>Chain of Command for Conflict Resolution</b></p>
-                   <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
-                    <ol type="1">
-                             <li><a href="hr.html">Human Resources</a></li>
-                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
-                             <li><a href="department_chair.html">Department Chair</a></li>
-                             <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
-                             <li><a href="dean_students.html">Dean of Students</a></li>
-                             <li><a href="ethicspoint.html">EthicsPoint</a></li>
-                             <li><a href="dean_of_college.html">College Dean</a></li>
-                             <li><a href="vice_provost_graduate_education.html">Vice Provost for Graduate and Postdoctoral Education</a></li>
-                    </ol>
-                <p><b>Alternate Chain of Command</b></p>
-                    <ol type="1">
-                             <li><a href="ombudsmen.html">Ombudsmen</a></li>
-                    </ol>
-                <p><b>Relevant Policies</b></p>
-                    <p class="answer">There are many different sources of laws, policies, and codes of conduct that might apply to you as a graduate student (half employee/half student). Unfortunately GT does not have a centralized location for all their policies making them particularly hard to find. Furthermore, the university administration in place to help you resolve your conflict are not necessarily aware of relevant university or USG policies that might apply to your conflict and are almost certainly not trained in policy interpretation. Therefore, it can be important for you to know your rights and the policies in place to protect you prior to seeking administrative support resolving a conflict. The following policies have been identified as relevant to your case:</p>
-                    <ul>
-                             <li><a href="https://policylibrary.gatech.edu/employment/non-retaliation-policy">GT Non-Retaliation Policy</a></li>
-                    </ul>
-            </div>
-        </div>
-    </div>
-    <!-- /.panel -->
-    <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#blind-siding-students-with-a-poor-review" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    "Blind siding" students with a poor review
-                </h4>
-            </div>
-        </a>
-        <div id="blind-siding-students-with-a-poor-review" class="panel-collapse collapse">
-            <div class="panel-body">
-		<p>Advisor gives you a poor review on research credits for the semester with no warning or indication as to why you've earned such a review.</p>
-                <p><b>Chain of Command for Conflict Resolution</b></p>
-                   <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
-                    <ol type="1">
-                             <li><a href="research_advisor.html">Advisor</a></li>
-                             <li><a href="ombudsmen.html">Ombudsmen</a></li>
-                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
-                             <li><a href="department_chair.html">Department Chair</a></li>
-                    </ol>
-                <p><b>Alternate Chain of Command</b></p>
-                    <ol type="1">
-                             <li><a href="rcr.html">Responsible Conduct of Research</a></li>
-                    </ol>
-                <p><b>Relevant Policies</b></p>
-                    <p class="answer">There are many different sources of laws, policies, and codes of conduct that might apply to you as a graduate student (half employee/half student). Unfortunately GT does not have a centralized location for all their policies making them particularly hard to find. Furthermore, the university administration in place to help you resolve your conflict are not necessarily aware of relevant university or USG policies that might apply to your conflict and are almost certainly not trained in policy interpretation. Therefore, it can be important for you to know your rights and the policies in place to protect you prior to seeking administrative support resolving a conflict. The following policies have been identified as relevant to your case:</p>
-                    <ul>
-                             <li><a href="https://provost.gatech.edu/reporting-units/conflict-resolution-ombuds/academic-grievance-policy">GT Academic Grievance Policy</a></li>
-                    </ul>
-            </div>
-        </div>
-    </div>
-    <!-- /.panel -->
-    <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#negative-consequences-of-a-poor-review-from-an-advisor" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Negative consequences of a poor review from an advisor
-                </h4>
-            </div>
-        </a>
-        <div id="negative-consequences-of-a-poor-review-from-an-advisor" class="panel-collapse collapse">
-            <div class="panel-body">
-		<p>Advisor gives you a poor review for research credits for the semester resulting in academic probation or other negative consequences.</p>
-                <p><b>Chain of Command for Conflict Resolution</b></p>
-                   <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
-                    <ol type="1">
-                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
-                             <li><a href="department_chair.html">Department Chair</a></li>
-                             <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
-                             <li><a href="dean_students.html">Dean of Students</a></li>
-                             <li><a href="ethicspoint.html">EthicsPoint</a></li>
-                             <li><a href="dean_of_college.html">College Dean</a></li>
-                             <li><a href="vice_provost_graduate_education.html">Vice Provost for Graduate and Postdoctoral Education</a></li>
-                    </ol>
-                <p><b>Alternate Chain of Command</b></p>
-                    <ol type="1">
-                             <li><a href="hr.html">Human Resources</a></li>
-                             <li><a href="ombudsmen.html">Ombudsmen</a></li>
-                    </ol>
-                <p><b>Relevant Policies</b></p>
-                    <p class="answer">There are many different sources of laws, policies, and codes of conduct that might apply to you as a graduate student (half employee/half student). Unfortunately GT does not have a centralized location for all their policies making them particularly hard to find. Furthermore, the university administration in place to help you resolve your conflict are not necessarily aware of relevant university or USG policies that might apply to your conflict and are almost certainly not trained in policy interpretation. Therefore, it can be important for you to know your rights and the policies in place to protect you prior to seeking administrative support resolving a conflict. The following policies have been identified as relevant to your case:</p>
-                    <ul>
-                             <li><a href="https://provost.gatech.edu/reporting-units/conflict-resolution-ombuds/academic-grievance-policy">GT Academic Grievance Policy</a></li>
-                    </ul>
-            </div>
-        </div>
-    </div>
-    <!-- /.panel -->
-    <div class="panel panel-default">
-        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#disagreements-about-authorship-inclusion-or-order" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Disagreements about authorship inclusion or order
-                </h4>
-            </div>
-        </a>
-        <div id="disagreements-about-authorship-inclusion-or-order" class="panel-collapse collapse">
-            <div class="panel-body">
-		<p>You and your advisor disagree on whether you belong on a paper and/or in what order your contributions should appear in the author order.</p>
-                <p><b>Chain of Command for Conflict Resolution</b></p>
-                   <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
-                    <ol type="1">
-                             <li><a href="rcr.html">Responsible Conduct of Research</a></li>
-                             <li><a href="research_advisor.html">Advisor</a></li>
-                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
-                             <li><a href="department_chair.html">Department Chair</a></li>
-                             <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
-                             <li><a href="dean_students.html">Dean of Students</a></li>
-                             <li><a href="ethicspoint.html">EthicsPoint</a></li>
-                             <li><a href="dean_of_college.html">College Dean</a></li>
-                             <li><a href="vice_provost_graduate_education.html">Vice Provost for Graduate and Postdoctoral Education</a></li>
-                    </ol>
-                <p><b>Relevant Policies</b></p>
-                    <p class="answer">There are many different sources of laws, policies, and codes of conduct that might apply to you as a graduate student (half employee/half student). Unfortunately GT does not have a centralized location for all their policies making them particularly hard to find. Furthermore, the university administration in place to help you resolve your conflict are not necessarily aware of relevant university or USG policies that might apply to your conflict and are almost certainly not trained in policy interpretation. Therefore, it can be important for you to know your rights and the policies in place to protect you prior to seeking administrative support resolving a conflict. The following policies have been identified as relevant to your case:</p>
-                    <ul>
-                             <li><a href="https://policylibrary.gatech.edu/research/responsible-conduct-research-compliance-policy">GT Responsible Conduct of Research Compliance Policy</a></li>
-                    </ul>
-            </div>
-        </div>
-    </div>
-    <!-- /.panel -->
-    <div class="panel panel-default">
-        <a class="accordion-toggle" data-toggle="collapse" data-parent="#my-advisors-actions" href="#misappropriating-credit-for-work-to-another-student-or-post-doc" aria-expanded="false">
-            <div class="panel-heading" style="background-color:#f5f5f5;">
-                <h4 class="panel-title">
-                    Misappropriating credit for work to another student or post-doc
-                </h4>
-            </div>
-        </a>
-        <div id="misappropriating-credit-for-work-to-another-student-or-post-doc" class="panel-collapse collapse">
-            <div class="panel-body">
-		<p>Your work or contributions are not cited in a paper/conference and credit is instead given to others in the lab.</p>
-                <p><b>Chain of Command for Conflict Resolution</b></p>
-                   <p class="answer">For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
-                    <ol type="1">
-                             <li><a href="rcr.html">Responsible Conduct of Research</a></li>
-                             <li><a href="research_advisor.html">Advisor</a></li>
-                             <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
-                             <li><a href="department_chair.html">Department Chair</a></li>
-                             <li><a href="vice_provost_conflict_resolution.html">Assistant VP for Conflict Resolution</a></li>
-                             <li><a href="dean_students.html">Dean of Students</a></li>
-                             <li><a href="ethicspoint.html">EthicsPoint</a></li>
-                             <li><a href="dean_of_college.html">College Dean</a></li>
-                             <li><a href="vice_provost_graduate_education.html">Vice Provost for Graduate and Postdoctoral Education</a></li>
-                    </ol>
-                <p><b>Relevant Policies</b></p>
-                    <p class="answer">There are many different sources of laws, policies, and codes of conduct that might apply to you as a graduate student (half employee/half student). Unfortunately GT does not have a centralized location for all their policies making them particularly hard to find. Furthermore, the university administration in place to help you resolve your conflict are not necessarily aware of relevant university or USG policies that might apply to your conflict and are almost certainly not trained in policy interpretation. Therefore, it can be important for you to know your rights and the policies in place to protect you prior to seeking administrative support resolving a conflict. The following policies have been identified as relevant to your case:</p>
-                    <ul>
-                             <li><a href="https://policylibrary.gatech.edu/research/responsible-conduct-research-compliance-policy">GT Responsible Conduct of Research Compliance Policy</a></li>
-                    </ul>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- /.panel-group -->
+
 
 <script>
     if(location.hash !== null && location.hash !== "")
