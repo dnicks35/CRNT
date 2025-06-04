@@ -337,8 +337,24 @@ folder: mydoc
         </div>
         <div id="title_ix" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
+                <p><b>Where can I find this policy?</b></p>
+                <p><a href="https://hr.gatech.edu/resources/employee-relations/title-IX">https://hr.gatech.edu/resources/employee-relations/title-IX</a>
+                <p><i>Information sourced from above link – accurate as of November 2023.</i></p>
+                <p><b>Policy Scope</b></p>
+                    <p class="answer">Title IX is a federal law that prohibits institutions that receive federal funding from practicing gender discrimination in educational programs or activities.  </p>
                 <p><b>Policy Description</b></p>
-                    <p class="answer">Title IX is a federal law, not a GT policy. Title IX prohibits institutions that receive federal funding from practicing gender discrimination in educational programs or activities. There are no specific Title IX policies at GT, but several policies cover Title IX issues, such as Sexual Misconduct Policy, USG Policy to Prohibit Discrimination and Harassment, Equal Opportunity, Nondiscrimination, and Anti-Harassment Policy, Retaliation Policy, Student Code of Conduct, and Employee Code of Conduct. The Title IX Office is trained to handle the special cases of these policies when they specifically relate to gender-based discrimination.</p>
+                    <p class="answer"> </p>
+                    <ul>
+                        <li>Title IX is a federal law, not a GT policy. </li>
+                        <li>There are no specific Title IX policies at GT, but several policies cover Title IX issues, such as Sexual Misconduct Policy, USG Policy to Prohibit Discrimination and Harassment, Equal Opportunity, Nondiscrimination, and Anti-Harassment Policy, Retaliation Policy, Student Code of Conduct, and Employee Code of Conduct. </li>
+                        <li>The Title IX Office is trained to handle the special cases of these policies when they specifically relate to gender-based discrimination. </li>
+                        <li>The case may be dismissed if it did not occur through a Georgia Tech program or activity. </li>
+                    </ul>
+                    <p> <b>Note:</b> While USG Policy 8.2.18 Personnel Conduct pertains to all <i>employees</i> of USG, the USG Ethics Policy governs official conduct performed by or on behalf of the USG. </p>
+                <p><b>Where do I report a violation of this policy?</b></p>
+                    <p class="answer"> Complaints should be directed to the Title IX Coordinator at TitleIX@gatech.edu. </p>
+                    <p>Note that Title IX complaints must be provided in writing, non-anonymously, in order to be investigated. (If you report a Title IX issue anonymously via <a href="https://secure.ethicspoint.com/domain/media/en/gui/7508/index.html">EthicsPoint</a>, the Title IX team will send you a message clarifying if you wish to remain anonymous.)</p>
+                    <p>Conflicts that fall under the purview of Title IX legally cannot be investigated by other departments, although other aspects of the case that do not fall under Title IX can still be investigated elsewhere. If Title IX determines that it does not have purview over the case, or part of your case, they will refer [the redacted and relevant parts of] your case to the appropriate office. </p>
             </div>
         </div>
     </div>
