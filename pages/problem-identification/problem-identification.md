@@ -17,7 +17,7 @@ keywords: concern, conflict
         </div>
         <div id="losing_funding" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                    <p class="answer">Fellowship or grant ending <i><A href="https://www.derek-nichols.com/CRNT/difficult_conversations.html">(concern).</A></i>
+                    <p class="answer">Fellowship or grant ending <i><A href="https://www.derek-nichols.com/CRNT/advisor_funding.html">(concern).</A></i>
                                     </p>
                 <p class="answer">Advisor withdrawing funding support <b><A href="https://www.derek-nichols.com/CRNT/difficult_conversations.html">(conflict).</A></b>
                 </p>
