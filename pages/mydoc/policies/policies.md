@@ -324,7 +324,7 @@ folder: mydoc
                         <li>Academic misconduct includes: cheating, plagiarism, forgery, unauthorized use of materials.</li>
                     </ul>
                 <p><b>Where do I report a violation of this policy?</b></p>
-                <p class="answer"> Follow the link here and choose whether your concern is related to academic or non-academic issues: <a href="https://osi.gatech.edu/">https://osi.gatech.edu/</a> </p>
+                <p class="answer"> Follow the link here, and choose whether your concern is related to academic or non-academic issues: <a href="https://osi.gatech.edu/">https://osi.gatech.edu/</a> </p>
             </div>
         </div>
     </div>
@@ -351,6 +351,19 @@ folder: mydoc
         </div>
         <div id="usg_code_of_conduct" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
+                <p><b>Where can I find this policy?</b></p>
+                <p><a href="https://www.usg.edu/policymanual/section8/C224/#p8.2.18_personnel_conduct">https://www.usg.edu/policymanual/section8/C224/#p8.2.18_personnel_conduct</a></p>
+                <p><i>Information sourced from above link – accurate as of November 2023.</i></p>
+                <p><b>Policy Scope</b></p>
+                    <p class="answer">The USG Policy 8.2.18 Personnel Conduct pertains to all employees of USG institutions and provides general conduct guidelines.  </p>
+                <p><b>Policy Description</b></p>
+                    <p class="answer">Some of the main points include: treat students with dignity and respect, refrain from discriminating against or harassing others, and comply with all rules and professional standards.  </p>
+                    <ul>
+                        <li>Non-Academic misconduct includes: illegal drug and alcohol violations, assault, disorderly conduct, trespassing, theft, hazing, harassment, discrimination, etc.  </li>   
+                        <li>Academic misconduct includes: cheating, plagiarism, forgery, unauthorized use of materials.</li>
+                    </ul>
+                <p><b>Where do I report a violation of this policy?</b></p>
+                <p class="answer"> Follow the link here and choose whether your concern is related to academic or non-academic issues: <a href="https://osi.gatech.edu/">https://osi.gatech.edu/</a> </p>
                 <p><b>Summary</b></p>
                     <p class="answer">The USG Policy 8.2.18 Personnel Conduct pertains to all employees of USG institutions and provides general conduct guidelines. Some of these include: treat students with dignity and respect, refrain from discriminating against or harassing others, and comply with all rules and professional standards. Although broad, this policy is vague and basically unenforceable. By the time you have a strong case here, you will have a better chance leveraging a more specific GT policy.</p>
                 <p><b>Policy Description</b></p>
