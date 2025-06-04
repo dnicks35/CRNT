@@ -357,41 +357,14 @@ folder: mydoc
                 <p><b>Policy Scope</b></p>
                     <p class="answer">The USG Policy 8.2.18 Personnel Conduct pertains to all employees of USG institutions and provides general conduct guidelines.  </p>
                 <p><b>Policy Description</b></p>
-                    <p class="answer">Some of the main points include: treat students with dignity and respect, refrain from discriminating against or harassing others, and comply with all rules and professional standards.  </p>
+                    <p class="answer">Some of the main points/requirements of this policy include: to treat students with dignity and respect, refrain from discriminating against or harassing others, and comply with all rules and professional standards.  </p>
                     <ul>
                         <li>Non-Academic misconduct includes: illegal drug and alcohol violations, assault, disorderly conduct, trespassing, theft, hazing, harassment, discrimination, etc.  </li>   
                         <li>Academic misconduct includes: cheating, plagiarism, forgery, unauthorized use of materials.</li>
                     </ul>
+                    <p> <b>Note:</b> While USG Policy 8.2.18 Personnel Conduct pertains to all <i>employees</i> of USG, the USG Ethics Policy governs official conduct performed by or on behalf of the USG. </p>
                 <p><b>Where do I report a violation of this policy?</b></p>
-                <p class="answer"> Follow the link here and choose whether your concern is related to academic or non-academic issues: <a href="https://osi.gatech.edu/">https://osi.gatech.edu/</a> </p>
-                <p><b>Summary</b></p>
-                    <p class="answer">The USG Policy 8.2.18 Personnel Conduct pertains to all employees of USG institutions and provides general conduct guidelines. Some of these include: treat students with dignity and respect, refrain from discriminating against or harassing others, and comply with all rules and professional standards. Although broad, this policy is vague and basically unenforceable. By the time you have a strong case here, you will have a better chance leveraging a more specific GT policy.</p>
-                <p><b>Policy Description</b></p>
-                    <p class="answer">The USG Ethics Policy applies to all members of the USG community, which includes:</p>
-                        <ol>
-                            <li>All members of the Board of Regents;</li>
-                            <li>All individuals employed by, or acting on behalf of, the USG or one of the USG institutions, including volunteers, vendors, and contractors; and,</li>
-                            <li>Members of the governing boards and employees of all cooperative organizations affiliated with the USG or one of its institutions.</li>
-                        </ol>
-                    <p class="answer">Members of the Board of Regents and all individuals employed by the USG or one of its institutions in any capacity shall participate in USG Ethics Policy training, and shall certify compliance with the USG Ethics Policy on a periodic basis, as provided in the USG Business Procedures Manual.</p>
-                    <p class="answer">We will:</p>
-                        <ol>
-                            <li>Uphold the highest standards of intellectual honesty and integrity in the conduct of teaching, research, service, and grants administration.</li>
-                            <li>Act as good stewards of the resources and information entrusted to our care.</li>
-                            <li>Perform assigned duties and professional responsibilities in such a manner so as to further the USG mission.</li>
-                            <li>Treat fellow employees, students, and the public with dignity and respect.</li>
-                            <li>Refrain from discriminating against, harassing, or threatening others.</li>
-                            <li>Comply with all applicable laws, rules, regulations, and professional standards.</li>
-                            <li>Respect the intellectual property rights of others.</li>
-                            <li>Avoid improper political activities as defined in law and Board of Regents Policy.</li>
-                            <li>Protect human health and safety and the environment in all USG operations and activities.</li>
-                            <li>Report wrongdoing to the proper authorities, refrain from retaliating against those who do report violations, and cooperate fully with authorized investigations.</li>
-                            <li>Disclose and avoid improper conflicts of interest.</li>
-                            <li>Refrain from accepting any gift or thing of value in those instances prohibited by law or Board of Regents' policy.</li>
-                            <li>Not use our position or authority improperly to advance the interests of a friend or relative.</li>
-                        </ol>
-                    <p class="answer">"The Statement of Core Values and Code of Conduct do not address every conceivable situation or ethical dilemma that may be faced by members of the USG community. Members of the USG community are expected to exercise good judgment absent specific guidance from this policy or other applicable laws, rules, regulations, and Board of Regents' policies and procedures."</p>
-                    <p class="answer">A violation of any Personnel Conduct policy may subject an employee to disciplinary action, including termination of employment.</p>
+                <p class="answer"> You can report concerns about violations of this policy through <a href="https://secure.ethicspoint.com/domain/media/en/gui/7508/index.html">Ethicspoint</a>, the appropriate link on the Provost's <a href="https://provost.gatech.edu/reporting-units/advocacy">Conflict Resolution and Advocacy</a> website, or any of the provided reporting channels found on the page relevant to your conflict. </p> </p>
             </div>
         </div>
     </div>
