@@ -13,6 +13,7 @@ folder: mydoc
 
 <p><b>Chain of Command for Conflict Resolution:</b> For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
 <p><b>Advisor Threatens to Pull Funding</b></p>
+<p>
                     <ol type="1">
                              <li><a href="associate_chair.html">Department Associate Chair for Graduate Studies</a></li>
                              <li><a href="department_chair.html">Department Chair</a></li>
@@ -21,7 +22,7 @@ folder: mydoc
                              <li><a href="ethicspoint.html">EthicsPoint</a></li>
                              <li><a href="dean_of_college.html">College Dean</a></li>
                              <li><a href="vice_provost_graduate_education.html">Vice Provost for Graduate and Postdoctoral Education</a></li>
-                    </ol>
+                    </ol></p>
                 <p><b>Alternate Chain of Command</b></p>
                     <ol type="1">
                              <li><a href="ombudsmen.html">Ombudsmen</a></li>
