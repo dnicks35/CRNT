@@ -294,12 +294,15 @@ folder: mydoc
         </div>
         <div id="sexual_misconduct" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                <p><b>Summary</b></p>
-                    <p class="answer">This policy specifically covers sexual misconduct <b>by students</b>. This policy prohibits actions such as sexual harassment, sexual assault, domestic violence, stalking, dating violence, intimate partner violence, sexual exploitation, and retaliation. This policy is enforced by the Title IX office. Report to any Title IX Coordinator for a formal investigation or any other Responsible Employee of GT. Report to GTPD to open a criminal investigation. This can also be reported to Confidential Employees, but they are required by law to report the incident and the date/time at which it occurred. In some cases, they must fully report the details in order to maintain campus safety. Confidential Employees will not start an investigation.</p>
+                <p><b>Where can I find this policy?</b></p>
+                <p><a href="https://policylibrary.gatech.edu/student-life/sexual-misconduct">https://policylibrary.gatech.edu/student-life/sexual-misconduct</a>
+                <p><i>Information sourced from above link – accurate as of November 2023.</i></p>
+                <p><b>Policy Scope</b></p>
+                    <p class="answer">This policy addresses the process and procedures for addressing complaints of sexual misconduct committed <i><u>by students</u></i>.  The process and procedures for claims of sexual misconduct committed by employees are addressed in the <a href="">Equal Opportunity, Nondiscrimination, and Anti-Harassment Policy</a>. </p>
                 <p><b>Policy Description</b></p>
-                    <p class="answer">"This policy addresses the process and procedures for addressing complaints of sexual misconduct committed by students.  The process and procedures for claims of sexual misconduct committed by employees are addressed in the Equal Opportunity, Nondiscrimination, and Anti-Harassment Policy issued by Human Resources and in the USG's Human Resources Administrative Practice (HRAP) Manual (Prohibit Discrimination and Harassment).</p>
-                    <p class="answer">Policy Statement: Discrimination on the basis of sex is prohibited by the Georgia Institute of Technology. This prohibition applies to students, faculty, staff, and all other members of the Institute community.</p>
-                    <p class="answer">Complaints of sexual misconduct, including but not limited to nonconsensual sexual contact, sexual harassment, stalking, intimate partner violence, dating violence, and retaliation, shall be addressed as provided in Board of Regents Policy 6.7 (Sexual Misconduct Policy) and Policy 4.6.5 (Standards for Institutional Student Conduct Investigation and Disciplinary Proceedings) of the Policy Manual of the Board of Regents of the University System of Georgia.  The Student Code of Conduct (Non-Academic Misconduct) may also apply where the Board of Regents policies are silent."</p>
+                    <p class="answer"> Complaints of sexual misconduct, including but not limited to nonconsensual sexual contact, sexual harassment, stalking, intimate partner violence, dating violence, and retaliation. </p>
+                <p><b>Where do I report a violation of this policy?</b></p>
+                    <p class="answer">Complaints involving the Sexual Misconduct Policy should be directed to the Title IX Coordinator at TitleIX@gatech.edu. Victims of sexual violence can also get campus and community resource information at VOICE, <a href="www.healthinitiatives.gatech.edu/voice">www.healthinitiatives.gatech.edu/voice</a> or by contacting a VOICE Advocate at 404-385-4464 or 404-385-4451.</p>
             </div>
         </div>
     </div>
@@ -377,9 +380,9 @@ folder: mydoc
                         <li>Non-Academic misconduct includes: illegal drug and alcohol violations, assault, disorderly conduct, trespassing, theft, hazing, harassment, discrimination, etc.  </li>   
                         <li>Academic misconduct includes: cheating, plagiarism, forgery, unauthorized use of materials.</li>
                     </ul>
-                    <p> <b>Note:</b> While USG Policy 8.2.18 Personnel Conduct pertains to all <i>employees</i> of USG, the USG Ethics Policy governs official conduct performed by or on behalf of the USG. </p>
+                    <p> <b>Note:</b> While USG Policy 8.2.18 Personnel Conduct pertains to all <i><u>employees</i> of USG, the USG Ethics Policy governs official conduct performed by or on behalf of the USG. </p>
                 <p><b>Where do I report a violation of this policy?</b></p>
-                <p class="answer"> You can report concerns about violations of this policy through <a href="https://secure.ethicspoint.com/domain/media/en/gui/7508/index.html">Ethicspoint</a>, the appropriate link on the Provost's <a href="https://provost.gatech.edu/reporting-units/advocacy">Conflict Resolution and Advocacy</a> website, or any of the provided reporting channels found on the page relevant to your conflict. </p>
+                    <p class="answer"> You can report concerns about violations of this policy through <a href="https://secure.ethicspoint.com/domain/media/en/gui/7508/index.html">Ethicspoint</a>, the appropriate link on the Provost's <a href="https://provost.gatech.edu/reporting-units/advocacy">Conflict Resolution and Advocacy</a> website, or any of the provided reporting channels found on the page relevant to your conflict. </p>
             </div>
         </div>
     </div>
