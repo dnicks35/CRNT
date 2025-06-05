@@ -23,11 +23,12 @@ folder: mydoc
                              <li><a href="vice_provost_graduate_education.html">Vice Provost for Graduate and Postdoctoral Education</a></li>
                     </ol></p>                
 <p><b>Alternate Chain of Command (Threatening to Pull Funding)</b></p>
-                    <p><ol type="1">
+<p>
+                    <ol type="1">
                              <li><a href="ombudsmen.html">Ombudsmen</a></li>
                              <li><a href="hr.html">Human Resources</a></li>
                     </ol></p>
-                <p><b>Relevant Policies</b></p>
+<p><b>Relevant Policies</b></p>
                     <p>There are many different sources of laws, policies, and codes of conduct that might apply to you as a graduate student (half employee/half student). Unfortunately GT does not have a centralized location for all their policies making them particularly hard to find. Furthermore, the university administration in place to help you resolve your conflict are not necessarily aware of relevant university or USG policies that might apply to your conflict and are almost certainly not trained in policy interpretation. Therefore, it can be important for you to know your rights and the policies in place to protect you prior to seeking administrative support resolving a conflict. The following policies have been identified as relevant to your case:</p>
                     <ul>
                              <li><a href="https://policylibrary.gatech.edu/employment/termination-procedures">GT 12.9 Termination Procedures</a></li>
