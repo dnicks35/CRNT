@@ -10,7 +10,6 @@ folder: mydoc
 ---
 <h4>Threatening Funding</h4>
 <p>Advisor threatens to fire you, cut your funding, drop your GTA/GRA, etc.</p>
-
 <p><b>Chain of Command for Conflict Resolution:</b> For almost all conflicts that you may encounter, there is no single correct point person to address your issue. You may enter the conflict-resolution process by taking your conflict to most levels of academic administration (up to the Dean's or Provost's office); however, the university "rule of thumb" is to handle conflicts at the lowest level of administration possible. The recommended path is as follows:</p>
 <p><b>Advisor Threatens to Pull Funding</b></p>
 <p>
