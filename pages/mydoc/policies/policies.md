@@ -70,6 +70,39 @@ folder: mydoc
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#equal_opportunity" aria-expanded="false">Equal Opportunity, Non-Discrimination, and Anti-Harassment Policy</a>
+            </h4>
+        </div>
+        <div id="equal_opportunity" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <p><b>Where can I find this policy?</b></p>
+                <p>Georgia Tech Policy: <a href="https://www.policylibrary.gatech.edu/employment/equal-opportunity-nondiscrimination-and-anti-harassment-policy">https://www.policylibrary.gatech.edu/employment/equal-opportunity-nondiscrimination-and-anti-harassment-policy</a>.</p>
+                <p>USG Policy: <a href="https://www.usg.edu/policymanual/section6/C2654">https://www.usg.edu/policymanual/section6/C2654</a>.</p>
+                <p><i>Information sourced from above link – accurate as of November 2023.</i></p>
+                <p><b>Policy Scope</b></p>
+                    <p class="answer">Policy to ensure all faculty, staff, students, and all other members of the Georgia Tech community are provided equal opportunity while protected from discrimination and harassment from others in the Georgia Tech community.</p>
+                <p><b>Policy Description</b></p>
+                    <ul>
+                        <li>Policy prohibiting discrimination on the basis of race, ethnicity, ancestry, color, religion, sex (including pregnancy), sexual orientation, gender identity, gender expression, national origin, age, disability, genetics, or veteran status in its programs, activities, employment, and admissions. </li>
+                        <li>Prohibits citizenship status, immigration status, and national origin discrimination in hiring, firing, and recruitment, except where such restrictions are required in order to comply with law. </li>
+                        <li>This policy outlines the process for reporting, investigating, and resolving claims of discrimination, including discriminatory harassment, and retaliation. </li>
+                    </ul>
+                <p><b>Where do I report a violation of this policy?</b></p>
+                    <p class="answer">Complaints involving discrimination and/or retaliation against: </p>
+                    <ul>
+                        <li><b>Non-faculty employees</b> should be filed with Georgia Tech Human Resources Employee Relations or (404-894-4847). </li>
+                        <li><b>A faculty member </b> should be filed with the Assistant Vice Provost for Advocacy and Conflict Resolution in the Office of the Provost. </li>
+                        <li><b>A student</b> should be filed with the Office of the Dean of Students or by filing an incident report with the Office of Student Integrity. </li>
+                    </ul>
+                    <p>Complaints involving the Americans with Disabilities Act (ADA) or 504 should be directed to the ADA Coordinator at adacompliance@gatech.edu. </p>
+                    <p>Complaints involving the Sexual Misconduct Policy should be directed to the Title IX Coordinator at TitleIX@gatech.edu. Victims of sexual violence can also get campus and community resource information at VOICE, <a href="www.healthinitiatives.gatech.edu/voice">www.healthinitiatives.gatech.edu/voice</a> or by contacting a VOICE Advocate at 404-385-4464 or 404-385-4451. </p>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#policies" href="#faculty_handbook" aria-expanded="false">Faculty Handbook</a>
             </h4>
         </div>
